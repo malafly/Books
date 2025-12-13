@@ -1,0 +1,119 @@
+title: A Potion Guide
+author: Rumaan
+pages:
+#- 
+
+      A Potion Guide
+         2/20/13
+#- Awkward Potion
+(0:00)
+
+Brewing Stand:
+Bottle of Water
+Nether Wart
+
+Effect:
+None
+#- Potion of Night Vision
+(3:00)
+
+Brewing Stand:
+Awkward Potion
+Golden Carrot
+
+Effect:
+Increases brightness and ability to see underwater greatly.
+#- Potion of Invisibility
+(3:00)
+
+Brewing Stand:
+Awkward Potion
+Golden Carrot
+Fermented Spider Eye
+
+Effect:
+Causes player model to disappear. Armor increases visibility.
+#- Pot of Fire Resistance
+(3:00)
+
+Brewing Stand:
+Awkward Potion
+Magma Cream
+
+Effect:
+Makes the player immune to fire and lava.
+#- Potion of Slowness
+(1:30)
+
+Brewing Stand:
+Awkward Potion
+Magma Cream or Sugar
+Fermented Spider Eye
+
+Effect:
+Contracts FOV and decreases walking speed by 15% per level of strength.
+#- Potion of Swiftness
+(3:00)
+
+Brewing Stand:
+Awkward Potion
+Sugar
+
+Effect:
+Expands FOV and increases walking speed by 20% per level of strength.
+#- Potion of Healing
+(0:00) (ooo)
+
+Brewing Stand:
+Awkward Potion
+Glistering Melon
+
+Effect:
+Instantly heals. Damages undead mobs.
+#- Potion of Harming
+(0:00) (ooo)
+
+Brewing Stand:
+Awkward Potion
+Glistering Melon or Spider Eye
+Fermented Spider Eye
+
+Effect:
+Instantly damages. Heals undead mobs.
+#- Potion of Poison
+(0:45)
+
+Brewing Stand:
+Awkward Potion
+Spider Eye
+
+Effect:
+Does damage over time, but will not reduce health below 1/2 a heart.
+#- Potion of Regeneration
+(0:45)
+
+Brewing Stand:
+Awkward Potion
+Ghast Tear
+
+Effect:
+Causes health to regenerate over time.
+#- Potion of Strength
+(3:00)
+
+Brewing Stand:
+Awkward Potion
+Blaze Powder
+
+Effect:
+Increases damage dealt with melee attacks by 3 per strength lvl.
+#- Potion of Weakness
+(1:30)
+
+Brewing Stand:
+Water Bottle
+Fermented Spider Eye
+
+Effect:
+Lowers attack power by 2 per strength lvl.
+#- 

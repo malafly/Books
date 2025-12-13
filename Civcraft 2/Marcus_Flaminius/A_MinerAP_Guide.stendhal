@@ -1,0 +1,131 @@
+title: A MinerAP Guide
+author: Marcus_Flaminius
+pages:
+#- ----------------------------------------------------------------------------------------------------------------------A GUIDE TO-----
+-----MINERAP------------------------------------------------------------------------------------------------------
+#- 
+
+
+
+
+
+      In Memory of
+       Gull's Nest
+#- Introduction:
+So, first of all, welcome to MinerAP! This server is unlike any other, and I'm sure that during your stay here you'll forge countless friendships, rivalries, and most importantly, fond memories. However, as I just said, MinerAp is no
+#- ordinary Minecraft server. There's no starting package, no global chat, no PMs, no /home commands or any of that. It's just a bare bones survival server focused on the unpredictable nature of our fellow man. Often I've spoken to my friends about how
+#- MinerAp resembles a social experiment of sorts. You'll see how the average person chooses to interact with their environment/peers in a world with of little real life consequence. But, I digress. MinerAp is, hands down, the best Minecraft server to ever
+#- be made. But if you want to succeed in our little microsm, there's some things you should know first.
+
+---STARTING OUT----
+So! You've just spawned. It's cold, it's dark, and you're awfully naked. And why is that, you may wonder? MinerAp has
+#- no central spawning hub. It just plops you down somewhere in the world randomly. This serves to increase the difficulty of survival, which is the focus of Minecraft, and it keeps you away from unsavory characters that may do you harm in your first hours.
+#- Unless you've spawned next to someone's (usually abandoned) farm, you're gonna need to live off the land of Minecraft like you've probably never had to before. So.. get to it, champ!
+
+
+First, I recommend fashioning yourself
+#- some tools out of stone (the basic stuff), and hunting spiders. Spiders will drop string, which can be used to make a fishing rod. Obviously, you should be collecting seeds too, but making a farm takes a lot of time and effort. You'd need 6 bonemeal to
+#- grow 3 wheat instantly. Hunting mobs isn't much better either, as cows and pigs become rare very quickly as people hunt them to near extinction early on in each map.
+
+Additionally, string can be fashioned into wool, so you'll
+#- be that much closer to getting a bed set up too. Besides, who doesn't like fish?
+
+If you're a strict vegetarian.. Hm. Well, as I've said, it's possible to get your wheat up quickly, just a little more difficult. If hunting skeletons isn't your game, go
+#- searching for an old farm. Walk, don't run. Walking is much better for your hunger bar over a long distance. If you're close enough, maybe even go to "Origin". That's the point on the map with coordinates (0,0). There's usually some food there lying
+#- around. Not gourmet stuff, but it'll fill you up.
+
+Sidenote: If you didn't know what I meant by "coordinates", don't panic, I'll explain it later. Just know it's a way of navigating built into Minecraft.
+
+So! Now you should
+#- have a full stomach, and possibly a bed/base! Good job! Speaking of bases, let's move onto that topic.
+
+=-=-=-=-=-=-=-=-=-=LOCATION.. LOCATION,,
+LOCATION!
+-=-=-=-=-=-=-=-=-=-
+Hold on there partner! Don't just build a
+#- little wood house in the middle of an open field just yet! In MinerAp, there's no rules against griefing or raiding, so when it comes to choosing a place to store all your loot, you're gonna wanna put some thought into it.
+
+Allow me to stress
+#- the fact that if you choose to build on the surface, beneath the stars and warm sun.. You WILL get griefed/raided. Buildings on the surface are easily accessible, and easily spotted (especially at night, due to the light from torches and such). The server
+#- is always online, and you're not. Eventually, someone.. unsavory.. will stumble by your house and either tear it down to the ground or take all your stuff.
+Sidenote: It's important not to let 'griefing' cause you actual grief. Theirs is a legitimate
+#- style of play.
+
+So, if you're looking for immediate security, I'd suggest an underground base, somewhere between bedrock and the surface. (Preferably underwater, but that's not completely necessary.) The sweet spot is somewhere
+#- above diamond level (y=8-12). Around y=40ish should be fine. This is because at the lower levels of the map, people are constantly 'strip mining' for diamonds. This refers to the practice of mining in a straight line (or several lines), basically ignoring
+#- cave systems and just grinding through the earth for it's goodies. Building too low ensures that people will eventually crash into your base looking for diamonds. Also remember, chests and such make noise. Loud noise. You'll wanna build low enough so
+#- that people walking above you can't hear you. There's really no reason for anyone to extensively explore that level of the earth, so you should be relatively safe. Note, relatively. Things happen.
+
+But Zades, you say,
+#- I don't wanna have to dig up from my base all the time! What a hassle! Well, you don't have to! MinerAp utilizes the 'unstuck' command, a command which, when the player is 'stuck' will automatically move them up to nearest open space. It'll save you from
+#- being smothered by sand and such. However, that's rarely what the command is actually used for. It can be used to make a teleportation elevator up to the surface. You'll still need to figure out a safe way down into your base, but you can unstuck out of
+#- it. You make such an elevator like this:
+|R
+|
+|R This is a profile of the device. Where the lines are blocks (3 in total) and the top R is an upside down staircase and the bottom R is a right side up staircase.
+#- Bases are much easier to hide when it's just yourself living in them, there's less traffic to and fro for bad guys to notice. However, nobody likes to live completely alone forever. The majority of the fun from MinerAp comes from interacting with people!
+#- But before we move onto towns, let me make one last note about base security. Never, ever, ever, mine from your base. I'm no master burglar, but I've found more than enough bases by following mines/stripmines (usually stripmines) straight back to their
+#- owner's bases. Just don't do it, you're literally increasing the chances of your base being spotted by essentially making it larger and larger with your mine. Don't be lazy, make a mine a little ways away and you'll never have to worry about your goodies.
+#- ===================  SETTING UP A TOWN..
+===================
+So! You've got food, materials, and a nice little hermit-home. But, you still yearn for something more.. Human interaction! You figure you'll rouse the other hermits in the area and go about
+#- making a town! Huzzah!
+
+Towns are where MinerAp shines in my eyes. Hanging out with friends, meeting travellers passing by, building cool stuff, etc. Townlife is really worth at least trying once! And trust me, even if you don't build, you can still
+#- hang out in a town with your builder and non-builder pals.
+
+The same general rules of security that apply to single-person bases apply to towns. Underground is always better, yadda yadda yadda. However, I'm sure you'll want a town that's at least
+#- semi-visible to travellers. After all, you want people to come by, don't you? And with 4 of your tough buddies, you can defend it from baddies, right? Well..
+
+Here's the thing, in my opinion, every town will eventually get either raided or griefed.
+#- Stuff happens. People you thought you could trust flake. A big scary enchanted diamond-clad comes marching on you one day, having overheard all of you talking in the chat. Etc. Etc.
+
+Sidenote: Never, EVER, post your town on the subreddit. There's a
+#- bit of a curse that comes along with that. Any town that posts about itself on the subreddit usually tanks within a week. Most likely because the people posting are new players, and they give out coords to anyone that messages them. That's bad. Don't do
+#- that.
+
+Having a town is a lot of responsibility, and you have to accept some risk. A bunch of people living in one area, chatting to each other, etc, is going to be noticed. You could make everyone in your town whisper, but that's a tad
+#- excessive, and you may as well just lock yourself up in an obsidian vault with your goodies at that point, because you're being overly cautious to the point you're probably not having fun any more.
+
+It's easier to just use enderchests (and
+#- back up enderchests) to store important items in case of a raiding. And use BlockSaver to protect against griefing. Oh, and getting gear to help you fight against people works too. But you can't be online all the time, right?
+
+Sidenote: Blocksaver
+#- is a plugin that allows players to imbue any block with the hardness of obsidian by left-clicking on a block with obsidian in hand.
+
+SidenoteSidenote:
+Oh, and don't go wearing your Diamond Protection IV armor everywhere. It's
+#- unneccessary and usually threatening to people. Wearing it will only make you and anyone with you a target for someone who's probably much better at PVP than you..
+
+If you don't have the technology for enderchests or
+#- obsidian, use hidden caches and separate bases to hide important goods. Fragmentation of resources will ensure you don't lose everything at once!
+However, there's no real good substitute for obsidian. So, hide your town for a bit until one of your 
+#- people
+#- has a sweet diamond pick. Remember, redstone can be turned into obsidian! I won't go into detail here, it's easy enough to find tutorials on Youtube.
+
+***********************       A QUICK
+        CONCLUSION
+**********************
+#- I think that's a good place to end for this first book. By now, you've a little town, filled with busy worker bees gathering resources. But wait.. There's other towns!? Oh gosh, what do you do? Do you attack? Do you form an alliance?
+Do you.. do nothing?
+#- (probably nothing)
+Politics are big in MinerAP, and there's a lot of customs you should get.. 'accustomed' too.
+
+Not to mention a whole bunch of other silly stuff.
+
+But, before I leave you, allow me explain
+#- coordinates. You probably know what they are, so either throw this trash out or hungrily move onto my next book at this point. See ya~!
+
+Ahem, anyone left?
+
+...One guy in the back? Alright, cool. Coordinates are
+#- Minecraft's way for you to know exactly where you are. Imagine a gridlike map formed by all the blocks on a Minecraft world. Each block has an x position, (the distance east and west from the block in the dead center of the map known as Origin or (0,0)),
+#- a y position (how high or low above the x,z plane. Don't worry about this too much for navigating. Every set of coords you'll get is going to be in (x,z)), and a z position(how far north or south from Origin). By pressing f3, you can see the coords of the
+#- block you're standing on. The numbers change as you move through the grid! Use this to figure out EXACTLY where you put that damn diamond stash! If you're like me, you'll be writing down coords of places you visit.
+Sidenote; You can also use the mod
+#- Rei's Minimap. It lets you just make markers that you can visibly see. But if you're cool, like me, you'll have a coordinates sheet.
+
+And that's it! The end of my first book! I've been on the server for a while, and I've had my falls and rises to power.
+#- It sucks the first time you log on, and everything you built is griefed. Everyone you met is either dead or scattered to the winds. It happens. But, you get better! You find your old pals, rebuild, reinforce, etc. And before you know you're right back up
+#- where you were. What I'm failing to say is, don't ragequit because one day you lost your house. MinerAp is worth sticking around, making old friends and having many adventures. And do be sure to have adventures. My guide is not a strict guidline, merely
+#- 

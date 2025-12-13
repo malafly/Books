@@ -1,0 +1,120 @@
+title: Citadel Basics
+author: SortByNode
+pages:
+#- §4§l     -·=»+«=·-§0
+§0
+§f.§0§l       Citadel§0
+§0
+§f.§0§l       Basics§0
+§0
+§0§l         -=-§0
+§0
+§f.§0            §0§oby§0
+§0
+§f..§0      random1001§0
+§0
+§4§l     -·=»+«=·-
+#- §4§l     -·=»+«=·-§0
+§0
+§0          a book§0
+§f.§0           from§0
+§0
+§0§l     Civilization§0
+§0§l     Experiment§0
+§0
+§f.§0§l         -=-§0
+§0
+§f..§0§l     First Age§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- Hi there. If you're reading this, then you have probably joined a town and been trusted enough to be added to the town's citadel group. Congratulations!§0
+§0
+§0Of course the next best step is to learn how to use Citadel.
+#- This guide will walk you through the basics of using citadel as well providing helpful tips and advice. Learning everything about citadel and other plugins can be tricky, but hang in there and eventually you'll be an old pro.
+#- Chapter 1: What is Citadel?§0
+§0
+§0Citadel is the plugin through which you can protect your builds and chests from grief and robbery. This is§0
+§0done by adding a "reinforcement" to the block you want protected.
+#- A reinforced block will have to broken many times and reappear before the block actually breaks. Depending on the reinforcement, breaking a block can take quite awhile, just long enough that the griefer might get bored or you can come to the rescue.
+#- There a 4 different reinforcements:§0
+§01. Stone - 25 breaks§0
+§02. Coal -100 breaks§0
+§03. Iron - 250 breaks§0
+§04. Diamond - 1800§0
+§0               breaks§0
+§0
+§0As list shows, the more valuable the reinforcement, the stronger it is.
+#- It might be a good idea to prioritize what needs each type of reinforcement.§0
+§0For example, you might want to use diamond for your valuables chest and stone when building your house.
+#- This way everything§0
+§0is safe and you're maximizing your reinforcement useage.
+#- Chapter 2:§0
+§0  Basic Commands§0
+§0
+§0Now that you know§0
+§0the different reinforcements, how do you apply them to your blocks? The process is really simple. You use a command to turn on reinforcements,
+#- then physically apply the reinforcements to whichever blocks you want. However, before typing in the command, make sure you§0
+§0are holding the reinforcement material in your hand so citadel knows what to use.
+#- To add a reinforcement to a block, there are§0
+§02 commands;§0
+§0/ctr and /ctf.§0
+§0
+§0/ctr allows you to hold your reinforcement material and left click any existing block to reinforce it.
+#- /ctf allows you§0
+§0to select a reinforcement material, keep it in your hotbar, and then place other blocks which will then be reinforced.
+#- Between these two, you can either reinforce as you build or reinforce what you want anytime. Remember though, you must have your reinforcement material in hand when you type the command.
+#- Now suppose you've placed a few reinforcements and decide you don't like your project. Surely you don't have to break your blocks all those times to remove them right? You would be correct.
+#- Type /ctb to turn on bypass, which allows you to break the block and get the reinforcement material back from it. The best part is, once turned on, /ctb stays on till you turn it off or log off the server.
+#- If you've read to§0
+§0this point, then WOW, you've learned all the basic commands to use citadel. There are still a good many more commands to learn, but hang in there, you're already on the way.
+#-        --==O==--§0
+§0
+§0This short guidebook is from the  lands  of CivRealms. As such,§0
+§0it is  part  of  the §8§oOtherworldly Series§0§o of books that have been acquired  from  other worlds by the Maester Alliance.§0
+§0
+§0§o        --==O==--§0
+
+#- §o    Transcribed by§0
+§0
+§0§l Maester Flaminius§0
+§0§o          at the§0
+§0§l   Amani Kingdom§0
+§0       University§0
+§0
+§0§o            on§0
+§0
+§0
+§0       April 12th§0
+§0
+§0          2015§0
+
+#- §4§l     -·=»+«=·-§0
+§0
+§0§l    Transcribed§0
+§0§l          by§0
+§0
+§f..§4§l   Maester Sort§0
+§0
+§0§l         -=-§0
+§0
+§f.§0   7th of September§0
+§0           2019§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- §4§l     -·=»+«=·-§0
+§0
+§4§l       Maester§0
+§4§l       Alliance§0
+§0
+§f.§1§l     The Pacem§0
+§f.§1§l  Historical Book§0
+§1§l       Archive§0
+§0
+§4          city of§0
+§4§l        Pacem§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- 

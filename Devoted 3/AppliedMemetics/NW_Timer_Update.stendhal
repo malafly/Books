@@ -1,0 +1,7 @@
+title: NW Timer Update
+author: AppliedMemetics
+pages:
+#- This book was created after the writer replaced the older timing system with a better one that counts to a full hour instead of the previous 40-ish minutes. The main differences are that it was upgrade to a 15-element clock (15-bit), and that it had its w
+#- clock multiplier removed and replaced with a proper decoder, In order to understand how it works, you must refer to the LFSR Handbook, as the documentation in the NW Timer book is outdated and was written when the writer did not understand the timing 
+#- system as fully as he does now.
+#- 

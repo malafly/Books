@@ -1,0 +1,188 @@
+title: XP Culdrons
+author: doncantrell
+pages:
+#- ---------------------------------------------------------A page will be dedicated for each culdron and it's "crafting recipe". Recipees for creating xp are on the following pages.§0
+§0---------------------------------------------------------
+#- Emerald Cauldron§0
+§0___________________§0
+§0                              { 192 Emerald Block }§0
+§0{ 128 Diamond }§0
+§0{ 156 Iron Ingot }§0
+§0===================Converted to Stacks§0
+§0==================={ 3 Emerald Block }§0
+§0{ 2 Diamond }§0
+§0{ 2 Iron Ingot + 28 }
+#- 84 Emrald Blocks§0
+§0-------------------- 96 Compacted Glass Bottles§0
+§0- 256 Compacted Carrots§0
+§0- 256 Compacted Sugar Cane§0
+§0- 64 Compacted Bread§0
+§0- 64 Compacted Grass Blocks§0
+§0- 64 Compacted Grass Blocks§0
+§0                 ---->
+#- - 64 Compacted Brown Mushrooms§0
+§0- 64 Compacted Brown Mushrooms§0
+§0- 32 Compacted Cocoa - 32 Compacted Melons - 16 Compacted Yellow Flower §0
+§0- 4 Compacted Oak Saplings §0
+§0- 3 Compacted Jungle Saplings §0
+§0- 6 Compacted Acacia Saplings           --->
+#- - 1 Charcoal
+#- 84 Emerald Blocks§0
+§0-------------------- 96 Compacted Glass Bottles§0
+§0- 256 Compacted Cacti§0
+§0- 192 Compacted Wheat§0
+§0- 128 Compacted Pumpkins §0
+§0- 64 Compacted Grass§0
+§0- 32 Compacted Cocoa§0
+§0- 64 Compacted Red Mushrooms§0
+§0- 8 Compacted Cooked Fish          ---->
+#- - 4 Compacted Cooked Salmon§0
+§0- 8 Compacted Red Rose§0
+§0- 5 Compacted Spruce Saplings§0
+§0- 2 Compacted Dark Oak Saplings§0
+§0- 1 Charcoal
+#- 84 Emerald Blocks §0
+§0-------------------- 96 Compacted Glass Bottles§0
+§0- 384 Compacted Cookies§0
+§0- 256 Compacted Baked Potatoes§0
+§0- 256 Compacted Sugar Cane§0
+§0- 128 Compacted Pumpkins§0
+§0- 64 Compacted Nether Warts         ---->
+#- - 64 Compacted Vines§0
+§0- 32 Compacted Melons§0
+§0- 64 Compacted Red Mushrooms§0
+§0- 16 Compacted Yellow Flower§0
+§0- 16 Compacted Grass Blocks§0
+§0- 4 Compacted Birch Saplings§0
+§0- 1 Charcoal
+#- Diamond Cauldron§0
+§0__________________§0
+§0                            { 128 Diamond }§0
+§0{ 256 Iron Ingot }§0
+§0===================Converted To Stacks§0
+§0==================={ 2 Diamond }§0
+§0{ 4 Iron Ingot }
+#- 2 Emerald Blocks§0
+§0-------------------- 256 Glass Bottles§0
+§0- 512 Carrots§0
+§0- 64 Melon Blocks§0
+§0- 64 Melon Blocks§0
+§0- 64 Cocoa§0
+§0- 128 Grass Blocks§0
+§0- 128 Bread§0
+§0- 512 Sugar Cane§0
+§0- 32 Yellow Flower§0
+§0- 8 Oak Saplings§0
+§0- 6 Jungle Saplings§0
+§0                   ---->
+#- - 12 Acacia Saplings§0
+§0- 1 Charcoal
+#- 2 Emerald Blocks§0
+§0-------------------- 256 Glass Bottles§0
+§0- 512 Cactus§0
+§0- 384 Wheat§0
+§0- 256 Pumpkins§0
+§0- 128 Grass§0
+§0- 64 Cocoa§0
+§0- 128 Red Mushrooms§0
+§0- 16 Cooked Fish§0
+§0- 16 Red Roses§0
+§0- 8 Cooked Salmon§0
+§0- 10 Spruce Saplings§0
+§0                  ---->
+#- - 4 Dark Oak Saplings§0
+§0- 1 Charcoal
+#- 2 Emerald Blocks§0
+§0-------------------- 256 Glass Bottles§0
+§0- 768 Cookies§0
+§0- 512 Baked Potatoes§0
+§0- 512 Sugar Cane§0
+§0- 32 Grass Blocks§0
+§0- 256 Pumpkins§0
+§0- 128 Nether Wart§0
+§0- 128 Vines§0
+§0- 128 Red Mushrooms§0
+§0- 64 Melon Blocks§0
+§0- 32 Yellow Flowers§0
+§0                 ---->
+#- - 8 Birch Saplings§0
+§0- 1 Charcoal
+#- Iron Cauldron§0
+§0___________________§0
+§0 §0
+§0{ 224 Iron Ingot }§0
+§0===================Converted To Stacks§0
+§0==================={ 3 Iron Ingot + 32 }
+#- 32 Exp Bottles§0
+§0-------------------- 32 Glass Bottles§0
+§0- 512 Carrots§0
+§0- 256 Cactus§0
+§0- 64 Cocoa§0
+§0- 64 Melon Blocks§0
+§0- 1 Charcoal
+#- 32 Exp Bottles§0
+§0-------------------- 32 Glass Bottles§0
+§0- 256 Wheat§0
+§0- 256 Baked Potatoes§0
+§0- 256 Sugar Cane§0
+§0- 128 Pumpkins§0
+§0- 1 Charcoal
+#- 32 Exp Bottles§0
+§0-------------------- 32 Glass Bottles§0
+§0- 512 Carrots§0
+§0- 256 Baked Potatoes§0
+§0- 256 Sugar Cane§0
+§0- 64 Melon Blocks§0
+§0- 1 Charcoal
+#- 32 Exp Bottles§0
+§0-------------------- 32 Glass Bottles§0
+§0- 256 Wheat§0
+§0- 256 Cactus§0
+§0- 64 Cocoa§0
+§0- 128 Pumpkins§0
+§0- 1 Charcoal
+#- 16 Smaragdus (Used in the production of Bations)§0
+§0-------------------- 16 Emerald Block§0
+§0- 16 Charcoal
+#- Wood Cauldron§0
+§0___________________ §0
+§0{ 1024 Stick }§0
+§0===================Converted To Stacks§0
+§0==================={ 16 Stick }
+#- 4 Exp Bottles§0
+§0-------------------- 2 Ender Pearl§0
+§0- 3 Hay Bale§0
+§0- 4 Glass Bottle§0
+§0- 40 Charcoal
+#- 4 Exp Bottles§0
+§0-------------------- 16 Ender Stone§0
+§0- 25 Nether Warts§0
+§0- 4 Glass Bottles§0
+§0- 40 Charcoal
+#- 4 Exp Bottles§0
+§0-------------------- 64 Carrots§0
+§0- 64 Soul Sand§0
+§0- 4 Glass Bottle§0
+§0- 40 Charcoal
+#- 4 Exp Bottles§0
+§0-------------------- 16 Glowstone§0
+§0- 64 Potatoes§0
+§0- 4 Glass Bottles§0
+§0- 40 Charcoal
+#- ######################################################### 
+Repair Recipees 
+
+#####################################################################################################################################
+#- Emerald Cauldron
+{ 20 Emerald Block }
+{ 20 Diamond }
+{ 30 Iron Ingot }
+#- Diamond Cauldron
+{ 10 Diamond }
+{ 30 Iron Ingot }
+#- Iron Cauldron
+{ 20 Iron Ingot }
+
+#- Wood Cauldron
+{ 103 Stick }
+#- 

@@ -1,0 +1,313 @@
+title: Littlest noteboo
+author: misnis
+pages:
+#- Mining checklist
+
+-Bucket of water
+-Cobblestone 1 stack
+-Picks
+-8 wood or 1 stack sticks
+-crafting table or 1 wood
+-Torches 1 stack +
+-Food!
+-Sword
+-Shovels
+#- Caving checklist
+
+-Picks
+-Bucket
+-Food
+-Cobblestone, 3-4 stacks
+-Torches, 1+ stack
+-Shovel
+-Stone axe
+-Crafting table
+-Wood or sticks
+#- Building checklist
+
+-All materials
+-Torches
+-Sand or dirt for scaffolding
+-Food
+-Shovel
+-Tools needed for material
+#- Exploration checklist
+
+-Food
+-Torches 1/2 stack or less
+-Blocks of dirt or cobble
+-Shovel
+-Pick
+-More food
+
+(if nether)
+
+- More blocks
+- More picks
+#- 
+#- 
+#- Alchemy table
+
+Water + nether wart =
+Awkward potion (Awd)
+
+Awd + gold carrot =
+Night vision potion
+Extended: add redstone
+
+Night vis + fermented spider eye =
+Invisibility potion
+Extended: add redstone
+#- Awd + magma cream =
+Fire resistance potion
+Extended: Add restone
+
+Fire res + Fermented spider eye =
+Potion of Slowness
+Extended: Add redstone
+
+Awd + sugar =
+Swiftness potion
+Extended: Add redstone
+Stronger: Add glowstone
+#- Awd + glistering melon =
+Healing potion
+Stronger: Add glowstone
+
+Healing + Fermented spider eye =
+Harming potion
+Stronger: Add glowstone
+
+Awd + spider eye =
+Poison
+Extended: Add redstone
+Stronger: Add glowstone
+#- Poison + Fermented spider eye =
+Harming
+
+Awd + Ghast tear =
+Regeneration potion
+Extended: Add redstone
+Stronger: Add glowstone
+
+Regen + Fermented spider eye =
+Weakness potion
+Extended: Add redstone
+#- Awd + Fermented spider eye =
+Weakness potion
+
+Awd +  Blaze powder =
+Strength potion
+Extended: Add redstone
+Stronger: Add glowstone
+
+Strength + Fermented spider eye =
+Weakness potion
+#- Unusual alchemy ingredients:
+
+Blaze powder: 
+Blaze rods
+
+Magma cream:
+Slime + blaze powder
+
+Fermented spider eye:
+Spider eye + brown mushroom + sugar
+#- Golden carrot:
+Carrot surrounded by golden nuggets
+
+Glistering melon:
+Melon + golden nugget
+#- 
+#- Fireworks and how to make them
+
+How to make a rocket:
+
+S-S-S
+ -P- 
+g-g-g
+
+g = gunpowder
+Add 1-3 gunpowder depending on how high the rocket should fly.
+#- P = single piece of paper
+
+S = at least one firework star. Add up to three for more effects.
+
+How to make firework stars
+----------------------------
+one gunpowder
+one dye of your choice
+optional: 1 shape item
+optional: 1-2 effect items
+#- Shape items
+These determine the shape of the explosion.
+
+Default (no shape item):
+Small ball shape
+
+Fire charge:
+Large ball shape
+
+Gold nugget:
+Star shape
+#- Feather:
+Burst shape
+
+Head (only wither heads if not in creative mode):
+Creeper face shape
+
+
+#- Effect items
+You can add either of these or both to make your firework extra fancy.
+
+Diamond: 
+Trail effect
+
+Glowstone dust:
+Twinkle (crackling) effect
+#- 
+
+
+
+
+
+wow, fireworks sure are hella complicated.
+#- 
+#- Redstone crafting recipes
+-----------------------------
+
+Redstone torch:
+- - -
+- R -
+- S -
+R = redstone powder
+S = stick
+
+
+#- Repeater:
+ - - -
+T R T
+O O O
+
+T = redstone torch
+O = stone
+
+Clock:
+- G -
+G R G
+- G -
+G = gold ingot
+#- Compass
+- I -
+I R I
+- I -
+I = Iron ingot
+
+Note block
+W W W
+W R W
+W W W
+W = wooden planks (any type)
+#- Powered rails:
+G - G
+G S G
+G R G
+
+Detector rails:
+I - I
+I P I
+I R I
+P = stone pressure plate
+
+#- Dispenser:
+C C C
+C B C
+C R C
+C = cobblestone
+B = bow
+
+Piston:
+W W W
+C I C
+C R C
+
+
+#- Redstone Lantern:
+- R -
+R L R
+- R -
+L = glowstone
+
+Sticky piston:
+- - -
+- M -
+- N -
+M = slimeball
+N = piston
+#- Map:
+A A A
+A D A 
+A A A
+A = paper
+D = compass
+
+
+#- 1.5 redstone items
+---------------------------
+
+Redstone comparator:
+- T -
+T Q T
+O O O
+Q = nether quartz
+
+Activator rail:
+I S I
+I T I
+I S I
+#- Redstone block:
+R R R
+R R R
+R R R
+
+Dropper:
+C C C 
+C - C
+C R C
+#- Hopper:
+I - I
+I H I
+- I -
+H = chest
+
+Hopper minecart:
+Hopper + minecart
+in any pattern
+#- Daylight sensor:
+
+K K K
+Q Q Q
+Ws Ws Ws
+K = glass
+Ws = Wooden slabs of any type
+#- Tripwire hook (yes I forgot it so sue me):
+- I -
+- S -
+- W -
+
+Trapped chest:
+Tripwire + chest in any pattern
+
+
+#- Weighted pressure plates:
+
+Light
+- - -
+G G -
+- - -
+
+Heavy
+- - -
+I I -
+- - - 
+#- 

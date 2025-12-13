@@ -1,0 +1,23 @@
+title: Lumber Mill Job
+author: Tigen
+pages:
+#- JOB:§0
+§0Collect wood from the tree farm in the north-west part of Volkstadt.§0
+§0
+§0CONTRACTOR:§0
+§0Tigen§0
+§0
+§0PAY:§0
+§01 Diamond per 230 logs.
+#- PAYMENT METHOD:§0
+§0Automated through exchange chests at the lumber mill.§0
+§0
+§0LOCATION:§0
+§0X:350§0
+§0Z:7400§0
+§0
+§0CONTRACT SOURCE:§0
+§0Volkstadt Government
+#- CONTRACT PUROPOSE:§0
+§0Collect wood for public building projects, as well as for charcoal production to provide free fuel for factories.
+#- 

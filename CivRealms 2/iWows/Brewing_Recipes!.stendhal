@@ -1,0 +1,58 @@
+title: Brewing Recipes!
+author: iWows
+pages:
+#- Fine Wheatbeer
+
+§0     ingredients: 3 wheat§r
+§0     cookingtime: 8 minutes§r
+§0     distillruns: 0§r
+§0     age: 2 years in a Oak barrel§r
+#- Fine Beer
+
+§0     ingredients: 6 wheat§r
+§0     cookingtime: 8 minutes§r
+§0     distillruns: 0§r
+§0     age: 3 years in a Spruce barrel§r
+#- Fine Darkbeer
+
+§0     ingredients: 6 Wheat§r
+§0     cookingtime: 8 minutes§r
+§0     distillruns: 0§r
+§0     age: 8 years in a Spruce barrel§r
+#- Golden Mead
+
+§0     ingredients: 6 sugarcane§r
+§0     cookingtime: 3 minutes§r
+§0     distillruns: 0§r
+§0     age: 4 years in an Oak barrel§r
+#- Sweet Golden Apple Mead
+
+§0     ingredients:  6 sugarcane, and 2 apples§r
+§0     cookingtime: 4 minutes§r
+§0     distillruns: 0§r
+§0     age: 6 years in an Oak barrel§r
+#- Golden Rum
+
+§0     ingredients: 14 Sugar Cane§r
+§0     cookingtime: 5 minutes§r
+§0     distillruns: 2§r
+§0     age: 14 years in an Oak barrel§r
+#- Strong Absinthe
+
+§0     ingredients: 15 grass§r
+§0     cookingtime: 3 minutes§r
+§0     distillruns: 6§r
+§0     age: None§r
+#- Strong Coffee
+
+§0     ingredients: 12 Cocoa Bean, 2 Milk Bucket§r
+§0     cookingtime: 2 minutes§r
+§0     distillruns: 0§r
+§0     age: None§r
+#- Coca Cola
+
+§0     ingredients: 12 Sugar, 2 Sugar Canes, 2 Cocoa Bean§r
+§0     cookingtime: 2 minutes§r
+§0     distillruns: 3§r
+§0     age: None§r
+#- 

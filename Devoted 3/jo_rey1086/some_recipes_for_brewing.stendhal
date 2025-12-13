@@ -1,0 +1,106 @@
+title: some recipes for brewing
+author: jo_rey1086
+pages:
+#- -Wheat beer§0
+§0Fine Wheatbeer§0
+§0Ingredients : 3xWheat§0
+§0Cooking time : 8 minutes§0
+§0Distill runs : 0§0
+§0Wood barrel type :§0
+§0Birch§0
+§0Age : 2 minecraft§0
+§0days/40 minutes§0
+§0
+
+#- -Beer§0
+§0Fine Beer§0
+§0Ingredients : 6xWheat§0
+§0Cooking time : 8 minutes§0
+§0Distill runs : 0§0
+§0Wood barrel type : Any§0
+§0Age: 3 minecraft§0
+§0days/60 minutes§0
+§0
+
+#- -Beer§0
+§0Darkbeer§0
+§0Ingredients : 6xWheat§0
+§0Cooking time : 8 minutes§0
+§0Distill runs : 0§0
+§0Wood barrel type :§0
+§0Spruce§0
+§0Age : 8 minecraft§0
+§0days/160 minutes§0
+§0NOTE: MUST USE SPRUCE§0
+§0BARREL§0
+
+#- -Mead§0
+§0Golden Mead§0
+§0Ingredients : 6xSugar§0
+§0Cane§0
+§0Cooking Time : 3§0
+§0minutes§0
+§0Distill runs : 0§0
+§0Wood Barrel type : Oak§0
+§0Age : 4 minecraft§0
+§0days/80 minutes§0
+
+#- -Apple Mead§0
+§0Sweet Golden Apple§0
+§0Mead§0
+§0Ingredients : 6xSugar§0
+§0Cane 2XApple§0
+§0Cooking Time : 4§0
+§0minutes§0
+§0Distill runs : 0§0
+§0Wood barrel type : Oak§0
+§0Age : 4 minecraft§0
+§0days/80 minutes§0
+§0Effects : Water§0
+§0Breathing for 150§0
+
+#- seconds§0
+
+#- -Rum§0
+§0Golden Rum§0
+§0Ingredients : 14xSugar§0
+§0Cane§0
+§0Cooking time : 5 minutes§0
+§0Distull runs : 2§0
+§0Wood Barrel type : Oak§0
+§0Age : 14 minecraft§0
+§0days/280 minutes§0
+§0Effects : Fire§0
+§0Resistance for 100§0
+§0seconds§0
+
+#- 
+§0-Vodka§0
+§0Russian Vodka§0
+§0Ingredients : 10xPoato§0
+§0Cooking time : 15§0
+§0minutes§0
+§0Distill runs : 2§0
+§0Age : 0§0
+§0Effects : Weakness for§0
+§015 seconds. Poison§0
+§0for 10 seconds§0
+
+#- -Absinthe§0
+§0Strong Absinthe§0
+§0Ingredients : 15xGrass§0
+§0Cooking Time : 3§0
+§0minutes§0
+§0Distill runs : 6§0
+§0Age : 0§0
+§0Effects : Poison for§0
+§020 seconds§0
+
+#- -Potato soup§0
+§0Ingredients : 5xPotato§0
+§03xGrass§0
+§0Cooking time : 3§0
+§0Effects : Heal 1§0
+§0
+
+#- 

@@ -1,0 +1,264 @@
+title: Brewing_Guide
+author: F_L_Wright
+pages:
+#- ___________________§0
+§0
+§0  A Guide To Brewing§0
+§0___________________§0
+§0
+§0by   F_L_Wright§0
+§0with recipes by§0
+§0      Comrade117§0
+§0
+§0and a contribution by§0
+§0      Ellsberg§0
+§0
+§0FIRST EDITION    2016
+#- Brewing is one of the most rewarding pastimes in this world. §0
+§0
+§0The resulting beverages can have varying effects, ranging from short bonus powers to intoxication modifications, and even blackout.
+#-        Basic Setup§0
+§0
+§0To start brewing these facilities are required:§0
+§0
+§0A cauldron over a fire.§0
+§0
+§0A brewing stand with glowstone dust.§0
+§0
+§0Barrels§0
+§0                       ...
+#-    ...§0
+§0
+§0Bottles§0
+§0
+§0A Bucket§0
+§0
+§0A near water source§0
+§0
+§0A clock§0
+§0
+§0A cow for milk
+#-         Cauldron§0
+§0
+§0A cauldron is easily constructed from 7 iron ingots.§0
+§0
+§0The block below must be empty and lit with flint & steel.§0
+§0
+§0A bucket of water fills it and 3 bottles empty it.
+#-      Brewing Stand§0
+§0
+§0It can be tough to get blaze rods for a brewing stand. Trade or take snowballs to hunt rare blazes.§0
+§0
+§0Glowstone dust in the top slot temporarily turns it into a still without consuming the glowstone dust.
+#-          Barrels§0
+§0
+§0They can be made from Spruce, Birch, Oak, Dark Oak, Acacia, and Jungle Wood.§0
+§0
+§08 stairs and a sign with BARREL in the first line make a small barrel. Console will confirm creating a barrel.              ...
+#-   ...§0
+§0
+§0A large barrel is made from 16 stairs, 18 planks, 5 fences, and a sign.§0
+§0
+§0The small barrel has the sign in the lower right front, the large barrel in the top center front.
+#-          Bottles§0
+§0
+§0Sand in a furnace makes glass and 3 glass make 3 bottles.§0
+§0
+§0You will need more than that.§0
+§0
+§0Also good for storing experience at an enchanting table before getting drunk!
+#-          Bucket§0
+§0
+§0Brewers only need one, but they need it all the time.§0
+§0
+§0It gets water into cauldrons.§0
+§0
+§0It gets milk from a cow.§0
+§0
+§0And when a rum party got firy, it douses.
+#-       Water Source§0
+§0
+§0Right next to the cauldrons.§0
+§0
+§0Make a 2x2 hole and fill the top left and lower right (or vice versa) corners with a source block from a bucket.§0
+§0
+§0Don't fall in when drunk. Embarrasing...
+#-           Clock§0
+§0
+§0Made from 4 gold ingots surrounding 1 redstone dust, this usually frivolous tool is essential for brewing.§0
+§0
+§0Touch it to a cauldron and the current fermentation time is shown.
+#-            Cow§0
+§0
+§0A cow is a good friend to have during long hours of work in the brewery.§0
+§0
+§0Its gentle mooing will become your mantra.§0
+§0
+§0And enough milk cures any poisoning, nausea, and slurred chat.
+#- 
+§0
+§0         the act§0
+§0
+§0       of BREWING...
+#-          Recipes§0
+§0
+§0Ingedients: What goes in the cauldron.§0
+§0
+§0Time in cauldron: # of minutes shown on clock touched to cauldron.§0
+§0
+§0Distillations: # of times the arrow has to run through BEFORE removing bottles.  ...
+#-   ...§0
+§0
+§0Aging: The type of wood barrel to use and how long to keep it in WITHOUT moving it.§0
+§0
+§0Aging counts in years which means days, i.e. 20 minutes per year.§0
+§0
+§0After a few minutes in the barrel, text color shows mistakes.    ...
+#-   ...§0
+§0
+§0Effects: Some beverages have a game effect for a certain time.
+#- 
+§0
+§0
+§0     Hot Beverages
+#-          Coffee§0
+§0
+§05 cocoa beans§0
+§01 milk§0
+§0
+§0speed 21s, regen 1s§0
+§0
+§0        Espesso§0
+§0
+§010 cocoa beans§0
+§01 milk§0
+§0
+§0speed 34s, regen 3s§0
+§0Both: 2-3m Cauldron
+#-        Strong Tea§0
+§0
+§05 leaves§0
+§01 milk§0
+§0
+§04 minutes in kettle§0
+§0
+§0
+§0Resistance 8s
+#- 
+§0
+§0
+§0        Ferments
+#-       Golden Mead§0
+§0
+§024 sugar cane§0
+§0
+§07-9m in Cauldron§0
+§0
+§02-4y (40m) in Oak
+#-          Fine Ale§0
+§0
+§09-10 wheat§0
+§0
+§07-9m in cauldron§0
+§0
+§01-4y (20m) any wood
+#-        Craft Beer§0
+§0
+§016-20 wheat§0
+§0
+§011-13m in cauldron§0
+§0
+§01.5-3y (30m) any
+#-        Epic Stout§0
+§0
+§024-25 wheat§0
+§0
+§013-15m in cauldron§0
+§0
+§04y (1h20m) Dark Oak§0
+§0
+
+#-       Brutal Stout§0
+§0
+§036 wheat§0
+§0
+§016m in cauldron§0
+§0
+§010y    UNFINISHED
+#- 
+§0
+§0
+§0       Distillates
+#-     Russian Vodka§0
+§0
+§023-25 potato§0
+§0
+§014-16m in cauldron§0
+§0
+§02-3 distillations
+#-       Pirate's Rum§0
+§0
+§028 sugar cane§0
+§0
+§010m in cauldron§0
+§0
+§01-2 distillations§0
+§0
+§014y (4h40m) Jungle§0
+§0
+§0poison 1s§0
+§0blindness 1s§0
+§0fire resistance 90s
+#-         Absynthe§0
+§0
+§015 grass§0
+§0
+§05 minutes in cauldron§0
+§0
+§05-6 distillations§0
+§0
+§0poison 30s§0
+§0blindness 4m§0
+§0nausea§0
+§0
+§02 gets one banned
+#- 
+§0
+§0
+§0
+§0    the rest of this§0
+§0    book is almost§0
+§0    empty...§0
+§0
+§0    Please contribute§0
+§0    for credit§0
+§0    and free copies§0
+§0    of future editions.
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+#- 
+§0  There is a cryptic§0
+§0  list of possible§0
+§0  ingredients at§0
+§0
+§0reddit.com/r/Devoted/wiki/brewery§0
+§0
+§0  Please experiment§0
+§0  and do /tell of any§0
+§0  results!
+#- 

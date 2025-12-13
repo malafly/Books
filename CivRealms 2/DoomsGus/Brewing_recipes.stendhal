@@ -1,0 +1,136 @@
+title: Brewing recipes
+author: DoomsGus
+pages:
+#- The Brewers' guild              recipies
+§0Beers:§r
+§0Firstly, some tips. Hops. You can grow them or buy them, I heard that they grow well in the "dead deserts" south of Kannin. There are many varieties of beers known: from a Pale Ale to a Doppel-Bock,§r
+#- there are beers for every occasion.
+§0The type of beer depends on how long you brew it. Try to avoid barrel aging the beer, it ruins it fast. Better sell or drink it soon! As this was based on the first edition of CivRealms Beers, this only has 8+1 beer§r
+#- recipies (+1 because there's an extra). Try adding a 3rd ingredient, it may result in a discovery.
+§0Anyway, on with the recipies!§r
+
+#- Pale ale:
+§0Ingredients:§r
+§07 wheat§r
+§04 hop§r
+§0Cooking time:§r
+§04 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+#- Amber ale
+§0Ingredients§r
+§012-13 wheat§r
+§04 hop§r
+§0Cooking time§r
+§05 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+#- Nut brown ale
+§0Ingredients§r
+§015 wheat§r
+§02-3 hop§r
+§0Cooking time§r
+§06 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+#- Imperial stout
+§0Ingredients§r
+§021 wheat§r
+§010 hop§r
+§0???§r
+§0Cooking time§r
+§06 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+§0NOTE: MISSING INGREDIENT§r
+#- Porter
+§0NOTE: If you fuck up the stout, you get porter§r
+§0Ingredients§r
+§018 wheat§r
+§05 hop§r
+§0Cooking time§r
+§07 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+
+#- Lager
+§0Ingredients§r
+§04 wheat§r
+§01-2 hop§r
+§0Cooking time§r
+§016 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+§0NOTE: if you cook this recipe for 12 minutes, you get Pilsner.§r
+#- Bock
+§0Ingredients§r
+§017 wheat§r
+§03 hop§r
+§0Cooking time§r
+§018 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+
+#- Doppelbock
+§0Bread in a bottle§r
+§0Ingredients§r
+§021 wheat§r
+§03 hop§r
+§0Cooking time§r
+§018 minutes§r
+§0Not barrel aged§r
+§0Not distilled§r
+#- These are all currently known recipies for beer. I'd suggest trying to experiment with sugar, apples or some other ingredients, see what happens.
+
+#- 
+
+
+§0           Part 2§r
+
+
+§0           Liquor§r
+#- Part 2 is based on the first edition of CivRealms Liquor. In this part, only the simple and efficient are present. There is a lot to making "booze" but we won't get into that here. Most ingridients are available around the world, so it adds some variation
+#- to said liquor. Timing is more forgiving than beer. There are a few ingredients that you may try to find new recipies: melon, netherberry and pumpkin, for example.
+§0Anyway, here are the recipies.§r
+#- Smooth vodka 
+§0There are 3 variations, only the ingredients differ.§r
+§0Ingredients§r
+§04 hay bales OR§r
+§018 beets OR§r
+§018 potatoes§r
+§0Cooking time§r
+§06 minutes§r
+§0Not barrel aged§r
+§0Distilled 3 times§r
+#- Apple Cider
+§0Ingredients§r
+§013 apples§r
+§0Cooking time§r
+§07 minutes§r
+§03.5-4 years of aging in a birch barrel§r
+§0Not distilled§r
+#- Tropical cachaca
+§0Ingredients§r
+§025 sugarcane§r
+§0Cooking time§r
+§012 minutes§r
+§01 year of aging in a jungle barrel§r
+§0Not distilled§r
+#- Golden rum
+§0Ingredients§r
+§018 sugar§r
+§0Cooking time§r
+§017.5 minutes§r
+§0??? years of aging in jungle barrel§r
+§0Not distilled§r
+§0Brew PAST the 17 minute mark§r
+#- Tequila
+§0Ingredients§r
+§010 cacti§r
+§0Cooking time §r
+§020 minutes§r
+§0Aging in jungle barrel is optional.§r
+§0Distilled 2 times§r
+#- As this is the first edition of the collective CivRealms brewing recipie book, many recipies are unknown,  new recipies will be added in the future.
+§0Good luck brewing!§r
+#- 

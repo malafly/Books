@@ -1,0 +1,172 @@
+title: Machine Guide of Irontown
+author: SortByNode
+pages:
+#- §4§l     -·=»+«=·-§0
+§0
+§f.§0§l      Machine§0
+§0§l      Guide of §0
+§f..§0§l     Irontown§0
+§0
+§0§l         -=-§0
+§0
+§f.§0            by§0
+§0
+§0§l    Hamburgler_§0
+§0 §0
+§4§l     -·=»+«=·-§0
+
+#- §4§l     -·=»+«=·-§0
+§0
+§0       A book from§0
+§0
+§f.§0§l      Civcraft§0
+§0
+§f.§0§l         -=-§0
+§0
+§0
+§f..§0§l     First Age§0
+§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- Snow Generator§0
+§0Produces: Snowballs§0
+§0Location:+2836,-2123§0
+§0
+§0Use a shovel to dig out the snow beneath the snow golem. This will release unlimited snow as long as the golem is present.§0
+§04 snowballs= 1 block§0
+
+#- Automatic Farms§0
+§0Produces: Whatever is planted§0
+§0Located:+2842,-2134§0
+§0
+§0Pulling the lever will release water for each individual farming plot.
+#- The harvested items will be pushed toward you in the field being used.§0
+§0
+§0Fields are 5x6 or§0
+§030 blocks.
+#- Melon Generator§0
+§0Produces: MelonSlices§0
+§0Located:+2804,-2130§0
+§0
+§0Stand on the stone pressure plate in the front of the machine to harvest melons. It may take a few moments for the melons to collect and be delivered to the plate.
+#- Spider XP Grinder§0
+§0Produces: XP, String, SpiderEyes§0
+§0Located:+2835,-2142§0
+§0
+§0Climb down the ladder and follow the wood path to the grinder. Stand on the dirt block and look towards the water.
+#- When the lever is on it will move cave spiders below closer to you. While leaving the lever in the on position press the button to your left§0
+§03 times. Each button pulse will damage the spiders by almost 1/3.
+#- This is so you can punch the spiders to death in 3 hits. After you kill the trapped spiders power off the lever to reopen the spider trap to the spider delivery mechanism.
+#- Spare spider eyes and string can be found and deposited in the chest next§0
+§0to the grinder.§0
+§0Signs are posted§0
+§0with abbreviated instructions.§0
+§0
+§0Warning: Spiders bite if you stand too close!
+#- Oak Wood Generator§0
+§0Produces: Oak Wood§0
+§0Location:+2813,-2139§0
+§0
+§0Using the Saplings and Bonemeal provided in the chest located next to the pistons, place one sapling on the dirt block in the center§0
+§0of the machine.
+#- The sapling should be in front of the pistons. After planting the tree, use the bonemeal on it until the tree grows. As soon as it grows it will be pushed forward allowing you to repeat the process. Each tree will produce 4 blocks of oak wood.
+#- Pumpkin Pie Generator§0
+§0Produces: Eggs, Sugar, Pumpkin.§0
+§0Located:+2792,-2137§0
+§0
+§0Stand on the pressure plate and wait for each item to drop down in 1 of the 3 channels in front of the pressure plate. Extra materials may be place in the center chest.
+#- Mushroom Grower§0
+§0Produces: mushrooms§0
+§0Located:+2790-2129§0
+§0
+§0When mushrooms are ready to harvest, use the lever on the front of the machine to  release water, which harvest the mushrooms growing inside.
+#- Stone Generators§0
+§0Produces: Smooth and Cobblestone.§0
+§0Located:+2782,-2130§0
+§0
+§0This machine may shut down and needs to be troubleshot. Troubleshooting will be described in part 2.
+#- *Usage§0
+§0Using any pickaxe mine either, or both towers of stone on either side of the "Public Stone Generators" sign. When the machine is on new stone will be generated and the towers will be replenished.
+#- To get smooth stone use a silk touch pickaxe, or cook the harvested cobble in the furnaces between the stone towers.§0
+§0
+§0**Troubleshooting****§0
+§0
+§0Begin by standing in front of the stone generator and face west.
+#- There you will see a sign directing you off the edge. Jump into the water and face east. From underwater you will see a hole under underneath the machine directly in front of you.
+#- Swim into this hole and you will come to a button with exposed redstone.§0
+§0
+§0STEP1: Remove the redstone on the block that has a button on it and wait for all the redstone to go dark.§0
+§0
+§0STEP2: Replace the redstone
+#- STEP3: After replacing the redstone, press the button.
+#- *The machine is now on and generating stone until the chunk is unloaded.§0
+§0
+§0*There are signs with the 3 steps in the reset button chamber.§0
+§0
+§0*There are vines you can climb where you jumped into the water.
+#- Obsidian Generator§0
+§0Produces: Obsidian§0
+§0Located:+2782,-2125§0
+§0
+§0DANGEROUS MACHINE.§0
+§0
+§0Read the directions on the machine.§0
+§0
+§0To use the machine take 7 string from the chest in the front of the machine.
+#- Place them on the stone slabs between the water and the tripwire hooks. After placing and ONLY AFTER placing the string, make sure you are not standing on any string.
+#- *After* evacuating the generator press the wood button to your right ONE TIME. This will release lava, produce obsidian, and cleanup the lava for a second use.
+#- The machine will break if you press the button too many times of out of order. If this happens you must fix the tripwire hooks that will be destroyed. The machine requires 7.
+#- The Iron Golem Generators§0
+§0Produced: Iron Ingots, roses§0
+§0Located:§0
+§0West+2781,-2134§0
+§0East+2833,-2129§0
+
+#- East Generator:§0
+§0To use stand on the wooden pressure plate at the coordinates supplied. Once every 6 minutes or so an iron golem will be generated and killed. Then the iron will be transported to an elevator activated by standing on the pressure plate.
+#- The iron will come up the glass elevator and be delivered to your feet. Usually produces 3 ingots and 1 rose. There is an AFK waterfall west of the elevator you can use to wait for iron.
+#- West Generator:§0
+§0This machine works the same way at the East Generator except it requires a minecart. Place a minecart on the track and push it to continue around the loop. Get in the minecart and wait for iron.
+#- The minecart hits a pressure plate rail and will automatically activate the elevator. The minecart prevents being kicked for AFK.
+#- TIPS:§0
+§0*Using radarbro will allow you to see iron at the bottom of the elevator when it is ready.§0
+§0*If you detect iron but it will not come up the elevator, throw an iron ingot on top of the elevator and press the pressure plate.
+#- The loose iron will draw the trapped iron to the surface.§0
+§0
+§0For questions, troubleshooting, broken machines, information, or any other IronTown problems, contact Hamburgler_.
+#- * Disclaimer§0
+§0
+§0Some of these machines can kill you, but if you use this guide you will be safe.
+#- RESPECT THE MACHINES AND THEY/I WILL RESPECT YOU.§0
+§0
+§0LEAVE/REPLACE ITEMS IN THE PUBLIC CHESTS
+#- §4§l     -·=»+«=·-§0
+§0
+§0§l    Transcribed§0
+§0§l          by§0
+§0
+§f..§4§l   Maester Sort§0
+§0
+§0§l         -=-§0
+§0
+§f.§0     3rd of August§0
+§0           2018§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- §4§l     -·=»+«=·-§0
+§0
+§4§l       Maester§0
+§4§l       Alliance§0
+§0
+§1§l       Kamakon§0
+§f.§1§l      Assembly§0
+§1§l     Scriptorium§0
+§0
+§4          city of§0
+§4§l     Mt Augusta§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- 

@@ -1,0 +1,116 @@
+title: Farmer's Guide
+author: Cautemoc
+pages:
+#- 
+
+
+§l§0     A Practical§r
+§l§0  Guide to Farming§r
+§l§0     in Varathia§r
+
+#- §lDifferences from Base Minecraft§r
+
+§0Crops grow better in biomes specific to each plant (more on that later)§r
+
+§0Growing times are reduced by growing near water biomes (rivers, etc.)§r
+#- Bonemeal will not decrease growing times and there is no alternative fertilizer
+
+§0Hydrating the soil will not decrease growing times, but it will prevent the farmland (tilled dirt) from reverting back to normal dirt§r
+#- 
+
+§l§0  How to Inspect§r
+§l§0     the Land§r
+#- In order to see which biome you are in, press §l§0F3 §r§0and check the left side of the screen for the "Biome" field. Which crops are best for which biome will come after this section.§r
+
+§0Another easy way to check your crop specific information ...§r
+#- is to hold the crop you want to grow in your hand and punch the ground. It will tell you how long it takes that crop to grow on the block you punched.
+#- 
+
+§l§0   Crop Specific§r
+§l§0    Information§r
+#- §l§o§3Apple§r
+
+§8Location:§r
+§0Forest (Drops from oak and dark oak tree leaves)§r
+
+§8Uses:§r
+§0* Food source§r
+§0* Horse breeding and taming§r
+#- §l§o§3Beetroot§r
+
+§8Location:§r
+§0Jungle§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Alternative to red flowers for red dye§r
+#- §l§o§3Cactus§r
+
+§8Location:§r
+§0Desert (Grows on sand)§r
+
+§8Uses:§r
+§0* Slimeball production§r
+§0* Green dye§r
+
+§8Capable of being auto-farmed§r
+#- §l§o§3Carrot§r
+
+§8Location:§r
+§0Taiga§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Horse breeding§r
+#- §l§o§3Cocoa Bean§r
+
+§8Location:§r
+§0Jungle (Grows on jungle wood)§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Brown dye§r
+#- §l§o§3Netherwart§r
+
+§8Location:§r
+§0Desert M (Grows on soul sand)§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Red netherbrick production§r
+#- §l§o§3Potato§r
+
+§8Location:§r
+§0Forest§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Baking§r
+#- §l§o§3Sugarcane§r
+
+§8Location:§r
+§0Next to water§r
+
+§8Uses:§r
+§0* Sugar§r
+§0* Paper§r
+
+§8Capable of being auto-farmed§r
+#- §l§o§3Wheat§r
+
+§8Location:§r
+§0Forest§r
+
+§8Uses:§r
+§0* XP production§r
+§0* Steel production§r
+§0* Baking§r
+
+§8Seeds can be turned into other seeds in bio factory§r
+#- 
+
+§l§0  XP Production?§r
+#- XP on this server is created from crops in an XP factory. Recipes will generally require crops that are native to different biomes.
+
+§0Higher level XP factories operate more efficiently, but use a wider variety of crops for the recipes.§r
+#- 

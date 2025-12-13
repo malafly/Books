@@ -1,0 +1,71 @@
+title: Brewing Pt. I
+author: UnknownOreo1996
+pages:
+#- Trade Secrets of the Brewmaster§0
+§0-------------------§0
+§0
+§0This book details a few brews which are able to be crafted.
+#- Vodka§0
+§0-------------------§0
+§0
+§010 Potatoes§0
+§0
+§0Boil for 12 Minutes§0
+§0 -Creates Potatomash§0
+§0
+§0Distill x3
+#- Bitter Rum§0
+§0-------------------§0
+§0
+§020 Sugarcane§0
+§0
+§0Boil for 10 Minutes§0
+§0 -Creates Sugarbrew§0
+§0
+§0Distill x2
+#- Fine Ale§0
+§0-------------------§0
+§0
+§010 Wheat§0
+§0
+§0Boil 8 Minutes§0
+§0 -Creates Malt§0
+§0
+§0Oak Barrel 2.5 Years
+#- Craft Beer§0
+§0-------------------§0
+§0
+§020 Wheat§0
+§0
+§0Boil 10 Minutes§0
+§0 -Creates Malt§0
+§0
+§0Spruce Barrel 1.5 Years
+#- Golden Mead§0
+§0-------------------§0
+§0
+§020 Sugarcane§0
+§0
+§0Boil for 10 Minutes§0
+§0 -Creates Sugarbrew§0
+§0
+§0Jungle Barrel 2.5 Years
+#- Beer§0
+§0-------------------§0
+§0
+§09 Wheat§0
+§0
+§0Boil 8 Minutes§0
+§0 -Creates Malt§0
+§0
+§0Oak Barrel 2 Years
+#- Mead§0
+§0-------------------§0
+§0
+§010 Sugarcane§0
+§0
+§0Boil 5 Minutes§0
+§0 -Creates Sugarbrew§0
+§0
+§0Oak Barrel 2.5 Years
+#- 

@@ -1,0 +1,222 @@
+title: Hermit's Guide Vol 1.
+author: Rakkwal
+pages:
+#- 
+§0
+§0
+§0
+§0
+§0     §0§lHermits Guide§0
+§0           Vol. 1§0
+§0        §0§oBy Rakkwal§0
+§0
+§8§oA look into a solitary§0
+§8§o        lifestyle.§0
+
+#- 
+§0§o§n1.§0 §0§o§nSettling§0
+§0
+§0§o§n2.§0 §0§o§nBuilding§0
+§0
+§0§o§n3.§0 §0§o§nLong Term Planning§0
+§0
+§0§o§n4.§0 §0§o§nTravelling§0
+§0
+§0§o§n5.§0 §0§o§nSecurity§0
+
+#-        §0§lSettling§0
+§0
+§0When first leaving city§0
+§0life or joining a new§0
+§0server with the intent§0
+§0to live unaccompanied§0
+§0it's necessary to have§0
+§0formulated a plan.§0
+§0
+§0Take into account the§0
+§0worldmap, give§0
+§0yourself an§0
+§0approximation of how§0
+
+#- and where you would§0
+§0like to live.§0
+§0
+§0Especially at the§0
+§0launch of a server,§0
+§0make your living space§0
+§0meek, even hidden.§0
+§0Dropchest anything of§0
+§0value away from your§0
+§0homestead. You can't§0
+§0always be there to§0
+§0defend your hard§0
+§0earned items, and no§0
+
+#- oppressive§0
+§0government is there to§0
+§0protect you.§0
+
+#-        §0§lBuilding§0
+§0
+§0For Devoted§0
+§0specifically, it is§0
+§0desireable and§0
+§0reccomended to obtain§0
+§0a §0§nSmelter§0 factory.§0
+§0This cheap factory§0
+§0has many useful tools§0
+§0for crafting building§0
+§0blocks, and the ever§0
+§0important §0§nClaims§0
+§0§nBastion§0 if you intend§0
+
+#- to fend off pearlees.§0
+§0
+§0As it becomes more§0
+§0feasable and safe to§0
+§0create a homestead or§0
+§0decorative buildings§0
+§0with minimal grief, a§0
+§0tree farm and a§0
+§0steady supply of§0
+§0materials for your§0
+§0Smelter become§0
+§0important.§0
+§0Self sufficiency comes§0
+
+#- mainly from the§0
+§0farming of wheat for§0
+§0Bread.§0
+§0
+§0Don't forget to§0
+§0reinforce your crops!§0
+
+#- §lLong Term Planning§0
+§0
+§0Being a hermit is§0
+§0uneventful, and can§0
+§0feel worn out fairly§0
+§0quick without proper§0
+§0motivation. To remain a§0
+§0hermit til end game you§0
+§0will need goals to keep§0
+§0from stagnation.§0
+§0Become automated,§0
+§0build your own§0
+§0ghost-town, travel and§0
+
+#- quietly raid to amass§0
+§0wealth. Think of§0
+§0something that you§0
+§0feel comfortable with§0
+§0in your playstyle.§0
+§0Possiblities are§0
+§0endless, just§0
+§0brainstorm and it will§0
+§0come to you.§0
+
+#-        §0§lTravelling§0
+§0
+§0Having to travel is§0
+§0usually inevitable if§0
+§0you want to take§0
+§0advantage of luxories§0
+§0that cannot be§0
+§0obtained through this§0
+§0playstyle.§0
+§0
+§0Many cities have a§0
+§0public resource pool,§0
+§0from Pickaxe factories§0
+
+#- to cheaply obtainable§0
+§0tools through shops.§0
+§0Gaining access to§0
+§0public factories and§0
+§0worspaces are usually§0
+§0as simple as messaging§0
+§0a member within the§0
+§0town. While having to§0
+§0speak to someone may§0
+§0be unfortunate, it is§0
+§0worth it.§0
+§0
+§0When you are§0
+
+#- travelling, try to only§0
+§0carry the minimum. A§0
+§0minecart and a spare,§0
+§0a boat, and for long§0
+§0journeys a bed.§0
+§0Try not to stand out§0
+§0by being heavily§0
+§0geared, but don't go§0
+§0anywhere unarmed or§0
+§0naked. In both cases,§0
+§0you will attract§0
+§0unwanted attention.§0
+
+#-        §0§lSecurity§0
+§0
+§0For monitoring§0
+§0purposes, you will§0
+§0usually have the§0
+§0advantage. You likely§0
+§0wont have a large§0
+§0claim, and therefore§0
+§0wont have to create a§0
+§0very complex snitch§0
+§0grid.§0
+§0Because you are less§0
+§0likely to use noteblock§0
+
+#- style snitches, the§0
+§0majority of your§0
+§0network will be§0
+§0Jukeboxes. Each§0
+§0monitors a 3d cube§0
+§0with a functional§0
+§0radius of 11 blocks,§0
+§0making it easy to§0
+§0secure a large area.§0
+§0 Jukeboxes snitches§0
+§0can be set up with§0
+§0CastleGates/Redstone§0
+§0to create complex§0
+
+#- traps.§0
+§0After placing a Juke,§0
+§0use command§0
+§0"/jaToggleLevers 1"§0
+§0to enable lever output.§0
+§0The adjacent block a§0
+§0lever is placed will§0
+§0determine the input§0
+§0required to toggle the§0
+§0lever. Levers are only§0
+§0toggled by players not§0
+§0on the snitch group.§0
+
+#- North;Player Entry or§0
+§0Login§0
+§0
+§0South;Player Chest§0
+§0Usage§0
+§0
+§0East;Player Block§0
+§0Place§0
+§0
+§0West;Player Block§0
+§0Break§0
+
+#- The lever will then§0
+§0enable then disable§0
+§0after a short period.§0
+§0Levers already§0
+§0enabled will be§0
+§0disabled and not§0
+§0re-enabled.§0
+
+#- Living alone isn't easy and it's not for anyone with delusions of relevancy. You will have more fun with a group.§0
+§0Hermits don't need to care for WP politics, they rarely affect us. So if you have an itch for PVP, don't kid yourself with living quietly.
+#- 

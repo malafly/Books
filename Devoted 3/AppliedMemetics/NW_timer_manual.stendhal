@@ -1,0 +1,32 @@
+title: NW timer manual
+author: AppliedMemetics
+pages:
+#- Welcome to the documentation booklet on the Netherwart alarm clock! This booklet will contain information on:§0
+§0
+§01- How to use§0
+§0
+§02- Technical documentation (how it works)§0
+§0
+§03- Important notes
+#- 1-§0
+§0Near the Netherwart farm you'll find a button neatly hidden§0
+§0on a block of stonebrick and a redstone lamp 2 blocks to its right. When the button is pressed for the first time, it begins a count down of about 40 minutes, during the time-counting process 
+#- a signal is sent up which keeps the redstone lamp turned ON.§0
+§0
+§0Once the counting is over, the redstone lamp turns OFF and an audible alarm that consists of 4 noteblocks ring, when you hear it you should harvest with a fortune 3 tool then press
+#- the button to restart the counting process all over again.§0
+§0
+§0THIS FARM WILL NOT STOP RINGING UNTIL YOU PRESS THE BUTTON§0
+§0
+§0THIS IS A FEATURE NOT A BUG
+#- 2-§0
+§0The counter consists of a pseudo-random binary number generator which repeats a number (00000000000) every 818.8 seconds, hooked up to it is a checking mechanism, that will output a redstone pulse every time that number is given to it, 
+#- this means that a redstone pulse would be produced every 13.64 minutes, this pulse is hooked up to a clock multiplier (which means it takes multiple clock cycles before finally giving a signal at its output) the clock multiplier is configured to multiply 
+#- by four, however in practice this is 3 since the clock gives a pulse upon start-up, which is useless for counting.§0
+§0
+§0The output of the clock multiplier goes to a 1-bit memory bank which memorizes the state (and keeps the alarm ringing), once the
+#- memory is set to HIGH it resets the clock, turns off the light and activates the alarm. The button in the user-interface is hooked up to it, so when pressed it sets the memory to LOW, therefore starting the clock, turning off the alarm and turning on the 
+#- lamp.
+#- 3-§0
+§0The user interface is connected to a machine using very long torch ladders, therefore resulting in a large amount of latency between the machine and the user interface.
+#- 

@@ -1,0 +1,138 @@
+title: Bastion recipe
+author: Ace_of_Knaves
+pages:
+#- =-=-=-=-=-=-=-=-=-=§4        Bastion recipe§r
+§0=-=-=-=-=-=-=-=-=-=§r
+
+
+§0       §r§o§0last edited on:§r
+            01.06.14
+#- §n§4BASTION FACTORY:§r
+
+§032 §r§3Bastions§r§0 for:§r
+§0  16 Silicon***§r
+§0  2 Smaragdus§r
+§0  16 Rations§r
+§0  1 Flooring§r
+§0  1 Framing§r
+§0  1 Gearbox§r
+§0  1 Base§r
+§0  4 Walls§r
+§0  1 Objet d'art§r
+#- §n§4EXPLOSIVES FACTORY:§r
+
+§08 §r§3Silicon***§r§0 for:§r
+§0  8 Gunpowder§r
+§0  32 Quartz§r
+§0  32 Podzol§r
+§0  8 Coal Block§r
+§0  2 Water Buckets§r
+#- §n§4IRON CAULDRON:§r
+
+§016 §r§3Smaragdus§r§0 for:§r
+§0  16 Emerald Block§r
+§0  -> using 32 Charcoal§r
+#- §n§4GRILL:§r
+
+§032 §r§3Rations§r§0 for:§r
+§0  256 Wheat§r
+§0  32 Bowls§r
+#- §n§4FANCY STONE BRICK:§r
+
+§01 §r§3Flooring§r§0 for:§r
+§0  64 Nether Brick§r
+§0  32 Clay Ball§r
+
+
+§064 §r§3Cracked s. brick§r§0 for:§r
+§0  64 Stone Brick§r
+§0  32 Lapis Lazuli§r
+§0  64 Flint§r
+§0  -> using 32 Charcoal§r
+#- §n§4CARPENTRY:§r
+
+§01 §r§3Framing§r§0 for:§r
+§0  64 Chests§r
+§0  4 Iron Blocks§r
+#- §n§4IRON FORGE:§r
+
+§01 §r§3Gearbox§r§0 for:§r
+§0  4 Iron Block§r
+§0  8 Gold Ore§r
+#- §n§4ORE SMELTER:§r
+
+§01 §r§3Base§r§0 for:§r
+§0  16 Diamond Ore§r
+§0  32 Redstone Ore§r
+#- §n§4FANCY ORE SMELTER:§r
+
+§04 §r§3Walls§r§0 for:§r
+§0  8 Lapis Ore§r
+§0  32 Cracked Stone Br.§r
+#- §n§4BIO LAB:§r
+
+§064 §r§3Podzol§r§0 for:§r
+§0  64 Grass§r
+#- §n§4SAND SMELTER:§r
+
+§064 §r§3red sand§r§0 for:§r
+§0  64 sand§r
+#- §n§4STAINED GLASS:§r
+
+§01 §r§3Objet D'art§r§0 for:§r
+
+§016 Lapis Lazuli§r
+§016 Gray Dye§r
+§016 Cocoa§r
+§016 Purple Dye§r
+§016 Dandelion Yellow§r
+§016 Ink Sak§r
+§016 Magenta Dye§r
+§016 Pink Dye§r
+#- 16 Cyan Dye
+16 Orange Dye
+16 Cactus Green
+16 Bone Meal
+16 Light Gray Dye
+16 Light Blue Dye
+16 Rose Red
+16 Lime Dye
+256 Red Sand
+#- §n§4TOTAL:§r
+
+§032 §r§3Bastions§r§0 for:§r
+
+§08 gunpowder§r
+§064 quartz§r
+§064 grass§r
+§016 coal block§r
+§04 water buckets§r
+§02 emerald block§r
+§064 nether brick§r
+§032 clay ball§r
+§064 chests§r
+#- 8 iron blocks
+8 gold ore
+16 diamond ore
+32 redstone ore
+8 lapis ore
+32 Stone Brick
+32 Lapis Lazuli
+32 Flint
+16 Gray Dye
+16 Cocoa
+16 Purple Dye
+16 Dandelion Yellow
+16 Ink Sack
+#- 16 Magenta Dye
+16 Pink Dye
+16 Cyan Dye
+16 Orange Dye
+16 Cactus Green
+16 Bone Meal
+16 Light Gray Dye
+16 Light Blue Dye
+16 Rose Red
+16 Lime Dye
+256 sand
+#- 

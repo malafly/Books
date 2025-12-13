@@ -1,0 +1,117 @@
+title: DesignPrinciples
+author: Duke_Arioch
+pages:
+#- §1  OO Design Principles§0
+§0
+§1  =================§0
+§0
+§1               §0By§0
+§0
+§0      §0Robert C Martin§0
+
+#- §1§lSRP§0
+§0
+§0§oThe Single§0
+§0§oResponsibility §0§oPrinciple§0
+§0
+§0A class should have§0
+§0one, and only one,§0
+§0reason to change.§0
+
+#- §1§lOCP§0
+§0
+§0§oThe Open Closed§0
+§0§oPrinciple§0
+§0
+§0You should be able to§0
+§0extend a classes§0
+§0behavior, without§0
+§0modifying it.§0
+
+#- §1§lLSP§0
+§0
+§0§oThe Liskov §0§oSubstitution§0
+§0§oPrinciple§0
+§0
+§0Derived§0
+§0classes must be§0
+§0substitutable for their§0
+§0base classes.§0
+
+#- §1§lISP§0
+§0
+§0§oThe Interface§0
+§0§oSegregation Principle§0
+§0
+§0
+§0Make fine§0
+§0grained interfaces§0
+§0that are client specific.§0
+
+#- §1§lDIP§0
+§0
+§0§oThe Dependency§0
+§0§oInversion Principle§0
+§0
+§0Depend on§0
+§0abstractions, not on§0
+§0concretions.§0
+
+#- §1§lREP§0
+§0
+§0§oThe Release Reuse§0
+§0§oEquivalency Principle§0
+§0
+§0The granule of reuse§0
+§0is the granule of§0
+§0release.§0
+
+#- §1§lCCP§0
+§0
+§0§oThe Common Closure§0
+§0§oPrinciple§0
+§0
+§0Classes that change§0
+§0together are packaged§0
+§0together.§0
+
+#- §1§lCRP§0
+§0
+§0§oThe Common Reuse§0
+§0§oPrinciple§0
+§0
+§0Classes that are used§0
+§0together are packaged§0
+§0together.§0 §0
+
+#- §1§lADP§0
+§0
+§0§oThe Acyclic§0
+§0§oDependencies §0§oPrinciple§0
+§0
+§0The dependency graph§0
+§0of packages must have§0
+§0no cycles.§0
+
+#- §1§lSDP§0
+§0
+§0§oThe Stable§0
+§0§oDependencies Principle§0
+§0
+§0Depend in the direction§0
+§0of stability.§0
+
+#- §1§lSAP§0
+§0
+§0§oThe Stable§0
+§0§oAbstractions Principle§0
+§0
+§0Abstractness§0
+§0increases with stability.§0
+
+#- Thank you for reading§0
+§0Robert C. Martin's§0
+§0principles of§0
+§0Object Oriented design.§0
+
+#- 

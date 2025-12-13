@@ -1,0 +1,463 @@
+title: Norl.Ch.Arch.1/2
+author: Henderwicz
+pages:
+#- §4§lThe Church§0
+§4§lArchitecture of§0
+§4§lthe Kingdom of§0
+§4§lNorlund,§0
+§4An Introductory Guide.§0
+§4Volume I/II.§0
+§0
+§cText and drawings§0
+§cby Henderwicz.§0
+§cPublished by§0
+§c§lNorth Star Books§c,§0
+§cTallum, K. of Norlund.§0
+§c1 April, 2020.§0
+§c  ★      ★      ★      ★  
+#- §lTable of Contents.§0
+§0
+§0§lVolume I:§0
+§0
+§0§l4§0/ Preface§0
+§0
+§0§l10§0/ Legend§0
+§0
+§0§l13§0/ Irithyll Chapel§0
+§0
+§0§l26§0/ Church of St.§0
+§0Euphemia, Laketown/§0
+§0Condor (Papist)
+#- §lVolume II:§0
+§0
+§0§l4§0/ Church of St.§0
+§0Odilia, Kannin (Papist)§0
+§0
+§0§l18§0/ St. Martin’s§0
+§0Church, Tallum§0
+§0(Reformed)§0
+§0
+§0§l32 §0/ Church of St.§0
+§0Adrian, Yoslan§0
+§0(Papist)
+#- §lPreface.§0
+§0The first in what we§0
+§0hope will be a series§0
+§0of themed§0
+§0architectural guides,§0
+§0this volume introduces§0
+§0the reader to all five§0
+§0of Norlund’s known§0
+§0and extant church§0
+§0buildings. 4-6 drawings§0
+§0have been supplied§0
+§0for each building. Due
+#- to the constraints of§0
+§0this format, some of§0
+§0these are in “portrait”§0
+§0and others in§0
+§0“landscape”§0
+§0orientation. The§0
+§0cardinal orientation of§0
+§0each drawing is§0
+§0indicated by a letter in§0
+§0square brackets next§0
+§0to its type in the list§0
+§0at the beginning of§0
+§0each chapter;
+#- e.g., “Elevation [N]”§0
+§0indicates a side-view§0
+§0as seen from the§0
+§0south facing north,§0
+§0“Plan [S]” indicates a§0
+§0plan view with the top§0
+§0of the page oriented§0
+§0south. The drawings§0
+§0can generally be §0
+§0nterpreted using the§0
+§0legend immediately§0
+§0following this§0
+§0introduction,
+#- with all lesser used§0
+§0symbols and§0
+§0substitutions noted in§0
+§0the text description at§0
+§0the end of each§0
+§0chapter. By necessity,§0
+§0steps and slab blocks§0
+§0are usually noted as§0
+§0full blocks. At the§0
+§0beginning of each§0
+§0chapter are indicated§0
+§0the X/Z coordinates
+#- for the front§0
+§0entrance of the§0
+§0building, so that§0
+§0curious readers can§0
+§0investigate these§0
+§0churches for§0
+§0themselves.§0
+§0
+§0The author wishes to§0
+§0thank DoomsGus,§0
+§0Leobonet, and RobM§0
+§0for the design and§0
+§0labour that went into
+#- their respective§0
+§0buildings; 1234fireball§0
+§0and TerryTheThird§0
+§0for their help with§0
+§0historical research;§0
+§0and fantasyworm for§0
+§0gracious feedback on§0
+§0an early proof-of-concept.§0
+§0
+§0- Henderwicz
+#- §lLegend.§0
+§0§o[Except where other-§0
+§0§owise specified:]§0
+§00 : Wall in plan§0
+§00/8/3 : Fore-/mid-/back-§0
+§0ground wall in elevation§0
+§0R/r : Fore-/back-§0
+§0ground roof in§0
+§0elevation§0
+§0G : Ground in§0
+§0elevation
+#- - : Open floor in plan;§0
+§0open air in elevation§0
+§0= : Raised open floor§0
+§0D : Door§0
+§0w : Window§0
+§0A : Altar/Communion§0
+§0table§0
+§0S : Seating (pews,§0
+§0chairs, &c.)§0
+§07 : Fence (or§0
+§0fenceposts used in§0
+§0ornamentation)§0
+§0B : Banner
+#- T : Tall torch§0
+§0+ : Slab/step blocks§0
+§0contributing to a§0
+§0cross-shaped§0
+§0element
+#- §lIrithyll Chapel.§0
+§0(-922/-11058)§0
+§0
+§0§l14 §0/ Interior elevation [N]§0
+§0§l15 §0/ Interior elevation [W]§0
+§0§l16 §0/ Vertical section, chandelier [N]§0
+§0§l17 §0/ Plan [N]§0
+§0
+§0§l18 §0/ Description
+#- 0---------------0§0
+§00-------Z-------0§0
+§00------ZZZ------0§0
+§00-------Z-------0§0
+§00-------Z-------0§0
+§00---------------0§0
+§00---------------0§0
+§00088---AAA---8800§0
+§00BBB---888---BBB0§0
+§00BBB--38983--BBB0
+#- 0---------0§0
+§00---------0§0
+§00---------0§0
+§00---------0§0
+§00----w----0§0
+§00---www---0§0
+§00----w----0§0
+§00--B-w-8800§0
+§00--B-w-BBB0§0
+§00-SBS--BBB0
+#- --7--§0
+§0-T7T-§0
+§0T777T§0
+§077G77
+#- 00000000000000000§0
+§00BBB--=ZZZ=--BBB0§0
+§00B-----AAA-----B0§0
+§00B-----AAA-----B0§0
+§0w---------------w§0
+§0w---------------w§0
+§0wSSSSS-----SSSSSw§0
+§0B---------------B§0
+§00SSSSS-----SSSSS0§0
+§00---------------0§0
+§0000000-----000000§0
+§000000-------00000
+#- In a frozen mountain§0
+§0valley, high in the§0
+§0northern Norlish Alps,§0
+§0lies the mysterious§0
+§0fortress of Irithyll.§0
+§0Constructed and§0
+§0governed by Pontiff§0
+§0RobM, in an age long§0
+§0forgotten by all but§0
+§0the oldest inhabitants§0
+§0of Norlund, this§0
+§0forbidding stone keep
+#- boasts an exotic§0
+§0chapel at the north§0
+§0end of its ground§0
+§0floor (the only§0
+§0publicly accessible§0
+§0floor). The focal point§0
+§0of this chapel is an§0
+§0elevated stone§0
+§0altar-desk from which§0
+§0(presumably) the§0
+§0Pontiff could both§0
+§0celebrate the§0
+§0mysteries of his
+#- religion and also§0
+§0pontificate. Above this§0
+§0altar-desk hangs a§0
+§0sandstone Latin cross§0
+§0(“Z”, pp. 14 & 17);§0
+§0embedded in either§0
+§0side wall is a Latin§0
+§0cross made of local§0
+§0blue ice (“w”, pp. 15 &§0
+§017). A chandelier§0
+§0featuring both§0
+§0torches and a single§0
+§0glowstone mass
+#- (“G”, p. 16) hangs§0
+§0overhead to light the§0
+§0room. The chapel§0
+§0seems to double as a§0
+§0kind of library, with§0
+§0corner bookshelves§0
+§0on the front (north)§0
+§0wall, and small§0
+§0bookshelves embedded§0
+§0in the side walls§0
+§0between the two rows§0
+§0of long pews (seating§0
+§020 in total).
+#- Though little is known§0
+§0about the religious§0
+§0beliefs and practice§0
+§0of this Pontiff and his§0
+§0followers, some of§0
+§0their architectural§0
+§0emphases seem in§0
+§0hindsight to have§0
+§0anticipated those that§0
+§0would appear in a§0
+§0later age of Norlish§0
+§0church-building: the
+#- central altar-desk§0
+§0and abundance of§0
+§0decorative crosses§0
+§0becoming typical of§0
+§0Papist architecture;§0
+§0and the integration of§0
+§0local materials and of§0
+§0bookshelves into the§0
+§0worship space§0
+§0becoming typical of§0
+§0Reformed architecture§0
+§0(though no direct§0
+§0influence seems
+#- likely in either case).§0
+§0The Irithyll chapel is§0
+§0however unique in§0
+§0many ways: it is the§0
+§0only Norlish church§0
+§0building entirely§0
+§0lacking windows (of§0
+§0course these would§0
+§0have detracted from§0
+§0the fortress’ primary§0
+§0function), and indeed§0
+§0the only case in
+#- Norlund of a chapel§0
+§0integrated into a§0
+§0building of another§0
+§0type. Later§0
+§0constructions have§0
+§0also tended to avoid§0
+§0the entirely§0
+§0rectangular layout,§0
+§0and to use shorter§0
+§0pews. Neither§0
+§0sandstone nor ice has§0
+§0yet been seen in§0
+§0another Norlish§0
+§0church.
+#- §lChurch of St.§0
+§0§lEuphemia,§0
+§0§lLaketown/Condor§0
+§0§l(Papist).§0
+§0(-747,-9911)§0
+§0
+§0§l28 §0/ Elevation, north§0
+§0face with one of two§0
+§0identical spires [S]§0
+§0§l29 §0/ Elevation, spire§0
+§0top detail [S]§0
+§0§l30 §0/ Elevation, east§0
+§0face [W]
+#- §l31 §0/ Vertical section,§0
+§0bell [S]§0
+§0§l32 §0/ Plan, north end§0
+§0[E]§0
+§0§l33 §0/ Plan, south end§0
+§0[E]§0
+§0
+§0§l34 §0/ Description
+#- 00000000033333-----§0
+§00003333338888833333§0
+§000000000033333-----§0
+§08888888R-----------§0
+§088BB8788R----------§0
+§0DD88w7w8RR--7------§0
+§0DD8777778RR777-----§0
+§0DD88w7w8RR--7------§0
+§088BB8788R----------§0
+§08888888R-----------
+#- 00033333---------7-§0
+§03338888833333377777§0
+§000033333---------7-
+#- -----rRrrrrrrrRrrrr§0
+§0----rrRrrrrrrrRrrrr§0
+§0--rrrrRrrrrrrrRrrrr§0
+§0rrrrrrRrrrrrrrRrrrr§0
+§03338880000000000000§0
+§0333w880888w8880888w§0
+§03w3ww8088www88088ww§0
+§03w3ww8088www88088ww§0
+§03w3ww8088www88088ww§0
+§03338880888888808888
+#- -----T-----§0
+§0-----7-----§0
+§0---RRRRR---§0
+§0-----0-----§0
+§0-----0-----§0
+§0----070----§0
+§0---00700---§0
+§0--00BBB00--§0
+§0-0BBBBB00-§0
+§000000000000
+#- 000------§0
+§000000www0§0
+§0000------§0
+§0-0C---T-S§0
+§0-00-----S§0
+§0-D-------§0
+§0-D-------§0
+§0-D-------§0
+§0-00-----S§0
+§0-0C---T-S§0
+§0000------§0
+§000000www0§0
+§0000------
+#- ----0-------0------§0
+§0ww00O00www00O0w----§0
+§0---------------w---§0
+§0T-S-S-S-T-S--T--w--§0
+§0--S-S-S---S------w-§0
+§0-------------A---0-§0
+§0-------------A-S-00§0
+§0-------------A---0-§0
+§0--S-S-S---S------w-§0
+§0T-S-S-S-T-S--T--w--§0
+§0---------------w---§0
+§0ww00O00www00O0w----
+#- St. Euphemia was an RL§0
+§04th century martyr;§0
+§0her name means§0
+§0“well-spoken” or “well§0
+§0spoken of”. In the§0
+§0tradition of the Norlish§0
+§0Papacy, she is§0
+§0venerated as “the§0
+§0All-Praised”, and as§0
+§0the particular patron§0
+§0of the poor of the§0
+§0Laketown (now§0
+§0Condor) district.
+#- Constructed by Pope§0
+§0Leobonet in (roughly)§0
+§0January 2020, the§0
+§0Church of St. Euphemia§0
+§0sits at the top of an§0
+§018-step stairway on§0
+§0the high street§0
+§0overlooking the§0
+§0wooden huts and§0
+§0wharves along the§0
+§0lakeshore. Built§0
+§0entirely of stone, it’s
+#- many tall glass§0
+§0windows are uniformly§0
+§0stained dark green.§0
+§0This colour choice was§0
+§0determined by the§0
+§0limits of Norlund’s§0
+§0glass production§0
+§0industry in those§0
+§0early days; but it has§0
+§0since become a§0
+§0standard feature of§0
+§0Papist churches,
+#- though many more§0
+§0colours of stained§0
+§0glass are now widely§0
+§0available. The§0
+§0entrance is flanked by§0
+§0two tall, elegantly§0
+§0tapering decorative§0
+§0spires, each crowned§0
+§0with a Latin cross in§0
+§0iron. Overlaying the§0
+§0green glass of the§0
+§0large window on the
+#- front (north) end of§0
+§0the sanctuary is a§0
+§0larger, equal-limbed§0
+§0stone cross. The§0
+§0sanctuary seats ##, in§0
+§0# rows of two pews,§0
+§0with a torch and a§0
+§0window between each§0
+§0block of three pews.§0
+§0The focal point of the§0
+§0sanctuary consists of§0
+§0two pieces of sacred
+#- furniture at the front§0
+§0(south) end: an altar,§0
+§0bearing the Latin text,§0
+§0“Astra Regunt Homines,§0
+§0Sed Regit Astra Deus”§0
+§0(“The stars govern§0
+§0men, but God governs§0
+§0the stars”); and,§0
+§0immediately behind it, a§0
+§0wooden episcopal§0
+§0throne.
+#- In the church yard§0
+§0east of the main§0
+§0building, a massive§0
+§0stone bell hangs from§0
+§0an elaborate wooden§0
+§0housing. This bell was§0
+§0intended both for§0
+§0religious use,§0
+§0summoning the faithful§0
+§0to their prayers; and§0
+§0for civic use, as an§0
+§0alarm in emergency
+#- situations. Sadly, it was§0
+§0almost entirely§0
+§0destroyed, along with§0
+§0some of the church’s§0
+§0interior pews and§0
+§0flooring, in a March§0
+§02020 bandit raid.
+#- §o(End of Volume I.)
+#- 

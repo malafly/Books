@@ -1,0 +1,362 @@
+title: Brewing_Guide_2e
+author: F_L_Wright
+pages:
+#- -------------------§0
+§0   A Guide to Brewing§0
+§0-------------------§0
+§0
+§0   by   F_L_Wright§0
+§0
+§0   with help from§0
+§0   Comrade117§0
+§0   Macareau§0
+§0   Ellsberg§0
+§0
+§0
+§0    SECOND EDITION§0
+§0          2017
+#-         contents§0
+§0
+§0Author's Note§0
+§0                 page  3§0
+§0
+§0Tools of the Trade§0
+§0                 page  4§0
+§0
+§0Recipes§0
+§0                 page 16§0
+§0
+§0Bibliography§0
+§0                 page 37
+#- Brewing is one of the most rewarding pastimes in this world.§0
+§0
+§0The resulting beverages can have varying effects, ranging from short bonus powers to intoxication modifications, and even blackout.
+#-  Tools of the Trade§0
+§0
+§0To start brewing you will need these items:§0
+§0
+§0A cauldron over a fire§0
+§0
+§0A brewing stand with glowstone dust§0
+§0
+§0Barrels§0
+§0
+§0Bottles              ...
+#- ...§0
+§0
+§0A bucket§0
+§0
+§0A water source§0
+§0
+§0A clock§0
+§0
+§0A cow§0
+§0
+§0Something to set an alarm or timer with
+#-          Cauldron§0
+§0
+§0Make a cauldron from 7 iron ingots. Place it over an empty block and light that with flint and steel.§0
+§0
+§0A bucket of water fills it and 3 bottles empty it.§0
+§0
+§0For research use 9.
+#-      Brewing Stand§0
+§0
+§0A Brewing Stand with Glowstone Dust in the top right compartment becomes a still without consuming the glowstone.§0
+§0
+§0The Blaze Rod can be hard to source but can be traded after this Christmas provided lots.
+#-          Barrels§0
+§0
+§0Oak, Spruce, Birch, Acacia, Jungle, and Dark Oak wood make different barrels.§0
+§0
+§0To construct a small one use 8 stairs and a sign with BARREL in the first line on the top right front corner of the barrel.         ...
+#- ...§0
+§0A large barrel is made from 16 stairs, 18 planks, 5 fences, and the sign in the center top front. One fence is the tap.§0
+§0
+§0Add sign last. Console confirms creation.§0
+§0
+§0Small barrels better economize space.
+#-          Bottles§0
+§0
+§0Sand in a furnace makes glass, and 3 glass make 3 bottles.§0
+§0
+§0You will need more. Use a smelter factory.§0
+§0
+§0Bottles are also good for storing XP at an enchant table before getting too drunk.
+#-          Bucket§0
+§0
+§0Brewers only need one, but they need it all the time...§0
+§0
+§0...to§0 fill cauldrons§0
+§0...to§0 get milk antidote§0
+§0...to§0 put out fires after the nation had another Rum party...§0
+§0
+§0It can also make water slides down cliffs.
+#-      Water Source§0
+§0
+§0Put it near the cauldrons.§0
+§0
+§0Water replicates above solid blocks to fill 1 block in between or around a corner. So a 2x2 well provides forever.§0
+§0
+§0Build it so you can't fall in.
+#-           Clock§0
+§0
+§0Made from 4 Gold Ingots around a Redstone Dust, this usually frivolous tools is essential for brewing.§0
+§0
+§0Touch it to a cauldron and the current fermentation time is shown.
+#-            Cow§0
+§0
+§0A cow is a good friend to have during long hours in the brewery.§0
+§0
+§0Its gentle mooing will become your mantra.§0
+§0
+§0And enough milk cures any game effects like poisoning, nausea, blindness, slurred chat...
+#-           Timer§0
+§0
+§0Some brews take a long time. Most require precise timing. Have an alarm ready to set, or you will find Ruined Potions aged 34 years in your barrels.§0
+§0
+§0Time flies like an arrow. Fruit flies like a banana.
+#-         Recipes§0
+§0
+§0
+§0  Hot Beverages§0
+§0                 page 20§0
+§0
+§0  Fermentations§0
+§0                 page 24§0
+§0
+§0  Distillations§0
+§0                 page 31
+#- Ingredients go into the water filled cauldron.§0
+§0
+§0Fermentation time marks when the cauldron must be emptied with bottles.§0
+§0
+§0Distillations is the number of times the arrow has to progress in the brewing stand BEFORE removing bottles.  ...
+#- ...§0
+§0Aging is done in barrels of certain wood type. It is counted in years which means server days, i.e 20 minutes per year. DO NOT TOUCH THE BOTTLES.§0
+§0
+§0After a few minutes in the barrel a color code indicates quality for each step.     ...
+#- ...§0
+§0Some drinks have game effects for a limited time.§0
+§0
+§0Immediate effects are listed by the inventory.§0
+§0
+§0Excessive drinking also results in slurred chat, and eventual temp ban.
+#- 
+§0
+§0    --------------§0
+§0     Hot Beverages§0
+§0    --------------§0
+§0
+§0  Strong Tea§0
+§0  Espresso§0
+§0  Pumpkin Spice Latte
+#-       Strong Tea§0
+§0
+§06 leaves§0
+§02 milk§0
+§0
+§03m in Cauldron§0
+§0
+§0Resistance 8s§0
+§0
+§0
+§0
+§0
+§0by Macareau
+#-         Espresso§0
+§0
+§011 cocoa§0
+§02 milk§0
+§0
+§02-3m in Cauldron§0
+§0
+§0Regeneration 2s§0
+§0Speed 21s§0
+§0
+§0
+§0
+§0by Macareau
+#-  Pumpkin Spice Latte§0
+§0
+§012 cocoa§0
+§05 pumpkin seeds§0
+§02 sugar cane§0
+§02 milk§0
+§0
+§03m in Cauldron§0
+§0
+§0Haste 9s§0
+§0
+§0
+§0by Windflux
+#- 
+§0    --------------§0
+§0     Fermentations§0
+§0    --------------§0
+§0
+§0  Golden Mead§0
+§0  Rich Apple Mead§0
+§0  Fine Ale§0
+§0  Craft Beer§0
+§0  Epic Stout§0
+§0  Thanados Black
+#-       Golden Mead§0
+§0
+§024 sugar cane§0
+§0
+§07-9m in Cauldron§0
+§0
+§02.5-4y in Oak§0
+§0
+§0
+§0
+§0
+§0
+§0by Comrade117
+#-    Rich Apple Mead§0
+§0
+§017 sugar cane§0
+§08 apple§0
+§0
+§010m in Cauldron§0
+§0
+§07.5y in Oak§0
+§0
+§0Water Breath.2 150s§0
+§0
+§0
+§0by Windflux
+#-         Fine Ale§0
+§0
+§09-10 wheat§0
+§0
+§07-9m in Cauldron§0
+§0
+§01-4y in any barrel§0
+§0
+§0
+§0
+§0
+§0
+§0by Comrade117
+#-        Craft Beer§0
+§0
+§016-20 wheat§0
+§0
+§011-13m in Cauldron§0
+§0
+§01.5-3y in any barrel§0
+§0
+§0
+§0
+§0
+§0
+§0by Comrade117
+#-        Epic Stout§0
+§0
+§024-25 wheat§0
+§0
+§013-15m in Cauldron§0
+§0
+§04y in Dark Oak§0
+§0
+§0
+§0
+§0
+§0
+§0by F_L_Wright
+#- Thanados Black Label§0
+§0
+§015 cocoa§0
+§010 seed§0
+§0
+§015m in Cauldron§0
+§0
+§01y in Jungle wood§0
+§0
+§0Poison 1s, Blind. 1s, Resistance 16s§0
+§0
+§0by Thanados
+#- 
+§0
+§0     -----------§0
+§0      Distillations§0
+§0     -----------§0
+§0
+§0  Russian Vodka§0
+§0  Pirate's Rum§0
+§0  Strong Absynthe§0
+§0  Our TrueLeader's§0
+§0    Liquid Cocaine
+#-      Russian Vodka§0
+§0
+§023-25 potato§0
+§0
+§014-16m in Cauldron§0
+§0
+§02-3x in still§0
+§0
+§0Poison 3 10s§0
+§0Blindness 2s§0
+§0Weakness 3 15s§0
+§0
+§0by Comrade117
+#-       Pirate's Rum§0
+§0
+§028 sugar cane§0
+§0
+§010m in Cauldron§0
+§0
+§01-2x in still§0
+§0
+§0Poison 1s, Blind. 1s, Fire Resistance 90s§0
+§0
+§0
+§0by Comrade117
+#-         Absynthe§0
+§0
+§015 grass§0
+§0
+§05m in Cauldron§0
+§0
+§05-6x in still§0
+§0
+§0Poison 30s§0
+§0Blindness 240s§0
+§0
+§0
+§0by Ellsberg
+#-   Our TrueLeader's§0
+§0    Liquid Cocaine§0
+§0
+§040 sugar cane, 8 grass, 6 cactus, 8 redstone dust§0
+§015m in Cauldron§0
+§03-4x in still§0
+§0Poison 1s, Blind. 1s, Weak. 120s, Mining Fatigue 2 120s, Invisibility 2 120s§0
+§0by Windflux
+#-   Sadly, this is where§0
+§0  the recipes end.§0
+§0
+§0  You can research§0
+§0  more with the clues§0
+§0  on §0reddit.com/r/Devoted/wiki/brewery§0
+§0
+§0  Please experiment§0
+§0  and /tell us any§0
+§0  results.
+#- 
+§0      Bibliography§0
+§0
+§0Fantastic Brews and How to Brew Them§0
+§0by Bondle/Windflux§0
+§0Co-Authors:§0
+§0* Thanadon§0
+§0* ReallyNotUlrik§0
+§0* Drunkard90§0
+§0* C2H60
+#- 
+§0 Written, edited, and printed in Chanstantinople, capital of the Byzanchan Empire§0
+§0
+§0January 2017
+#- 

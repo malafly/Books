@@ -1,0 +1,58 @@
+title: Printing-Press
+author: jo_rey1086
+pages:
+#- Running a printing press for dummies...
+
+Printing Press
+Purpose
+The printing press is used for duplicating books and printing pamphlets and watermarked notes.
+#- Important Notes
+Be aware when constructing/using the press: The press starts taking inputs immediately when turned on, and can run continuously if fed enough materials.
+
+#- The press takes time for pages to pass through. At full tick rate, it takes 30 seconds for the first printed results to emerge. At 10 tps (during high server load) it would take a minute.
+#- Shutting off the press or running out of fuel will destroy any materials inside it at the time. This is deliberate.
+The press is primarily for bulk printing. Printing small quantities will be inefficient.
+#- Note - like other factories, if the chest fills up, any emerging results will be destroyed
+SO, lets get to...
+Construction
+
+The printing press in set out and constructed in exactly the same way as the production factories
+#- The default cost is 60 iron blocks, 4 stacks redstone dust, 1 stack quartz, 20 pistons, 20 gold pressure plates. These should be placed in the chest.
+Hit the central block with a stick and the factory is created.
+#- RECIPES
+
+The first step to printing anything is to create a set of plates. These allow you to then mass-produce the book you have plates for.
+#- To begin, put your source book in the chest. You can use a signed book, or can use an unsigned book & quill if you want the printed books to have no author.
+#- You will also need to add the cost of setting the plates. In the default config this is 1 iron ingots and 1 gold nugget per page of the book (max cost 16 of each). The screenshot only shows iron - gold was added later.
+#- Choose the "Set plates" mode by hitting the central block with a stick. Hitting the chest with a stick will tell you the cost if unsure. The cost is per-page - a long book will be much more expensive to create plates for.
+#-  You run the factory to create the plates by hitting the furnace with a stick. 
+#- Plates appear as a book, but the lore will contain "Print plates #XXXX", where XXXX is a random number. Plates must be put in the press before you can print. Once made, you can use the plates to print. 
+#- PRINTING
+
+There are three print modes - books, pamphlets and security notes. To print anything, you need to put a single set of plates in the press for what you want to print.
+#- Unlike the production factories, the printing press doesn't have a fixed lot size. It takes inputs continuously, and after a delay produces the outputs.
+#- It will try to take paper (in lots of 4) and other materials (in proportion to paper) every few seconds. These enter the production line, and after a period of time the results will begin to emerge.
+#-  This continuous production line is most fuel efficient when run for a long period of time. The press will shut itself off when it runs out of materials and no pages are still making their way through it.
+#- If turned off early, any materials already taken are lost. To stop it and avoid wasting materials, take the paper out of the chest and wait for pages already in the press to emerge.
+#- Above all, do not remove or change the plates while running. The press will shut off, and all half-finished pages in the machine will be lost.
+#- Pamphlets 
+The pamphlets are the cheapest thing to print, by default only taking 4 paper and 1 ink per 32 pamphlets.They are sheets of paper with the title and a snippet of content from the first page of a book. 
+#- Their content is very limited (140 characters), but they can be cheaply produced in bulk.Materials drain away:After a couple of minutes, the pamphlets emerge.
+#- Books
+Books will be duplicates of the original, with a default cost of 4 paper + 1 ink sacks per 32 pages and 1 leather per book (binding). Books retain the original title, author and content of the source book.
+#- Be extremely careful to take the books as they emerge as they don't stack. If the chest fills up, any books that would be produced after that will be lost!
+#- Security notes
+
+Security notes are similar to pamphlets but with anti-duplication features. For this they take a couple of extra materials (gold nugget, cactus green). The total cost is 16 paper, 4 ink, 1 gold nugget and 6 cactus green per 128 (2 stacks).
+#- These have a watermark on them, shown by the name and number in the lore. Since plate numbers cannot be chosen, but are randomly selected, they are very hard to forge.
+#- Even the original author needs the original plates to produce copies of a note. To get the same watermark number will take an average of 9,000 attempts, and the source book also has to be identical and have the same author.
+#- These could be used for tickets, currency, bearer bonds, or any other application where copy-resistance is important. If the original plates are destroyed, you can be pretty sure there will never be more identical security notes created.
+#- Calculating efficiency
+In the default configuration the press burns 12 fuel before the first results start emerging, taking 2 minutes to do so.
+#- This adds a constant extra fuel cost of 12 to each run, so large runs will be more fuel and time efficient than short ones. If P is the number of stacks of paper the press uses in a run, it will take 16P + 6 fuel. Efficiency is 16P / (16P + 6).
+#- A run of one stack will print at 67% fuel efficiency, a run of 3 stacks is 89% efficient and a double chest of paper fed in (52) is 99% efficient.
+#- THIS BOOK WAS COPYPASTED FROM
+https://github.com/ttk2/FactoryMod/wiki/Printing-Press
+
+all brownie points go to the guy who wrote this "pruby"
+#- 

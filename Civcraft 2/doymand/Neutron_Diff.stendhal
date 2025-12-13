@@ -1,0 +1,58 @@
+title: Neutron Diff
+author: doymand
+pages:
+#- Consider an arbitrary volume V within a medium containing neutrons. As time goes on, the number of neutrons in V may change if there is a net flow of neutrons into or out of V, if some of the neutrons are absorbed within V, or if sources are present that 
+#- emit neutrons within V. The Equation of Continuity is the mathematical statement of the obvious fact that, since neutrons do not disappear unaccountably, the time rate of change in the number of neutrons V must be accounted for in terms of these processes
+#- . In particular it follows that:§0
+§0
+§0[Rate of change of neutrons in V] = §0
+§0
+§0[rate of production of neturons in V] -§0
+§0
+§0[rate of absorbtion in V]§0
+§0-§0
+§0[rate of leakage in V]
+#- Each of these terms in considered in turn. Let n be the density of neutrons at any point and time in V. The total number of neutrons in V is then:§0
+§0
+§0∫ n dV§0
+§0
+§0The rate of change in the number of neutrons is: 
+#- d/dt ∫ n dV§0
+§0
+§0which can also be written as:§0
+§0
+§0∫(dn/dt) dV§0
+§0
+§0Next, let 's' be the rate at which neutrons are emitted from sources per cubic cm in V. The rate at which neturons are 
+#- produced throughout§0
+§0V is given by:§0
+§0
+§0Production rate §0
+§0=§0
+§0∫s dV§0
+§0
+§0The rate at which neutrons are lost by absorbtion is equal to:§0
+§0
+§0Absorbtion rate =§0
+§0∫ΣΦ dV.
+#- Consider next the flow of neutrons into and out of V. If J is the neutron current density vector on the stuface of V and n is a unit normal pointing outward from the surface, then, according to the results of the previous section dot(J, n) is the net 
+#- number of neutrons passing outward through the surface per cm^2/s. It follows that the total rate of leakage of neutrons (which may be positive or negative) through the surface A of the volume is:§0
+§0Leakage rate =§0
+§0∫dot(J,n) dA§0
+
+#- This surface integral can be transformed into a volume integral by using the divergence theorem. Thus:§0
+§0
+§0∫dot(J,n) dA =§0
+§0∫div(J) dV§0
+§0
+§0and so:§0
+
+#- Leakage rate =§0
+§0∫div(J)dV§0
+§0
+§0The equation of continuity can now be obtained by introducing the prior results into the original equation. That gives:§0
+
+#- ∫(dn/dt)dV =§0
+§0∫s dV -§0
+§0∫ΣΦdV - 
+#- 

@@ -1,0 +1,129 @@
+title: Citadel Basics
+author: Marcus_Flaminius
+pages:
+#- §r       ~~~~~~~~
+§l       Citadel
+
+       Basics
+§r       ~~~~~~~~
+
+
+
+
+
+§o            by
+§r
+       random1001
+
+
+#- Hi there. If you're reading this, then you have probably joined a town and been trusted enough to be added to the town's citadel group. Congratulations!
+
+Of course the next best step is to learn how to use Citadel. This guide will walk you
+
+#- through the basics of using citadel as well providing helpful tips and advice. Learning everything about citadel and other plugins can be tricky, but hang in there and eventually you'll be an old pro.
+
+
+
+
+
+#- Chapter 1: What is Citadel?
+
+Citadel is the plugin through which you can protect your builds and chests from grief and robbery. This is done by adding a "reinforcement" to the block you want protected. A reinforced block will
+
+
+#- have to broken many times and reappear before the block actually breaks. Depending on the reinforcement, breaking a block can take quite awhile, just long enough that the griefer might get bored or you can come to the rescue.
+
+
+
+#- There a 4 different reinforcements:
+1. Stone - 25 breaks
+2. Coal -100 breaks
+3. Iron - 250 breaks
+4. Diamond - 1800 breaks
+
+As list shows, the more valuable the reinforcement, the stronger it is. Due to this, it might be a good
+
+#- idea to prioritize what needs which reinforcement. For example, you might want to use diamond for your valuables chest and stone when building your house. This way everything is safe and you're maximizing your reinforcement useage.
+
+
+
+#- Chapter 2: Basic Commands
+
+Now that you know the different reinforcements, how do you apply them to your blocks? The process is really simple. You use a command to turn on reinforcements, then physically apply the
+
+
+#- reinforcements to whichever blocks you want. However, before typing in the command, make sure you are holding the reinforcement material in your hand so citadel knows what to use.
+
+To add a reinforcement to a
+
+
+#- block, there are 2 commands; /ctr and /ctf.
+
+/ctr allows you to hold your reinforcement material and left click any existing block to reinforce it.
+
+/ctf allows you to select a 
+
+
+#- reinforcementmaterial, keep it in your hotbar, and then place other blocks which will then be reinforced.
+
+Between these two, you can either reinforce as you build or reinforce what you want anytime. Remember though, you must have your reinforcement
+
+
+#- material in hand when you type the command.
+
+Now suppose you've placed a few reinforcements and decide you don't like your project. Surely you don't have to break your blocks all those times to remove them right? You would be correct.
+
+
+#- Type /ctb to turn on bypass, which allows you to break the block and get the reinforcement material back from it. The best part is, once turned on, /ctb stays on till you turn it off or log off the server.
+
+If you've read to this point, then WOW,
+
+
+#- you've learned all the basic commands to use citadel. There are still a good many more commands to learn, but hang in there, you're already on the way.
+
+
+
+
+
+
+
+
+#-        --==O==--
+§o
+This short guidebook is from the  l a n d s  of CivRealms. As such,
+it is  p a r t  o f  t h e §8§oOtherworldly Series§0§o of books that have been acquired  from  other worlds by the Maester Alliance.§r
+
+       --==O==--
+
+
+#- 
+§o    Transcribed by
+§r
+§l Maester Flaminius
+§r§o          of the
+§r§l  Tenpo Assembly
+§r
+
+§o            on
+§r
+        April 10th
+
+           2015
+
+
+#- 
+
+
+§l       Maester
+       Alliance
+§r
+
+
+§7§l   The Bestowery
+     Scriptorium
+
+
+
+
+
+#- 

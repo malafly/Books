@@ -1,0 +1,257 @@
+title: Kompound Stores
+author: Tigen
+pages:
+#- ===================       SHOPS GUIDE:§0
+§0        KOMPOUND§0
+§0===================§0
+§0
+§0       Updated:§0
+§0       5/24/15§0
+§0
+§0All prices are listed in iron at an assumed exchange rate of§0
+§01D = 16i.§0
+§0VPI means Value Per Item (in diamond).
+#- ===================   IRON/DIAMOND ATMS§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:843§0
+§0   Z:9718§0
+§0Input:§0
+§0   a. 16i§0
+§0   b. 1D§0
+§0Output:§0
+§0   a. 1D§0
+§0   b. 14i
+#- Coords:§0
+§0   X:868§0
+§0   Z:9722§0
+§0Input:§0
+§0   1D§0
+§0Output:§0
+§0   14i§0
+§0
+§0
+§0
+§0Average Diamond/Iron exchange rate:§0
+§01D = 16i
+#- ===================    Spainland Embassy§0
+§0          Store§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:885§0
+§0   Z:9670§0
+§0
+§0Notes: Has a modern Spanish flag flying above the building.
+#- Item: Clay Blocks§0
+§0Input: 8i (0.5D)§0
+§0Output: 64§0
+§0VPI: .0078125
+#- ===================  Azjherben's Store§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:865§0
+§0   Z:9720§0
+§0
+§0Notes: Building is encrusted with emerald blocks.
+#- Item: Emerald Blocks§0
+§0Input: 5D§0
+§0Output: 1§0
+§0VPI: 5§0
+§0
+§0Item: Redstone Dust§0
+§0Input: 1D§0
+§0Output: 11§0
+§0VPI: 0.09090909091§0
+§0
+§0Item: Lapis Blocks§0
+§0Input: 1D§0
+§0Output: 1§0
+§0VPI: 1
+#- ===================        Bow Shop§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:847§0
+§0   Z:9737§0
+§0
+§0Notes:§0
+§0Small stall with a red and white tent above.
+#- Item: Bow§0
+§0Input: 1i (0.0625D)§0
+§0Output: 1§0
+§0VPI: 0.0625§0
+§0
+§0Item: Enchanted Bow§0
+§0Input: 1D§0
+§0Output: 1§0
+§0VPI: 1§0
+§0
+§0Item: Arrows§0
+§0Input: 1i§0
+§0Output: 0.0625§0
+§0VPI: 0.0009765625
+#- ===================    Turtleman9198's§0
+§0         Vendor§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:845§0
+§0   Z:9725§0
+§0
+§0Notes: Open-air shop in a small wooden enclave.
+#- Item: Charcoal§0
+§0Input: 4i (0.25D)§0
+§0Output: 64§0
+§0VPI: 0.00390625§0
+§0
+§0Item: Glowstone§0
+§0Input: 12i (0.75D)§0
+§0Output: 10§0
+§0VPI: 0.075§0
+§0
+§0Item: Netherbrick§0
+§0Input: 1D§0
+§0Output: 64§0
+§0VPI: 0.015625
+#- Item: Netherrack§0
+§0Input: 3i (0.1875D)§0
+§0Output: 64§0
+§0VPI: 0.0029296875§0
+§0
+§0Item: Cactus§0
+§0Input: 3i (0.1875D)§0
+§0Output: 64§0
+§0VPI: 0.0029296875
+#- ===================  Kompound General§0
+§0          Store§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:845§0
+§0   Z:9715
+#- Item: Diamond Pickaxe§0
+§0Input: 1D§0
+§0Output: 1§0
+§0VPI: 1§0
+§0
+§0Item: Diamond Shovel§0
+§0Input: 2D§0
+§0Output: 3§0
+§0VPI: 0.66§0
+§0
+§0Item Bucket§0
+§0Input: 2i (0.125D)§0
+§0Output: 1§0
+§0VPI: 0.125
+#- Item: Glass Panes§0
+§0Input: 8 Stone§0
+§0Output: 2
+#- ===================Harmalite's Innawoods§0
+§0          Depot§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:790§0
+§0   Z:9730§0
+§0
+§0Notes: Building enterance is accessable via alleyway.
+#- Item: Fishing Rod§0
+§0Input: 1i (0.0625D)§0
+§0Output: 1§0
+§0VPI: 0.0625§0
+§0
+§0Item: Bow§0
+§0Input: 1i (0.0625D)§0
+§0Output: 1§0
+§0VPI: 0.0625§0
+§0
+§0Item:: Arrows§0
+§0Input: 1i (0.0625D)§0
+§0Ouput: 32§0
+§0VPI: 0.001953125
+#- Item: Tan Leather Helmet§0
+§0Input: 2i (0.125D)§0
+§0Output: 1§0
+§0VPI: 0.125§0
+§0
+§0Item: Tan Leather Chestplate§0
+§0Input: 3i (0.1875D)§0
+§0Output: 1§0
+§0VPI: 0.1875
+#- Item: Tan Leather Leggings§0
+§0Input: 3i (0.1875D)§0
+§0Output: 1§0
+§0VPI: 0.1875§0
+§0
+§0Item: Tan Leather Boots§0
+§0Input: 2i (0.125D)§0
+§0Output: 1§0
+§0VPI: 0.125
+#- Item: Green Leather Helmet§0
+§0Input: 2i (0.125D)§0
+§0Output: 1§0
+§0VPI: 0.125§0
+§0
+§0Item: Green Leather Chestplate§0
+§0Input: 3i (0.1875D)§0
+§0Output: 1§0
+§0VPI: 0.1875
+#- Item: Green Leather Leggings§0
+§0Input: 3i (0.1875D)§0
+§0Output: 1§0
+§0VPI: 0.1875§0
+§0
+§0Item: Green Leather Boots§0
+§0Input: 2i (0.125D)§0
+§0Output: 1§0
+§0VPI: 0.125
+#- ===================        Main Shop§0
+§0===================§0
+§0
+§0Coords:§0
+§0   X:830§0
+§0   Z:9650§0
+§0
+§0Notes: Across the street from the murderbale and train station.
+#- Item: Healing Potion II§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125§0
+§0
+§0Item: Water B. Potion +§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125§0
+§0
+§0Item: Speed Potion +§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125
+#- Item: Speed Potion II§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125§0
+§0
+§0Item: Str. Potion +§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125§0
+§0
+§0Item: Str. Potion II§0
+§0Input: 1i (0.0625D)§0
+§0Output: 2§0
+§0VPI: 0.03125
+#- ===================     Merchant Bank§0
+§0    Corner Vendor§0
+§0===================§0
+§0
+§0Notes: Single exchange chest next to the bank.
+#- Item: Ghast Tear§0
+§0Input: 2D§0
+§0Output: 1§0
+§0VPI: 2
+#- If any information is missing, inaccurate, or needs updating, contact the author. We will udate these guides monthly if necessary.
+#- 

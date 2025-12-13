@@ -1,0 +1,35 @@
+title: A Factory Guide
+author: Mightyoddish
+pages:
+#- Welcome to the beginners guide to using a factory.§0
+§0
+§0
+§0Part of the official Yoahtlan guide series.§0
+§0
+§0By Mightyoddish, building owner of Ruina Industries
+#- Firstly you will need to have a stick to even interact with the UI.§0
+§0
+§0Secondly you need to make sure you have the following setup in front of you:§0
+§0
+§0Furnace:Crafting:Chest§0
+§0
+§0If you are already looking at one that's set up skip to page 8
+#- If you are setting up a new factory follow these steps. Firstly place a single dirt in the chest, then using the stick left click the crafting bench.§0
+§0Congrats, you now have a dirt factory.§0
+§0Now you can use the stick again and click the crafting bench,
+#- this will open up a UI.§0
+§0This UI will allow you to navigate and select certain factories that the dirt factory can be upgraded to.§0
+§0
+§0Lets select the first upgrade, the Basic Smelter. Next, make sure you put in some charcoal in the furnace.
+#- Next click on the workbench and click on the painting icon on the bottom right, this will bring up a menu with a few options, mostly all you will need id the middle one. Recipes. This will take you to a new UI that will reveal the cost of whatever (pto)
+#- item you wish to craft/upgrade. Click on the Basic Smelter icon again and then it shall reveal how much you need to put in the chest and how much charcoal to use to make your new factory. This Recipe function is in every type of factory to help you later.
+#- Once you have gathered enough materials and have them in the chest with charcoal in the furnace. left click the furnace with a stick to begin the factory.§0
+§0Congrats you now have a basic smelter and have learnt the basics of navigating a factory UI.
+#- This section is for those looking at a factory that is already set up. Firstly grab your stick and left click the work bench, then select the desired recipe you want to craft. To view the costs of this recipe open the UI and click the painting icon.
+#- next click on the work bench icon called Recipes. This will open a new UI allowing you to click on the item you want to make and view how much of each item you need at the top and the charcoal cost.§0
+§0Once you have everything in the chest and fuel in (pto)
+#- the furnace you can then left click using your stick the furnace to initiate the factory to craft your desired items.
+#- If your factory is in disrepair you shall need to select the repair function in the workbench UI, gather the required items listed in the recipe and place them in just the same as crafting an item. This shall fix the factory untill it breaks again.
+#- If you wish to break a factory and get 50% of the initial building costs back simply wait untill it is in disrepair and then break the entire machine. Do not do this to factories that arent owned by you or havent been gievn permission to break. Its rude.
+#- If you wish to view other factory recipes but dont own a dirt factory then the simple /fm command will display the dirt factory Recipe UI from here you can click the chest and view how to set up the factory or the bench to view what the factory can build.
+#- 

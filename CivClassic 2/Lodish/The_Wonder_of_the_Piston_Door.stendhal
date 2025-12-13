@@ -1,0 +1,199 @@
+title: The Wonder of the Piston Door
+author: Lodish
+pages:
+#- 
+§0
+§0
+§0
+§0§l§o  The Wonder of§0
+§0§l§o  the Piston Door§0
+§0
+§0
+§0           by§0
+§0       Anaxionus§0
+§0
+§0
+§0§lProperty of the Aqua Town Library
+#- §lIntroduction§0
+§0   Have you ever wanted to make a statement with space age doors instead of the simple swinging ones? Have you ever wanted to make a secret passageway? Piston doors are your answer.§0
+§0   Piston doors are, sadly, one of the least
+#- implemented technologies in our crafting universe. It seems some people have never figured out how to make them; it seems some might know the technology but haven’t gotten around to using it. But once you build a piston door assembly for a secret passage 
+#- for the first time, it feels like what it must have felt for our ancient ancestors who discovered fire – you have entered a new world of possibilities.§0
+§0   An important introductory note: the reader should read this ENTIRE book before attempting to build a
+#- piston door. There are various safety issues which must be taken into consideration for the door to work like it’s supposed to.
+#- §l§oChapter 1:§0
+§0§l§oThe Basic Principle§0
+§0   For any piston doorway, you will need at least two sticky pistons for the entrance mechanism. The idea is to have a constant redstone current to these two pistons, which are extended in such a way as to block off 
+#- an entry point. Another, separate, usually inactive redstone line runs underneath a pressure plate or connected to a lever, and (when activated) this redstone current activates another sticky piston whose attached block interrupts the first 
+#- redstone circuit (the one powering the two pistons which keep the doorway closed). When the crafter steps onto the pressure plate or flips the lever, the interrupting circuit interrupts the door circuit, and the two pistons retract, revealing an open 
+#- doorway.§0
+§0   This is the basic principle. Of course, the crafter can get as “crafty” with this basic design as desired. You can make double-wide doors by simply making two sets of doors, or have the pistons open in a pattern. I once made a secret passage 
+#- entrance that required the flipping of four levers (a sort of “lock” mechanism) with four interrupting circuits before the door’s interrupting circuit could actually open the door. One could also build a dual-lever system to keep the door open and then 
+#- shut it after. Some people like a door to remain open longer and so tweak how many redstone repeaters they lay down in the interrupting line. The possibilities are endless. This book will concern itself with the most basic design, and the clever crafter
+#- will (understanding the principles at play here) be able to get creative with his or her own design.
+#- §l§oChapter 2:§0
+§0§l§oThe Bare Minimum§0
+§0   At the very least, when building a piston door, you will need the following “ingredients” for the basic assembly described in this book:§0
+§0
+§03 Sticky Pistons§0
+§03 Blocks§0
+§0...
+#- ...§0
+§02 Pressure Plates§0
+§011 Redstone Dust§0
+§03 Redstone Repeaters§0
+§01 Redstone Torch
+#- §l§oChapter 3:§0
+§0§l§oLocation, Location§0
+§0   First, you will need to pick a suitable location for your doorway. If this is your first time building a piston door assembly, practice is recommended until you understand the principle.§0
+§0   In the next
+#- chapter, the basic design will be described for a simple door. If you are wanting to build this basic door, the next chapter will get the job done.§0
+§0   If you are wanting to build a secret doorway to a passage or room on the same level as the doorway
+#- (a walkthrough door), before you begin construction read Chapter 5 to select your location, and then read the next chapter (4).§0
+§0   If you are wanting to build a secret doorway to a passage or room §0§obelow§0 the level of the doorway, before you begin
+#- construction read Chapter 5 to select your location, and then read the next chapter (4).§0
+§0   In each of the following chapters, directions will be given in groupings, with diagrams following.
+#- §l§oChapter 4:§0
+§0§l§oBasic Door§0
+§0   Again, this chapter will describe a basic, two-high design powered by pressure plates on either side of the door.§0
+§0   First, find the wall through which you wish the door to extend when closed. Be prepared to excavate§0
+
+#- all around this area so to be able to build the components of the door.§0
+§0§l   Step 1: Foundation§0 Place two sticky pistons (stacked vertically) one block behind the line of the wall from which the door will extend; then place the two blocks which will 
+#- make the door (stacked vertically) in-line with the wall from which it is going to extend. Place a block behind the topmost sticky piston, then another block on the same level as the lower piston and two blocks behind it (as a “step” down from the block
+#- touching the topmost piston).§0
+§0
+§0§oDiagrams 1 and 2§0
+§0(o = Blank Space; B = Block; P = Sticky Piston; W = Wall)§0
+§0
+§0View from above:§0
+§0
+§0   W§0
+§0   BPBB§0
+§0   W§0
+
+#- View from the Side of the Pistons:§0
+§0
+§0   BPB§0
+§0   BPoB§0
+§0
+§0§lStep 2: Door Assembly§0 Now to build the rest of the door assembly. Looking at the rear of the pistons, build a “stair step” down (a block
+#- down and back) for 5 blocks to the left of the last block you placed. Then build a “stair step” up and a block on the same level, again to the left.§0
+§0
+§0§oDiagrams 3 and 4:§0
+§0(o = Blank Space; B = Block; P = Sticky Piston; - = Piston Extension; W = Wall)§0
+
+#- View from above:§0
+§0
+§0   W§0
+§0   BPBB§0
+§0   W   B§0
+§0   W   B§0
+§0   W   B§0
+§0   W   B§0
+§0   W   B§0
+§0   W   B§0
+§0   W   B
+#- View from the Side, from behind the Pistons:§0
+§0
+§0                WBW§0
+§0                oB§0
+§0               oB§0
+§0              oB§0
+§0             oB§0
+§0         BBoB§0
+§0            B
+#- §l   Step 3: Door Circuit§0 Now to build the redstone circuit on the door assembly you have just built. Place a redstone torch on the last block you placed in the previous step, then redstone dust on the rest, all the way to the block placed adjacent to
+#- the top piston. You will know you have done this correctly when the pistons activate.§0
+§0
+§0§l   Step 4: Interrupter Assembly§0 Now to lay the groundwork for making the door open. Go to where the pistons have activated to create the closed
+#- door. Facing the same direction as the pistons, to the right, in the space directly next to the extended blocks, place a block two blocks below the level of the bottom piston and door (i.e. there should be a space between the block and the level of the
+#- bottom piston). Now place two more blocks on the same level moving backward, that is, moving from the block to the right of the pistons (which you just placed) to the block to the left.§0
+§0   Now, facing the extended door the pistons have extended, place a
+#- block to the right of the block you now just placed, and then another block to the right of that. Then, moving backward from the door pistons, place a row of three blocks. Then place a sticky piston at the end of the row you just built, facing to the
+#- right (pointing toward the door circuit). Finally, place a block on the face of the piston.§0
+§0
+§0§oDiagrams 5, 6, and 7:§0
+§0(o = Blank Space; B = Block; P = Sticky Piston; T = Redstone Torch; W = Wall)§0
+
+#- View from above, not including the Door Circuit:§0
+§0
+§0B§0
+§0B§0
+§0BBB§0
+§0   B§0
+§0   B§0
+§0   B§0
+§0   PB
+#- View from above, Showing the End of Circuit, Including the Door Circuit (Italicized):§0
+§0
+§0     ...§0
+§0     B  §0§oB§0
+§0     B  §0§oB§0
+§0     B  §0§oB§0
+§0     PB§0§oB§0
+§0§o        B§0
+§0§o        T
+#- View from the Side of Pistons, Including the Door Circuit (Italicized):§0
+§0
+§0   §0§oB-PB§0
+§0§o   §0§oB-PoB§0
+§0   o    §0§oB§0
+§0   BBPB§0§oT§0
+§0§o         B§0
+
+#- §l   Step 5: Interrupter Circuit:§0 Now it’s time to finish the door by placing the redstone circuit on the interrupter assembly. Proceed in the same way that you laid out the assembly, beginning near and under the extended blocks that make the
+#- door, moving down the line to the piston of the interrupter itself. Place 3 redstone on the three blocks that fall on the right of the piston door, under the piston door, and to the left of the piston door. On the block to the right of these three, place 
+#- a redstone repeater, and set it to its full setting (the two pins as far from each other as possible); on the block to the right of this, place redstone dust. Then moving away from the piston door toward the piston of the interrupter, place 2 redstone
+#- repeaters, and set them to their full setting (the two pins as far from each other as possible). On the final block of the assembly, place a redstone dust. This should complete the circuit. Place two pressure plates on the block on either side of the
+#- extended door; when you step on either pressure plate, it should power the interrupter circuit, which should extend a block over the “dip” in the main piston door circuit, interrupting it and causing the door pistons to deactivate.
+#- §oDiagram 8:§0
+§0(B = Block; P = Sticky Piston; R = Redstone Dust; X = Redstone Repeater)§0
+§0View from above:§0
+§0R§0
+§0R§0
+§0RXR§0
+§0   X§0
+§0   X§0
+§0   R§0
+§0   PB
+#- §l§oChapter 5:§0
+§0§l§oSecret Room/Passage on Same Level§0
+§0   The variation here is in the location of the piston door. In order to hide an entrance, you will need to find or make a corner or a “one-off” column of blocks against a
+#- wall – basically, a place in which the door looks like part of the wall until retracted, and yet also where (once the door is retracted) there can be a concealed passage or room. An example illustrated...
+#- §oDiagram 9:§0
+§0(B = Block; P = Sticky Piston; # = Passage; - = Piston Extension; W = Wall)§0
+§0
+§0View from above:§0
+§0
+§0           #§0
+§0       WWW#§0
+§0           B-P§0...§0
+§0           W§0
+§0           W
+#- §l§oChapter 6:§0
+§0§l§oSecret Room/Passage on Lower Level§0
+§0   The variation here, as in the last chapter, is in the location of the piston door. However, since the passage or room being concealed is below the level of the entryway, this is much easier
+#- to hide, because the passageway itself doesn’t need to be concealed. In other words, the door itself simply needs to be concealed in a wall. However, it must be down, because if it the passage or room is up, there will be no way to climb. An example...
+#- §oDiagram 10:§0
+§0(B = Block; P = Sticky Piston; # = Passage; - = Piston Extension; W = Wall)§0
+§0
+§0View from above:§0
+§0  §0
+§0WWWW§0
+§0     W§0
+§0     B-P...§0
+§0     W
+#- §l§oConclusion§0
+§0   This book has introduced the basic principle of the piston door. It’s of course up to the reader to utilize this knowledge, now learned, to solve problems and make amazing creations.
+#- 
+§0
+§0
+§7by Anaxionus§0
+§0
+§7From Castia Server§0
+§0
+§7Copied by Lodish§0
+§0
+§714th of May '18
+#- 

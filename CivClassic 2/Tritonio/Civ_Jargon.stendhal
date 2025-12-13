@@ -1,0 +1,177 @@
+title: Civ Jargon
+author: Tritonio
+pages:
+#- ========§0
+§0 Jargon§0
+§0========§0
+§0Taken from §0https://civclassic.miraheze.org/wiki/Jargon§0
+§0
+§0==========§0
+§0Technical§0
+§0==========§0
+§0
+§0Acid blocking: The act of purposefully reinforcing gold
+#- blocks to remove reinforced blocks, for example grief or derelict builds.§0
+§0
+§0Alt vault: A logged-out account storing valuables in its inventory. Used because items cannot be stolen while logged out, and can be instantly retrieved. Disadvantages are
+#- that they cannot be accessed while pearled, and that each account needs to be bought with real money.§0
+§0
+§0Alt: Alternative accounts to a player's main account. Used to allow quickly logging in at a certain location possibly far away from the main account
+#- ("combat alt"), or to obscure identity, for example when alt raiding or spying.§0
+§0
+§0Bastion: Usually referring to Vault Bastion, sometimes City Bastion.§0
+§0
+§0Bot: A script (often using MacroMod) to automatically gather resources (farms,
+#- mining, etc.). Can also refer to an alt account currently running that script.§0
+§0
+§0Chest vault: Lots of reinforced chests in a secure area, to make raiding inefficient by spreading the stored valuables across many chests, requiring the raider to spend more
+#- time breaking chests than it would take to obtain the items legitimally.§0
+§0
+§0City Bastion: A special lored bone block which, when reinforced, protects a 101x101 square area from reinforced block placement and exiled players from entering, unless the player
+#- is on the bastion's reinforcement group.§0
+§0
+§0Compacted: Special items created with the Compactor factory for easy storage or transport. One compacted item equals a stack (64) of regular items. Compacting and decompacting are lossless, using only
+#- one crate for the former.§0
+§0
+§0Compactor: Factory for compacting items.§0
+§0
+§0Component: Special lored items used to create bastions or the bastion factory. Created in other factories first, drawing from all parts of the tech tree.
+#- Crate: A lored chest used to compact items in a compactor factory. Decompacting doesn't require them. Made in a carpentry factory using wood and iron.§0
+§0
+§0CS: A Compacted stack, or 64x64 items. Used in trade to specify big amounts of items.
+#- d: Diamonds, used in trade to specify prices. 20d means 20 Diamonds.§0
+§0
+§0DC, SC: Double chest or single chest, respectively. Used in trade to specify big amounts of items. 1 dc means 54 stacks of items (either compacted or regular), 1 sc means
+#- 27 stacks.§0
+§0
+§0DRO/IRO/SRO: Refers to diamond/iron/stone reinforced obsidian respectively. Used in secure structures usually for storage or defense.§0
+§0
+§0Dropchest: A chest hidden in the stone layer far from civilization, to protect
+#- wealth from being raided. Can also be shared with another player to facilitate trading.§0
+§0
+§0ExilePearl/EP: A lored enderpearl preventing its contained player from PvP, logging into alt accounts, entering bastion fields, and coming closer than 1000m to the
+#- pearl.§0
+§0
+§0Exp/XP: Emeralds/-blocks or Bottles of Exp, used for enchanting, obtained only through Cauldron factories, can be converted into one another by crafting.§0
+§0
+§0Factory: Special setup of chest, workbench,
+#- and furnace allowing efficient production of normal or special ("lored") items through the FactoryMod plugin.§0
+§0
+§0Grief: Destruction/placement of ugly blocks to deface a build or area, done to easily but effectively cause damage.
+#- Hiddenore: A plugin that randomly generates ores as you break stone blocks. The map had no ores when it was generated, to prevent x-ray and allow admins to rebalance ore distribution in the future.§0
+§0
+§0i: Iron ingots, used in trade to specify
+#- prices. 20i means 20 Iron Ingots.§0
+§0
+§0Mana/Meme Mana/MM: Virtual fuel for pearls, bound to a namelayer group. Can be obtained once a day by running /manaclaim, yielding more mana per day if you claim it every day.§0
+§0
+§0Mod: A modification to
+#- enhance the Minecraft client program, for example adding a minimap, armor status, player radar, or to run bots.§0
+§0
+§0Obby bomb: Covering a city in SRO, as a form of griefing.§0
+§0
+§0Plugin: A modification on the server to allow custom mechanics like
+#- reinforcements, factories, random respawn locations, etc. without requiring changes to the Minecraft client.§0
+§0
+§0PrisonPearl/PP: A lored enderpearl binding its contained player to the End dimension.§0
+§0
+§0Raider: A player who
+#- is known for murdering or stealing, usually by breaking into chests.§0
+§0
+§0Reinforce (verb): Using a reinforcement on a block to protect it from being broken. Used to protect builds and storage chests from getting griefed or raided.§0
+§0
+§0Reinforcement: Smooth
+#- stone, iron ingot, or diamond items, which can be used to reinforce blocks.§0
+§0
+§0Shop chest: Trade chest configured for ItemExchange. Left-click the chest with an empty hand to select a trade (displayed in chat), then hold the input item and left-click to
+#- execute the trade.§0
+§0
+§0Snitch: Reinforced Noteblock or Jukebox that allows monitoring the 23x23x23 cube area around it by sending messages to the chat of its reinforcement group when a player enters the area. Jukes also record this when noone is reading
+#- chat, as well as block breaks/placements, opened chests, precise logout coordinates, killed mobs, and entering/leaving vehicles. To see the log, stand in the monitored area and run the /ja command, or /jainfo next to take screenshots more easily. The log
+#- gets deleted after 2 weeks.§0
+§0
+§0Trench: Used for protection of cities and vaults. Dug very deeply, often to bedrock, and bastioned to prevent bridging, so that access to the contained area can be tightly controlled.
+#- Vault Bastion: A special lored sponge block which, when reinforced, protects a 21x21 square area from block placement and thrown enderpearls from landing, unless the player is on the bastion's reinforcement group.§0
+§0
+§0=======
+#- Combat§0
+§0=======§0
+§0
+§0Gear/geared: Items required for combat, which are prot, pots, pearls, and enchanted swords.§0
+§0
+§0Layers: The number of layers of DRO in a vault spike. A "30 layer" vault spike means one has to mine
+#- through 30 pieces of DRO to access the pearl chest.§0
+§0
+§0Loadout: See gear.§0
+§0
+§0Pearl (noun): Either a normal enderpearl, an exilepearl, or a prisonpearl.§0
+§0
+§0Pearling (verb): The act of obtaining an exilepearl or
+#- prisonpearl via killing another player.§0
+§0
+§0Pots: Potions used in combat loadouts, such as Health, Speed, Regen, Strength, etc.§0
+§0
+§0Pot bunker: An IRO or DRO room made to enable people to heal, repair armor, and get new pots during fighting outside of a
+#- vault.§0
+§0
+§0Prot pinata: A player wearing prot who can't fight well and just takes hit after hit before dying and losing all gear to the enemy.§0
+§0
+§0Prot/ProtIV/Prot4: A full set of Protection IV enchanted diamond armor, usually with
+#- other useful enchants. This is the minimum requirement to be effective in PvP. Can be seen as threatening depending on the player in question.§0
+§0
+§0Rings: Obsidian trenches, usually IRO but sometimes SRO, which surround a vault spike and are
+#- used to defend against a ground-based assault.§0
+§0
+§0Skybridge: A bridge in the sky used to break bastions without having to break through the rest of the vault defenses so that attackers can focus on pearling the defenders and mining through the spike.
+#- Skybunker: An obsidian bunker, usually above a vault, used to defend against skybridges.§0
+§0
+§0Spike: A line through the obsidian pyramid at the center of a vault, diamond reinforced on a separate shared group, to allow sharing access to the chest containing
+#- pearls.§0
+§0
+§0Trash prot/Fake prot: Any enchanted diamond armor that isn't Prot IV used to bluff when the potential attacker is afraid that it might be actual Prot IV.§0
+§0
+§0Vault: A giant, reinforced obsidian structure which is used to securely hold
+#- pearls. Main Article: Vault. These are the basis of warfare and are how people hold prisoners of war. Can also refer to just the DRO pyramid in its center. Not suited for storing items, for that see Chest Vault, Alt Vault.§0
+§0
+§0Vaulting someone: Putting
+#- someone's pearl into your Vault.§0
+§0
+§0=============§0
+§0Conversation§0
+§0=============§0
+§0
+§0Civcraft: The original iterations of the Civ genre ran by ttk2, also referred to as 1.0, 2.0, CivTemp, and 3.0.
+#- Channer: A player preferring 4chan/... over Reddit to communicate.§0
+§0
+§0Claim: Either referring to a land claim (of a nation), or a demand for reparations from someone (as in "Claims post"/"Post claims on me").§0
+§0
+§0Commie: A player in a
+#- communist nation or with strong communist preferences regarding government or economy.§0
+§0
+§0Crayon Claim: Excessively large land claim that is not enforced in-game, either by new nations out of poor judgement, or by established nations
+#- for greed or provocation.§0
+§0
+§0F: Press F to pay respects, usually used ironically.§0
+§0
+§0Gank: Surprise attack, usually with an advantage on the attackers side, both in skill and numbers.§0
+§0
+§0L/Taking an L:
+#- Someone made a mistake and got destroyed for it.§0
+§0
+§0Mineman, eLegos, Civman: Ironic terms referring to Minecraft or Civ specifically.§0
+§0
+§0Newfriend: New player who does not know much about Civ.§0
+§0
+§0Oldfriend:
+#- Experienced player who has been playing Civ servers for several years.§0
+§0
+§0Shitter: Players who do shitty things ingame and add nothing to the community.§0
+§0
+§0Toxic: Somebody who really made the mindset of the community worse and
+#- spread poison via metagame behavior like doxxing and harassing players.§0
+§0
+§0ttk2: Head admin of Civcraft, popularized and advanced the Civ genre.§0
+§0
+§0World Police: Self-appointed PvP group or alliance interfering in
+#- international politics usually by assisting small nations in pearling raiders.
+#- 

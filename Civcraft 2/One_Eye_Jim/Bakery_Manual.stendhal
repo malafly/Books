@@ -1,0 +1,44 @@
+title: Bakery Manual
+author: One_Eye_Jim
+pages:
+#-         The Bakery
+ -===============-
+  Manual of Operation
+
+
+
+
+
+
+Deadwood Rift Guild
+     of Mechanics
+#- Maintenance:
+As with all factories, the bakery system must be repaired every 28 days, real time. Please be sure to record the time the machine was last serviced after every repair. Repairing this machine requires an input of 52 baked potatoes, 105 cookies
+#- 26 bread, and 20 pumpkin pies. Left click the crafting table component with a stick in hand to cycle recipes, and left click the furnace with a stick in hand to start operation. Add materials into the chest, and fuel to the furnace.
+#- Recipes:
+192 Potatoes
+12 Charcoal
+->384 Baked Potatoes
+--------
+256 Wheat
+128 Cocoa
+12 Charcoal
+-> 2048 cookies
+--------
+384 Wheat
+12 Charcoal
+-> 256 Bread
+#- Recipes Continued:
+36 sugar
+13 egg
+54 wheat
+18 milk buckets
+12 charcoal
+-> 24 cakes + buckets
+------
+192 sugar
+192 eggs
+192 pumpkin
+12 charcoal
+-> 256 Pumpkin Pie
+#- 

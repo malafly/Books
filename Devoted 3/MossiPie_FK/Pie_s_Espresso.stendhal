@@ -1,0 +1,64 @@
+title: Pie's Espresso
+author: MossiPie_FK
+pages:
+#- Coffee Brew 1:§0
+§0Product: 9 coffee§0
+§0Quality: Okay§0
+§0Ingredients:§0
+§01 Milk§0
+§08 cocoa§0
+§0Time: 3 minutes§0
+§0Outcome: 25 seconds speed, 4 second regen§0
+§0
+§0Changes:  Next brew will have sugar and more cocoa
+#- Coffee Brew 2:§0
+§0Product: Coffee§0
+§0Quality: Good§0
+§0Ingredients:§0
+§01 milk§0
+§010 cocoa§0
+§0Time: 3 minutes§0
+§0Outcome: 5 seconds longer of speed, regen the same§0
+§0
+§0Changes: Sugar Cane
+#- Coffee Brew 3:§0
+§0Product: Coffee§0
+§0Quality: eh§0
+§0Ingredients:§0
+§01 milk§0
+§010 cocoa§0
+§01 sugarcane§0
+§0Time: 3 minutes§0
+§0Outcome: 23 seconds of speed, same regen§0
+§0
+§0Changes: mess with proportions, no new brews, but findings.
+#- Random Findings 1:§0
+§0Too much cocoa with no sugar wears down the speed§0
+§0Sugar is good, just has to have the correct proportions§0
+§0More milk is bad and more time is bad§0
+§0Too many cocoa beans ruins the brew
+#- Brew 4:§0
+§0Product: Espresso§0
+§0Quality: Great!§0
+§0Ingredients:§0
+§02 milk§0
+§012 cocoa§0
+§0Time: 3 mins§0
+§0Outcome: 40 seconds speed, 4 seconds regen§0
+§0
+§0Changes: Proportions to get more regen.§0
+§0More findings time!
+#- Findings 2:§0
+§02 mins is no different than 3 mins§0
+§01 minute gets it up to 45 seconds of speed§0
+§045 seconds does the same
+#- The Perfect Espresso:§0
+§0Ingredients:§0
+§02 milk§0
+§012 cocoa§0
+§0Time: 45 seconds to      1 minute§0
+§0Quality: Great!§0
+§0Effects:§0
+§045 seconds of speed§0
+§04 seconds of regen
+#- 

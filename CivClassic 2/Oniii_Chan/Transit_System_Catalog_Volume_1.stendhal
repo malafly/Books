@@ -1,0 +1,136 @@
+title: Transit System Catalog: Volume 1
+author: Oniii_Chan
+pages:
+#- Icenia Transit Authority Office§0
+§0
+§0X: -1686§0
+§0Y: 71§0
+§0Z: -1303§0
+§0
+§0/dest office§0
+§0
+§0The office of the tranisit authority, accepting donations and mail, as well as selling this book.
+#- Icenia Park§0
+§0
+§0X: -1665§0
+§0Y: 71§0
+§0Z: -1295§0
+§0
+§0/dest iceniapark§0
+§0
+§0The large park in the middle of Icenia City, featuring footpaths, bushes, and naturally generated trees.
+#- Subway§0
+§0
+§0X: -1691§0
+§0Y: 64§0
+§0Z: -1348§0
+§0
+§0/dest subway§0
+§0/dest jah§0
+§0
+§0The subway under icenia near jah park and the station building. This station also serves jah park
+#- Icenia Station§0
+§0
+§0X: -1679§0
+§0Y: 36§0
+§0Z: -1428§0
+§0
+§0/dest station§0
+§0
+§0Icenia's International Rail Station, with rail lines to Bloom, 0,0, Gensokyo, and more.
+#- Exp Co-op§0
+§0
+§0X: -1668§0
+§0Y: 72§0
+§0Z: -1395§0
+§0
+§0/dest expcoop§0
+§0/dest exp§0
+§0
+§0In the side of the station building, near the exp co-op, visitor's center, and an exp shop.
+#- Station Building (Indoors)§0
+§0
+§0X: -1666§0
+§0Y: 72§0
+§0Z: -1402§0
+§0
+§0/dest stationbuilding§0
+§0
+§0The inside of Icenia's station building.
+#- Quantonimo Bay Industries Public Factory Building§0
+§0
+§0X: -1545§0
+§0Y: 75§0
+§0Z: -1393§0
+§0
+§0/dest factory§0
+§0/dest qbfactory§0
+§0
+§0One of Icenia's Factories. Next page: List of factories.
+#- * Aesthetics Factory§0
+§0* Basic/Ore Smelter§0
+§0* Rail Factory§0
+§0* Carpentry Factory§0
+§0* Charcoal Maker§0
+§0* Glass/Clay/Wool Dying§0
+§0* Bio Lab§0
+§0* Concrete Mixer§0
+§0* Printing Press§0
+§0* Grill/Bakery§0
+§0* Redstone Mechanics§0
+§0* Compactor
+#- Versailles§0
+§0
+§0X: -1594§0
+§0Y: 70§0
+§0Z: -1292§0
+§0
+§0/dest versailles§0
+§0/dest soundtech§0
+§0
+§0The greenery part of icenia, notibly featuring SoundTech's house.
+#- Skybunker WaterDrop§0
+§0
+§0X: -1584§0
+§0Y: 67§0
+§0Z: -1325§0
+§0
+§0/dest skybunker§0
+§0/dest thehemogoblins§0
+§0
+§0Contains a water drop to the skubunker, a short staircase to the surface, and a door to SoundTech's.
+#- Overland Railway*§0
+§0
+§0X: -1552§0
+§0Y: 71§0
+§0Z: -1185§0
+§0
+§0/dest overlandrail§0
+§0
+§0A railway that travels over land to some unincorperated places within Icenia.
+#- Fort Olendor*§0
+§0
+§0X: -1533§0
+§0Y: 82§0
+§0Z: -958§0
+§0
+§0/dest overlandrail§0
+§0/dest olendor§0
+§0
+§0A small fort at the end of the overland railway with some houses inside.
+#- Sunnyshore*§0
+§0
+§0X: -1533§0
+§0Y: 68§0
+§0Z: -1103§0
+§0
+§0/dest overlandrail§0
+§0/dest sunnyshore§0
+§0
+§0A newfriend district of Icenia along the overland railway.
+#- Copyright (c) Amelorate/Oniii_Chan October 2019§0
+§0
+§0Destinations marked with an asterisk are planned for construction, and may not be present when this catalog is published.§0
+§0
+§0Made in Icenia
+#- 

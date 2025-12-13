@@ -1,0 +1,94 @@
+title: Brew Book
+author: RedTourmaline
+pages:
+#- Our True Leader's Liquid Cocain:§0
+§0> 40 Sugar cane§0
+§0> 8 long grass§0
+§0> 6 Cactus§0
+§0> 8 redstone dust§0
+§0===================Cook: 15m§0
+§0Distill: 4+§0
+§0Age: Do not age§0
+§0Barrel Type: N/A
+#- Epic Stout:§0
+§0> 24 Wheat§0
+§0===================Cook: 15m§0
+§0Distill: Do not distill§0
+§0Age: 4 years§0
+§0Barrel Type: Dark Oak§0
+
+#- Fine Ale:§0
+§0> 9 Wheat§0
+§0===================Cook: 8m§0
+§0Distill: Do not distill§0
+§0Age: 4 years§0
+§0Barrel Type: Spruce§0
+
+#- Pirate Rum:§0
+§0> 32 Sugarcane§0
+§0===================Cook: 10m§0
+§0Distill: 2 times§0
+§0Age: 14 years§0
+§0Barrel Type: Jungle
+#- Golden Mead:§0
+§0> 24 sugar cane§0
+§0===================Cook: 8m§0
+§0Distill: do not distill§0
+§0Age: 5 years§0
+§0Barrel Type: Oak
+#- Craft Beer:§0
+§0> 18 wheat§0
+§0===================Cook: 12m§0
+§0Distill: Do not still§0
+§0Age: 4 years§0
+§0Barrel Type: Spruce
+#- Beer:§0
+§0> 9 Wheat§0
+§0===================Cook: 8m§0
+§0Distill: do not distill§0
+§0Age: 4 years§0
+§0Barrel Type: Oak
+#- Thandon's Black Label: > 15 cocoa beans§0
+§0> 10 seads§0
+§0===================Cook: 15m§0
+§0Distill: Do not distill§0
+§0Age: 4 years§0
+§0Barrel Type: Oak
+#- Apple Mead:§0
+§0> 9 apples§0
+§0> 14 sugar cane§0
+§0===================Cook: 9m§0
+§0Distill: Do not distill§0
+§0Age: 4 years§0
+§0Barrel Type: Oak
+#- Coffee:§0
+§0> 12 cocoa beans§0
+§0> 2 Milk§0
+§0===================Cook: 5m§0
+§0Distill: Do not distill§0
+§0Age: Do not age§0
+§0Barrel Type: n/a§0
+
+#- Pumpkin Spice Latte:§0
+§0> 12 cocoa §0
+§0> 2 milk§0
+§0> 2 sugar cane§0
+§0> 5 pumpkin seeds§0
+§0===================Cook: 3m§0
+§0Distill: Do not distill§0
+§0Age: Do not age§0
+§0Barrel Type: N/A
+#- Russian Vodka:§0
+§0> 18 potatoes§0
+§0===================Cook: 15m§0
+§0Distill: 4+ times§0
+§0Age: Do not age§0
+§0Barrel Type: N/A
+#- Espresso:§0
+§0> 8 cocoa§0
+§0> 1 milk§0
+§0===================Cook: 3m§0
+§0Distill: N/A§0
+§0Age: Do not age§0
+§0Barrel Type: N/A
+#- 

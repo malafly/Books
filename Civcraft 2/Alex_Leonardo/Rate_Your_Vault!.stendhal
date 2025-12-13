@@ -1,0 +1,48 @@
+title: Rate Your Vault!
+author: Alex_Leonardo
+pages:
+#- §oOn Vaults:§0
+§0
+§0Vaults are a very important commodity in the world of CivCraft. They can serve many uses during any conflict or griefing. §0
+§0For example, Vaults can:§0
+§0
+§0•Protect swag§0
+§0•Keep you safe from being killed/pearled
+#- •Allow you to seek refuge from local  authority§0
+§0•House prisonpearls
+•Etc.
+
+To calculate your vault's effectiveness against raids, use the following "Vault Scoring System*"
+*Only use as a rough inference, it may or may not be accurate
+#- 1. Start with zero points (P)§0
+§02. Check Materials§0
+§0-Iron Door: +1P§0
+§0-Obsidian Walls: +1P§0
+§0-Bedrock Floors: +1P§0
+§03. Check Reinforcements:§0
+§0-Stone: 0P§0
+§0-Iron: +1P§0
+§0-Diamond: +2P§0
+§0-Bonus: Multiply total points by layer count
+#- 4. Check Reinforcements (For Door)§0
+§0-Stone & Iron: 0P§0
+§0-Diamond: +1P§0
+§05. Vault Stock§0
+§0-Have ≥1 Chest: +1P§0
+§0-Food Stocked: +1P§0
+§0-Reinforced Chest: +XP (X= each level of reinforcement, from stone to diamond.)§0
+
+#- 6. Ease of Access§0
+§0-For every 5 seconds it takes to get to the vault, -1P§0
+§0
+§07. Add up all points§0
+§0(Multiply total by bonus from step 3)§0
+§0-1-4P: Mediocre, good against less effective forces§0
+§0-5-8P: Decent, will stop a pack of plebians
+#- -10~P: Good, will fend off a small group of elites
+-12-17P: Great, will withstand a small army of plebs, or a  group of elites
+-20+: Overkill; effective against large-scale raids
+
+It is recommended you have a vault that rates 10+ on the
+#- "Vault Scoring System" for complete protection against raids.
+#- 

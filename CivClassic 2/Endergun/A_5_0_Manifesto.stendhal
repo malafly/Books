@@ -1,0 +1,35 @@
+title: A 5.0 Manifesto
+author: Endergun
+pages:
+#- A 5.0 Manifesto§0
+§0-=-=-=-=-=-=-=-=-=-A summary of concepts for consideration in future iterations of the CivClassics server.
+#- Reinforcement§0
+§0-------------------* Remove reinforcement groups, have all reinforcements be equal to all players regardless of who reinforces.§0
+§0* Match maturation times with current acid times.
+#- * Chests become locked by assigning them to renamed papers, opening a locked chest requires having the paper in inventory.§0
+§0* Replace acid with "solvent", expensive item that takes up resources for effectively doing the /ctb command.
+#- * Solvents would be roughly in resource value to their corrosponding reinforcement material, requires mass resources in factories to make.§0
+§0* Destroys reinforcement material in use.
+#- Farming§0
+§0-------------------* Double all crop times.
+#- Bastions§0
+§0-------------------* Remove them.
+#- Map Generation§0
+§0-------------------* Remove a large chunk of nether islands, situate them further to the map fringes.§0
+§0* Larger, uninterrupted land masses, larger biomes, less rivers in favour of fewer, longer ones.§0
+
+#- * Divide map between a small few continents, spread between oceans, each reasonably consistent in biomes, less or more of each kind.§0
+§0* More seas, gulfs, basins.§0
+§0* Mountain ranges dividing areas of a continent.
+#- * Square pyramid-like structures of bedrock underneath large mountains such as in ranges.§0
+§0* Surplus and deficit of iron and diamonds veins in certain regions, heavier distribution near mountain ranges.
+#- * Allow certain lakes and basins to go below or above sea level.§0
+§0* 20km radius.§0
+§0* Man-made structures (a la dungeons but bigger) in world on spawn with loot, reinforced with stone, very rare.
+#- Snitches§0
+§0-------------------* Snitch messages disabled outside a 2km radius of the snitch.§0
+§0* Similar locking mechanism to chests as previously mentioned.
+#- General§0
+§0-------------------* No direct messaging or group chats.§0
+§0* Disable pearl and chorus fruit teleports.
+#- 

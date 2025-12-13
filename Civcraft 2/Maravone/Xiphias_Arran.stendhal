@@ -1,0 +1,505 @@
+title: Xiphias/Arran
+author: Maravone
+pages:
+#- §oList of trades in Xiphias§r
+
+-Maravone
+#- §oNed'sKnick Nether Knacks:§r
+
+inp:64 netherack
+out:1i
+
+inp:32 netherack
+out:1i
+
+inp:16 soulsand
+out:1i
+
+
+#- inp:1i
+out:32 soulsand
+
+inp:3d
+out:32 quartz block
+
+inp:32 quartz block
+out:2d
+
+inp:1d
+out:16 glowstone
+#- inp:9i
+out:32 nether brick
+
+inp:32 nether brick
+out:8i
+
+inp:32 nether wart
+out:8i
+
+inp:9i
+out:32 nether wart
+#- inp:8 blaze rod
+out:1d
+
+inp:1d
+out:8 blaze rod
+
+inp:18i
+out:1d
+
+inp:1d
+out:18i
+#- §oMr. Magoos Wonderland Emporium§r
+
+inp:1d
+out:144 red mushroom
+
+
+§oDwarrowdelf's Potions§r
+
+inp:2i
+ouy:1 healing potion2
+#- inp:2i
+out:1 harming potion2
+
+inp:3i
+out:splash heal potion2
+
+inp:4i
+out:splash harming potion2
+
+inp:2i
+out:breathing2 potion
+#- inp:1i
+out:night vision 2 potion
+
+inp:1i
+out:swiftness 2 potion
+
+inp:3i
+out:splash weakness 2 potion
+
+inp:3i
+out:splash fire potion2
+#- inp:1d
+out:2 invisibility 2 potion
+
+
+Bulk Sales:
+
+Diamond, XP, nether products
+
+Avalokitesvara:
+buying: slime and gunpowder
+#- no set prices, depends on demand, supply, averages...
+
+
+#- §oList of Trades in the§r
+§oIsle of Arran§r
+
+-Maravone
+
+
+#- Railway Station
+Marketplace:
+
+inp:1d
+out:15i
+
+inp:17i
+out:1d
+
+inp:3d
+out:2 gold ore
+
+
+#- inp:2d
+out:64 glowstone
+
+inp:id
+out:128 cooked pork
+
+inp:1d
+out:128 cocoa
+
+inp:1d
+out:128 nether brick
+
+
+#- inp:2d
+out:64 nether quartz
+
+inp:4d
+out:1 slime ball
+
+inp:22i
+out:1 anvil
+
+inp:3i
+out:64 charcoal
+#- inp:12 jungle wood
+out:3 wool
+
+inp:32 jungle wood
+out:1 iron axe
+
+inp:1i
+out:1 iron axe
+
+inp:4 jungle wood
+out:3 string
+
+
+#- inp:1d
+out:192 string
+
+inp:2i
+out:1 minecart
+
+inp:1d or 16i
+out:12 p. rail
+
+inp:1d or 16i
+out:64 rail
+
+
+#- inp:2d
+out:192 steak
+
+inp:3i
+out:8 steak
+
+inp:1i
+out:8 pumpkin pie
+
+inp:1d
+out:128 baked potato
+
+
+#- inp:2i
+out:8 baked potato
+
+inp:id
+out:128 red mushroom
+
+inp:1d
+out:64 melon blocks
+
+inp:1d
+out:192 dark wood
+
+
+#- inp:1d
+out:192 spruce wood
+
+inp:1d
+out:192 jungle wood
+
+inp:1d
+out:192 birch wood
+
+inp:1d
+out:192 acacia wood
+
+#- inp:1d
+out:192 oak wood
+
+inp:1d
+out:1 diamond sword
+
+inp:1i
+out:1 iron sword
+
+inp:2i
+out:1 iron pick
+
+
+#- inp:3d
+out:2 diamond pick
+
+inp:1d
+out:1 diamond axe
+
+inp:14d
+out:1 d pick U3 E4
+(3 avaiable)
+
+inp:1i
+out:2 iron shovel
+#- inp:1i
+out:1 iron hoe
+
+inp:4d
+out:1 emerald block
+
+inp:1d
+out:16 bookcase
+
+inp:5d
+out:unbreaking I book
+#- inp:6d
+out:thorns III book
+
+inp:5d
+out:sharpness I book
+
+inp:9d
+out:feather falling II
+
+inp:1i
+out:64 dead shrub
+#- inp:1i
+out:320 wheat seeds
+
+inp:1i
+out:64 flint
+
+inp:1i
+out:160 snowball
+
+inp:5d
+out:1 saddle
+
+#- inp:2d
+out:64 leather
+
+inp:2i
+out:32 ink sac
+
+inp:1d
+out:16 nether fence
+
+inp:1d
+out:192 carrots
+#- inp:1d
+out:128 wheat
+
+inp:1d
+out:640 sugar cane
+
+inp:1d
+out:128 vines
+
+inp:1d
+out:256 pumpkins
+
+#- inp:1d
+out:192 cactus
+
+inp:1d
+out:16 frames
+
+inp:2d
+out:16 iron bars
+
+inp:1i
+out:64 eggs
+
+#- inp:1i
+out:128 rotten flesh
+
+inp:1i
+out:64 feather
+
+
+§oOre Exchange:§r
+
+inp:10 coal ore
+out:25 coal
+
+
+#- inp:4d ore
+out:10d
+
+inp:5i ore
+out:7i
+
+inp:1 gold ore
+out:6 gold
+
+inp:1 lapis ore
+out:14 lapis
+
+
+#- inp:1 redstone ore
+out:6 redstone
+
+inp:1 nether quartz ore
+out:2 nether quartz
+
+
+§oAnimals§r
+
+inp:1d
+out:4 chicken egg
+#- inp:1d
+out:1 sheep egg
+
+inp:3d
+out:2 pig egg
+
+inp:2d
+out:2 cow egg
+
+inp:5d
+out:1 wolf egg
+
+
+#- inp:1i
+out:1 ink sac
+
+inp:1i
+out:16 eggs
+
+inp:1i
+out:48 pufferfish
+
+inp:1i
+out:1 clownfish
+
+#- inp:64 gold nuggets
+out:64 cactus
+
+inp:1i
+out:128 glass
+
+inp:1i
+out:256 snow blocks
+
+inp:1i
+out:320 gravel
+#- inp:1d
+out:64 sand
+
+inp:2i
+out:256 stone
+
+inp:5d
+out:32 mycelium
+
+inp:1i
+out:320 cobble
+
+#- inp:3d
+out:50 moss
+
+inp:1i
+out:448 dirt
+
+inp:1d
+out:64 grass block
+
+inp:1d
+out:64 ice
+#- inp:1d
+out:64 packed ice
+
+inp:1d
+out:64 sandstone
+
+inp:2i
+out:128 stone slab
+
+inp:2i
+out:64 stone brick
+#- inp:1d
+out:64 brick
+
+inp:1d
+out:64 hardened clay
+
+inp:3d
+out:64 clay block
+
+inp:1i
+out:16 note blocks
+#- inp:1d
+out:256 netherack
+
+inp:1d
+out:64 soul sand
+
+inp:1d
+out:16 glowstone
+
+inp:2d
+out:1 blaze rod
+
+
+#- inp:1i
+out:16 nether wart
+
+inp:1d
+out:16 golden carrot
+
+inp:1d
+out:16 glistening melon
+
+inp:1d
+out:256 sugar
+
+
+#- inp:1d
+out:192 brown mushroom
+
+inp:1i
+out:64 glass bottles
+
+inp:4i
+out:1 splash potion of weakness II
+
+
+#- inp:1d
+out:1 splash potion of poison II
+
+inp:3i
+out:1 splash potion slowness II
+
+inp:3d
+out:2 splash potion of damage II
+
+#- inp:3d
+out:2 splash potion of healing II
+
+inp:1d
+out:potion of invisibility II
+
+inp:4i
+out:1 strength potion II
+
+
+#- inp:2d
+out:potion of regen II
+
+inp:1d
+out:potion of water breathing
+
+inp:1i
+out:potion of swiftness II
+#- ===================
+
+
+
+
+§l         Intis§r
+§l        Trade§r
+§l       Society§r
+
+
+
+
+==================
+#- 
+
+
+
+
+
+
+
+
+
+
+Report written
+in 09/10/2014
+#- 

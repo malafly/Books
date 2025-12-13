@@ -1,0 +1,555 @@
+title: Norl.Ch.Arch.2/2
+author: Henderwicz
+pages:
+#- §4§lThe Church§0
+§4§lArchitecture of§0
+§4§lthe Kingdom of§0
+§4§lNorlund,§0
+§4An Introductory Guide.§0
+§4Volume II/II.§0
+§0
+§cText and drawings§0
+§cby Henderwicz.§0
+§cPublished by§0
+§c§lNorth Star Books§c,§0
+§cTallum, K. of Norlund.§0
+§c1 April, 2020.§0
+§c  ★      ★      ★      ★  
+#- §lTable of Contents.§0
+§0
+§0§lVolume I:§0
+§0
+§0§l4§0/ Preface§0
+§0
+§0§l10§0/ Legend§0
+§0
+§0§l13§0/ Irithyll Chapel§0
+§0
+§0§l26§0/ Church of St.§0
+§0Euphemia, Laketown/§0
+§0Condor (Papist)
+#- §lVolume II:§0
+§0
+§0§l4§0/ Church of St.§0
+§0Odilia, Kannin (Papist)§0
+§0
+§0§l18§0/ St. Martin’s§0
+§0Church, Tallum§0
+§0(Reformed)§0
+§0
+§0§l32§0/ Church of St.§0
+§0Adrian, Yoslan§0
+§0(Papist)
+#- §lChurch of St.§0
+§0§lOdilia, Kannin§0
+§0§l(Papist).§0
+§0(-642/-10199)§0
+§0
+§0§l6§0/ Elevation, spire§0
+§0[E]§0
+§0§l7§0/ Elevation, south§0
+§0face [N]§0
+§0§l8§0/ Elevation, north§0
+§0face [S]§0
+§0§l9§0/ Vertical section§0
+§0[W]
+#- §l10§0/ Plan, west end [S]§0
+§0
+§0§l11§0/ Description
+#- 000000000----------§0
+§0RDD0000++08888---7-§0
+§0-R0880088+088833777§0
+§0R000000++08888---7-§0
+§0000000000----------
+#- 8888888R88RRrrrrr--§0
+§00000000RR88RRrrrr--§0
+§03333388RR888RRrrr--§0
+§0DD33338RR88w8RRrr--§0
+§0333BB38RR8www8RRr--§0
+§0DD33338RR88w8RRrr--§0
+§03333388RR888RRrrr--§0
+§00000000RR88RRrrrr--§0
+§08888888R88RRrrrrr--§0
+§03333RRRR3wRrrrrrr--§0
+§03333RRRR333rrrrrr--§0
+§03333RRRR3wwrrrrrr--
+#- ----RRRR0RRRRRRRRRR§0
+§0---r8ww80ww8ww8ww8w§0
+§0---r8ww88ww8ww8ww8w§0
+§0---r8ww888888888888§0
+§0---38ww88RR8RR8RR8R§0
+§0---3888887787787787§0
+§0---38ww88887888ww8w§0
+§0---38ww88777778ww8w§0
+§0---38ww88887888ww8w§0
+§033880ww08887888ww8w§0
+§033880ww08887888ww8w§0
+§0338808808RRRRR8RR8R
+#- 00wwwwwwwww0R-----§0
+§0-------------R----§0
+§0S-------------R---§0
+§0S--------------R--§0
+§0----------------R-§0
+§0-----------------R§0
+§0----------------R-§0
+§0S--------------R--§0
+§0S------07-----R---§0
+§0-------0-----R----§0
+§0wwwww000www0R-----
+#- ----70ww0ww0ww0----§0
+§0---------------ww0-§0
+§0-S-S-S-S-S----T==w-§0
+§0-S-S-S-S-S-7--===w-§0
+§0-----------7-=A===w§0
+§0-----------7-=A=S=w§0
+§0-----------7-=A===w§0
+§0-S-S-S-S-S-7--===w-§0
+§0-S-S-S-S-S----T==w-§0
+§0---------------ww0-§0
+§0ww0ww0ww0--0--0----§0
+§0--------0000000----
+#- St. Odilia was an RL 8th§0
+§0century saint, said to§0
+§0have been born blind§0
+§0and miraculously§0
+§0healed when she§0
+§0received baptism at§0
+§0the age of twelve. In§0
+§0the tradition of the§0
+§0Norlish Papacy, she is§0
+§0venerated as “the§0
+§0All-Seeing”, and is said§0
+§0to keep a vigilant
+#- watch over Norlund§0
+§0from her seat in the§0
+§0capital. The Church of§0
+§0St. Odilia was§0
+§0constructed in§0
+§0(roughly) February§0
+§02020 by Pope§0
+§0Leobonet, and is in§0
+§0indisputably the§0
+§0grandest church§0
+§0design in Norlund in§0
+§0scale and ambition.
+#- The high ceilings of§0
+§0the massive, T-shaped§0
+§0sanctuary are§0
+§0supported by walls of§0
+§0tall dark-green§0
+§0windows. The church§0
+§0seats 26 in 5 rows of§0
+§0pews in the nave, and§0
+§0two facing pews at the§0
+§0back (east) end. At§0
+§0the front (west) end§0
+§0of the sanctuary sit
+#- a marble altar and an§0
+§0episcopal throne on a§0
+§0raised dais. The altar§0
+§0bears the Latin text§0
+§0“Deus Protector§0
+§0Noster” (“God our§0
+§0protector”). Uniquely§0
+§0among the churches§0
+§0of Norlund, the altar§0
+§0and throne are§0
+§0separated from the§0
+§0nave by an altar-rail,
+#- contributing to a§0
+§0sense of hierarchical§0
+§0distance between the§0
+§0congregation and the priest characteristic§0
+§0of the Papist church.§0
+§0
+§0A long, narrow gallery§0
+§0on the north side of§0
+§0the sanctuary is§0
+§0intended as a§0
+§0preaching platform
+#- elevated high above§0
+§0the congregation, or§0
+§0alternately as a VIP§0
+§0seating area. This§0
+§0gallery also has the§0
+§0effect of dividing the§0
+§0north wall and its§0
+§0windows in two parts,§0
+§0introducing a subtle§0
+§0and pleasant§0
+§0asymmetry into the§0
+§0interior design. The
+#- single, tall spire is§0
+§0climbable, giving§0
+§0maintenance access to§0
+§0the roof, and is§0
+§0crowned with a Latin§0
+§0cross of stone.
+#- §lSt. Martin’s§0
+§0§lChurch, Tallum§0
+§0§l(Independent§0
+§0§lReformed Church§0
+§0§lof Norlund).§0
+§0(103, -8667)§0
+§0
+§0§l20§0/ Elevation, north§0
+§0face [S]§0
+§0§l21§0/ Vertical section§0
+§0[S]§0
+§0§l22§0/ Elevation, south§0
+§0face [N]
+#- §l23§0/ Elevation, east§0
+§0face [W]§0
+§0§l24§0/ Plan [E]§0
+§0
+§0§l25§0/ Description
+#- ----------§0
+§0----RR----§0
+§0---R00R---§0
+§0--R0ww0R--§0
+§0--R0ww0R--§0
+§0-R000000R-§0
+§0R00088000R§0
+§00008888000§0
+§00008DD8000§0
+§00008DD8000
+#- ----------§0
+§0----RR----§0
+§0---R--R---§0
+§0--R----R--§0
+§0--R-++-R--§0
+§0-R--++--R-§0
+§0R00000000R§0
+§00--0--0--0§0
+§00--0--0--0§0
+§00BB0--0BB0
+#- ----RR----§0
+§0----RR----§0
+§0---RRRR---§0
+§0--RR00RR--§0
+§0-RR0ww0RR-§0
+§0R380ww083R§0
+§03380ww0833§0
+§03380ww0833§0
+§03380000833§0
+§0338GGGGGGG
+#- RR------------§0
+§0RRRRRRRRRRRRRR§0
+§0RRRRRRRRRRRRRR§0
+§0RRRRRRRRRRRRRR§0
+§03RRRRRRRRRRRRR§0
+§0388RRRRRRRRRRR§0
+§0388000RRRRRRRR§0
+§03880000w000w00§0
+§038800000000000
+#- 000w00w0000---§0
+§00S--BS-S--S0--§0
+§00S--BS-S----0-§0
+§0-0--0S-S----C0§0
+§0-D-------FA--w§0
+§0-D-------FA--w§0
+§0-0--0S-S----C0§0
+§00S--BS-S----0-§0
+§00S--BS-S--S0--§0
+§0000w00w00D0---
+#- St. Martin’s, built by§0
+§0Henderwicz in early§0
+§0March 2020, is the§0
+§0first Reformed church§0
+§0in Norlund. Built in the§0
+§0early days of Tallum’s§0
+§0building boom in the§0
+§0spring of 2020, it§0
+§0stands opposite the§0
+§0town bulletin board;§0
+§0adjacent to the§0
+§0Southern Traitor
+#- tavern, Gingerbuddie’s§0
+§0Supply Shop, and§0
+§0North Star Books; and§0
+§0a bowshot from the§0
+§0southeastern shore§0
+§0of Lake Tallum. In§0
+§0several ways, it§0
+§0represents a dramatic§0
+§0reversal of Norlish§0
+§0church architectural§0
+§0norms: It is built at the§0
+§0bottom of an incline,
+#- rather than on an§0
+§0elevated plateau.§0
+§0Though it uses the§0
+§0traditional stone block,§0
+§0it has an exposed§0
+§0dark oak log frame;§0
+§0typical of rural§0
+§0Norlish residential§0
+§0and commercial§0
+§0architecture, but§0
+§0hitherto unseen in a§0
+§0Norlish church. It has§0
+§0a simple wooden table
+#- as opposed to an§0
+§0elaborate altar; and§0
+§0the pastor’s seat is to§0
+§0the side of the table§0
+§0rather than directly§0
+§0behind the altar,§0
+§0making the Communion§0
+§0table alone (rather§0
+§0than the altar with the§0
+§0priest) the focal§0
+§0centre of the church.§0
+§0The table itself is
+#- draped with cloth, and§0
+§0before it sit two§0
+§0flowerpots [“F”, p. 24];§0
+§0the cloth and flowers§0
+§0changed periodically§0
+§0according to the§0
+§0colour of the liturgical§0
+§0season. At the back§0
+§0(south) end of the§0
+§0church are several§0
+§0bookshelves [“B”, pp.§0
+§021 & 24] containing
+#- prayerbooks and§0
+§0Bibles, another§0
+§0innovation indicative of§0
+§0the characteristic§0
+§0Reformed emphases on§0
+§0lay participation and§0
+§0on the written word.§0
+§0The windows use dark§0
+§0green, magenta, red§0
+§0and white panes; the§0
+§0first use of§0
+§0multicolour stained-
+#- glass in Norlish§0
+§0church architectural§0
+§0history. The roof§0
+§0slopes gently upward§0
+§0toward the front§0
+§0(north) end, ending in§0
+§0a slight peak.§0
+§0
+§0St. Martin was an RL§0
+§04th century§0
+§0soldier-turned-§0
+§0Christian pacifist§0
+§0and bishop.
+#- §lChurch of St. Adrian§0
+§0§l/ KirVunSintAdrian,§0
+§0§lYoslan (Papist).§0
+§0(1046, -9411)§0
+§0
+§0§l34§0/ Elevation, west§0
+§0face [E]§0
+§0§l35§0/ Plan [E]§0
+§0§l36§0/ Plan, proposed§0
+§0Reformed renovation§0
+§0[E]§0
+§0§l37§0/ Plan, yard [N]
+#- §l38§0/ Description
+#- --7--------§0
+§0--R--------§0
+§0--R--------§0
+§0-RRR-------§0
+§0RRRRR--R---§0
+§00---0-R8R--§0
+§007770R8w8R-§0
+§00000088w88R§0
+§00000088B888§0
+§000000w8B8w8§0
+§000000w8D8w8§0
+§00000088D888
+#- ----00www00§0
+§0----0-----0§0
+§0----0-AAA-0§0
+§0----w-----w§0
+§0----0-----0§0
+§0000000SS-SSw§0
+§00S--------0§0
+§00C--------w§0
+§00CD--SS-SS0§0
+§000000w0D0w0
+#- ----00www00§0
+§0----0C----D§0
+§0----0S-A-S0§0
+§0----wS-A-Sw§0
+§0----0-----0§0
+§0----0SS-SSw§0
+§0----0-----0§0
+§0----0-----w§0
+§0----0BB-BB0§0
+§0----0w0D0w0
+#- 0-S-S--A-w---T--§0
+§0w-S-S----0777777§0
+§000w0w0w0D0---T-7§0
+§07----------TTT-7§0
+§00-----------T--7§0
+§0---------------7§0
+§0---------------7§0
+§00--------------7§0
+§07--------------7§0
+§0777777770--07777
+#- The Church of St.§0
+§0Adrian was built by§0
+§0DoomsGus in late§0
+§0March 2020 as a§0
+§0Papist mission to the§0
+§0Vötgil-speaking§0
+§0Cathars and animists§0
+§0of Yoslan. DoomsGus§0
+§0originally began an§0
+§0all-cobblestone,§0
+§0tower-like§0
+§0construction in the§0
+§0centre of town; but
+#- this unauthorised§0
+§0building was put to a§0
+§0halt, and now forms§0
+§0the base of a§0
+§0Yoslander residence.§0
+§0A different site was§0
+§0chosen on the east§0
+§0bank of the river,§0
+§0where the current§0
+§0building now stands.§0
+§0“Church of St. Adrian”§0
+§0was translated as
+#- “KirVunSintAdrian,” using§0
+§0the neologism “Kir”§0
+§0first introduced into§0
+§0the local dialect of§0
+§0Vötgil by Reformed§0
+§0pastor Henderwicz in§0
+§0an early translation§0
+§0of his anti-Papist§0
+§0tract, “Leobonet’s§0
+§0Error.” In a wider§0
+§0sense, DoomsGus’s§0
+§0missionary efforts
+#- and church design can§0
+§0both be seen as Papist§0
+§0responses to that§0
+§0Reformed challenge.§0
+§0The building takes§0
+§0inspiration from and§0
+§0even exceeds the§0
+§0simplicity of St.§0
+§0Martin’s, Tallum, using§0
+§0not only an exposed§0
+§0dark oak frame but§0
+§0also wooden planks
+#- instead of stone. On§0
+§0the other hand,§0
+§0it retains many§0
+§0traditional Papist§0
+§0elements: the§0
+§0elaborate altar-desk,§0
+§0at which the priest§0
+§0sits; the church tower§0
+§0(added to the original§0
+§0sanctuary in a second§0
+§0stage of§0
+§0construction); and the§0
+§0monocolour dark
+#- green stained glass§0
+§0windows. (This last§0
+§0element has§0
+§0subsequently been§0
+§0borrowed by some§0
+§0local Yoslander§0
+§0residences.) The§0
+§0cleverly-constructed§0
+§0confessional booth§0
+§0[“C”, p. 36] is a new§0
+§0sight in Norlund.
+#- DoomsGus’s efforts to§0
+§0convert the locals§0
+§0have so far been§0
+§0unsuccessful, perhaps§0
+§0due to his late§0
+§0adoption of Vötgil and§0
+§0his somewhat abrasive§0
+§0personal style. Repeat§0
+§0vandalism of St. Adrian’s§0
+§0caused DoomsGus to§0
+§0announce his§0
+§0abandonment of the
+#- mission within a week of§0
+§0its opening. During his§0
+§0brief absence,§0
+§01234fireball, acting§0
+§0Marquis of Yoslan,§0
+§0invited Henderwicz to§0
+§0take over the building§0
+§0as a centre for§0
+§0Reformed mission.§0
+§0These plans never§0
+§0materialised, as§0
+§0DoomsGus quickly
+#- back-peddled from his§0
+§0announcement,§0
+§0returning to the§0
+§0mission and adding the§0
+§0church tower to the§0
+§0original layout. The§0
+§0plan for the proposed§0
+§0Reformed renovation§0
+§0of the original§0
+§0tower-less layout§0
+§0[p. 73] is included in§0
+§0this volume to provide 
+#- a hypothetical case of§0
+§0direct contrast§0
+§0between Papal and§0
+§0Reformed interior§0
+§0design. The Reformed§0
+§0renovation would have§0
+§0switched the§0
+§0altar-desk for a§0
+§0simple table set up§0
+§0length-wise; moved two§0
+§0pews from the back§0
+§0(west) to the front§0
+§0(east) end, setting
+#- them up on opposite§0
+§0sides of the table§0
+§0facing inward; and§0
+§0installed bookshelves§0
+§0in the back. It would§0
+§0also have introduced§0
+§0multicolour panes into§0
+§0the window in imitation§0
+§0of St. Martin’s, and§0
+§0added a side door§0
+§0access to the church§0
+§0yard.
+#- A plan of the actual§0
+§0church yard is§0
+§0included to show how§0
+§0DoomsGus carefully§0
+§0integrated two old-§0
+§0growth dark oaks§0
+§0(“T”, p. 74) into the§0
+§0stone perimeter fence.§0
+§0St. Adrian’s is the first§0
+§0Norlish church to§0
+§0interact directly with§0
+§0wild flora; but it sets
+#- a commendable and§0
+§0typically Norlish§0
+§0example for future§0
+§0projects, by working§0
+§0around existing§0
+§0natural features§0
+§0rather than flattening§0
+§0them.§0
+§0
+§0St. Adrian was an RL§0
+§04th century martyr, a§0
+§0torturer of Christians§0
+§0until his conversion.
+#- 

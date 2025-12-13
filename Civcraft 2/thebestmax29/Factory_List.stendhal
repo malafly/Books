@@ -1,0 +1,102 @@
+title: Factory List
+author: thebestmax29
+pages:
+#- Factory List:§0
+§0
+§0-Smelting§0 -------------------2§0
+§0
+§0-Mechanisms --------------6§0
+§0
+§0-Food---------------------------9§0
+§0
+§0-Items and Equipment  §0
+§0 omitted §0
+§0-More info:§0
+§0tinyurl.com/factorymod
+#- SMELTING:§0
+§0-Charcoal Burner:§0
+§0  -256 Log (any) + 12        Charcoal = 512            Charcoal§0
+§0-Sand Smelter§0
+§0  -256 Sand + 24 CC§0
+§0   = 768 Glass§0
+§0  -512 Sand + 16 CC§0
+§0   = 384 Sandstone§0
+§0  -256 Sand + 24 CC§0
+§0   = 768 Bottle
+#- -Ore Smelter§0
+§0  -128 Coal Ore + 6 CC§0
+§0   = 384 Coal§0
+§0  -32 Gold Ore + 2 CC§0
+§0   = 224 Gold Ingot§0
+§0  -16 Diamond Ore + 1§0
+§0   CC = 48 Diamond§0
+§0-Fancy Ore Smelter§0
+§0  -32 Lap. Laz. Ore +§0
+§0   3 CC = 512 Lap. Laz.§0
+§0  -128 Redstone Ore + 8§0
+§0   CC = 1024 Redstone§0
+§0  
+#-   -64 Netherqu. Ore + §0
+§0   3 CC = 192 Netherqu§0
+§0-Kiln§0
+§0  -512 Clay Bl. + 16 CC§0
+§0   = 1024 Hard. Clay§0
+§0  -512 Clay + 16 CC§0
+§0   = 1024 Brick§0
+§0  - 64 Clay + 2 CC§0
+§0   = 64 Flowerpot§0
+§0-Netherbrick Factory§0
+§0  -512 Netherrack + 16§0
+§0   CC = 1024 Netherbr.
+#- -Stone Smelter§0
+§0  -640 Cobblestone + 40§0
+§0   CC = 854 Stone
+#- MECHANISM§0
+§0-Bas. Redstone Factory§0
+§0  - 128 R.stone + 128§0
+§0   Sticks + 1 CC§0
+§0   = 256 RS Torches§0
+§0  - 128 RS + 128 Stone§0
+§0   + 1 CC = 96 RS Rep.§0
+§0  - 32 RS + 128 Stone +§0
+§0    24 Netherquartz +§0
+§0   1 CC = 32 Comparat.§0
+§0  ----> More
+#-   -8 Chests + 64§0
+§0   Netherqu. +§0
+§0   64 Glass + 1 CC§0
+§0   = 32 Daylight Sensor§0
+§0-Ad. Redstone Factory§0
+§0  -32 RS + 48 Chests§0
+§0   + 1 CC = 64 Notebloc§0
+§0  -32 RS + 320 Cobble§0
+§0   + 128 String + 8 §0
+§0   Chests + 1 CC§0
+§0   = 64 Dispensers§0
+§0   ---> More
+#-   -256 RS + 128§0
+§0   Glowstone + 1 CC§0
+§0   = 128 RS Lamps§0
+§0  -48 RS + 320 Cobble§0
+§0   + 128 IronI + 32§0
+§0   Chest + 1 CC§0
+§0   = 128 Pistons§0
+§0  -48 RS + 320 Cobble§0
+§0   + 128 IronI + 32§0
+§0   Chests + 128 Slime§0
+§0   + 1 CC§0
+§0   = Sticky Pistons
+#- FOOD§0
+§0-Bakery§0
+§0  - 192 Potato + 12 CC§0
+§0   = 384 Baked Potato§0
+§0  -256 Wheat + 128 §0
+§0   Cocoa + 12 CC§0
+§0   = 2048 Cookie§0
+§0  -384 Wheat + 12 CC§0
+§0   = 256 Bread§0
+
+#- -Bakery§0
+§0  -64 R. Meat (any) +§0
+§0   3 CC = 128 C. Meat
+#- 

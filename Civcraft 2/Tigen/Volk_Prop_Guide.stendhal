@@ -1,0 +1,83 @@
+title: Volk Prop. Guide
+author: Tigen
+pages:
+#- ===================
+§0    BUYING A PLOT:§r
+§0    EXISTING PLOT§r
+§0     OR BUILDING§r
+§0===================§r
+
+§0When buying an existing plot or building, look for a white sale banner (yellow banner, white lozenge, white cross, yellow roundel), a sample of which can be §r
+#- found on display in the Office of Deeds. The property number should be on a nearby sign, which should be noted to identify the correct chest for purchase. Go to the Office of Deeds and find the exchange chest that is marked for the desired numbered
+#- property. The monthly rent price for an existing property should not deviate significantly from the initial purchase price, if at all. After purchasing, a sign should be placed over the chest with your name and the date of purchase on it. Doing so will
+#- ensure that future buyers are aware of their inability to buy your property. The receipt for property rent should be brought to the mailbox tied to the property paid for and placed inside. Government-built shops will often have a higher down payment than 
+#- that of other buildings and plots, and the prices for such will be explicitly labeled as such on-location, though the rest of the purchase procedure will be no different. 
+#- ===================      BUYING A PLOT:
+§0        NEW PLOT§r
+§0===================§r
+
+§0When buying a new plot, you will need to first contact the Governor of Volkstadt (Tigen). You will be permitted to draw the borders of a plot in any part of town§r
+#- that is open and adjacent to an existing building. The maximum block area that will be allotted for building is 256, though this can be in any shape desired. The pricing model for new plots will be posted on a sign within the Office of Deeds, with price
+#- scaling depending on size. Once the plot has been marked and price paid, you are free to buld on that plot with the restrictions outlined in the next sections. A mailbox and exchange chest for future rent payments will be established for you shortly
+#- after, with a monthly pricing model that will likewise be posted in the Office of Deeds.
+#- ===================     REINFORCEMENT
+§0      PERMISSIONS§r
+§0===================§r
+
+§0All reinforcements except for chests in new buildings should be set to the appropriate group that has been assigned to the property by the governor.§r
+#- If the governor is not online when the land purchase is made, then a temporary group is to be self-made for which the current acting governor is granted at least ADMINS permission to.
+
+§0Upon the governor's return, ownership of the group is to be§r
+#- transferred to the governor, and the group will be merged with a plot-specific group of which the property holder will be granted admin access.
+
+§0While not required, it is recommended that exchange chests that are accessible to the public be reinforced to §r
+#- the assigned plot group. Doing so will allow for citywide changes (such as currency reform) to be enacted automatically without temporary forced closure of the exchanges. The stock or money in the chests will never be tampered with.
+#- ===================     BUILDING CODES
+§0===================§r
+
+§0The primary building material may not be wood, cobblestone, or wool. Brick of stone or clay is preferred, but not required.§r
+
+§0Overhangs are allowed, but only over no more than half of the§r
+#- roadway or over alleyways. Do not build overhangs that extend over another plot.
+
+§0Buildings should not half flat road-facing walls. Try and make the building/store fronts elaborate.§r
+
+§0Avoid using stained clay blocks without accenting non-clay.§r
+#- =================== FUTURE RENT PAYMENT
+§0===================§r
+
+§0The receipt of rent purchase for property is only good for the month in which it was printed and purchased. These can be purchased at a stable but tailored price for the property in§r
+#- question at the Office of Deeds through exchange chests. Upon exchange, the named sign that had been previously placed on the chest should be replaced with one with an updated date for rent payment. Once the receipt has been purchased, it should be
+#- brought to the Post Office and placed in the appropriate mailbox for said property. Failure to pay this rent in a month's time may result in repossession, which is outlined in the following section.
+#- ===================   REPOSSESSION AND
+§0 PROPERTY VAULTING§r
+§0===================§r
+
+§0If rent is not paid in one month and the property is bought by another party in the following month, the original property holder will be removed from the§r
+#- reinforcement group, and items in the chests within the building will be relocated to a locked vault chest under the bank which can later be retrieved upon request. Any construction on the property will be left standing unless a new property owner
+#- requests its dismantling. If the building is dismantled, the materials will be added to the secure vault for the original owner. If a property is left undeveloped for extended periods, if the property owner flagrantly fails to meet building codes after
+#- warnings, or the property owner has outstanding criminal charges within Chanada, the Governor holds the right to repossess the property. Refunds in such cases are
+#- ===================    MISCONDUCT FEES
+§0===================§r
+
+§0The following actions will cause the incursion of fees, the prices of which will be posted in the Office of Deeds with accompanying letter corresponding to the following list:§r
+#- A. Flagrant building code violation.
+
+§0B. Apartment merging is attempted, or internal apartment changes alter externally visible blocks.§r
+
+§0C. Main building reinforcement is set to the incorrect group.§r
+#- D. Building extends into/onto other plots, be it above or below ground.
+
+§0E. Rent forgeiting attempted.§r
+
+§0F. Sale of stolen goods in stores.§r
+#- G. Theft from Chanadian citizens or other non-hostile nations
+
+§0H. Assault or murder of Chanadian citizens or of other non-hostile nations.§r
+
+
+#- Fees will be charged every month for A, B, C, or D until the problem is fixed. Fees for E, F, G, or H will be incurred upon the transgressing action, and will be charged again for every month that the previous fees are not paid and/or the stolen items are
+#- not returned.
+
+§0If unpaid fees exceed the price listed in the Office of Deeds information board, your property will be repossessed without refund, and the contents inside confiscated.§r
+#- 

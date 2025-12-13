@@ -1,0 +1,28 @@
+title: Terminus Book ID
+author: spacew00t
+pages:
+#- §lTerminus Book Identifier Guide
+----------------§r§oBy Spacew00t
+§r-------------------Transcribed by Spacew00t on April 1st, MMXIII at Terminus
+-------------------TBI: 1-A-3
+#- §lIntroduction
+----------------§rThis book records the location of books within a standard Terminus Literary Vault. All vaults will have the same books organized in the same manner. Use this as your guide to create new ones.
+#- §lFloors§l
+----------------§rEach vault will have multiple floors, usually descending into the ground. The first floor is designated as Floor 1, the one below it Floor 2, and so on, until reaching bedrock.
+#- §lChests
+----------------§rEach floor of a Terminus Literary Valut will have 27 chests, organized into 3 rows and 9 columns. The columns should be marked A-I and the rows 1-3.
+#- §lBook Designations
+----------------§rThe reason we have such strict guidlines for Terminus Literary Vault construction is to facilitate the creation of duplicate vaults. This will help ensure that if one vault gets destroyed, others will have backups of 
+#- their contents.
+
+To help populate new vaults, each book is given a unique identifier. These Terminus Book Identifiers, or TBIs, show where in a vault they should be placed. To learn how to read and construct one, turn the page!
+#- Example TBI:
+
+§o1-A-1
+
+§RSince the format is:
+
+§oFloor-Column-Row§r
+
+We can deduce that this would be found on the first floor, in column A, on the top row. Easy, right?
+#- 

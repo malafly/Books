@@ -1,0 +1,348 @@
+title: Let's get drunk!
+author: SortByNode
+pages:
+#- §4§l     -·=»+«=·-§0
+§0
+§0§l     The Nexus§0
+§f..§0§l     Brewer's§0
+§f..§0§l       Guide§0
+§0
+§0§l         -=-§0
+§0
+§f.§0            §0§oby§0
+§0
+§f..§0         akn429§0
+§0
+§4§l     -·=»+«=·-
+#- §4§l     -·=»+«=·-§0
+§0
+§0          a book§0
+§f.§0           from§0
+§0
+§0§l     Civilization§0
+§0§l     Experiment§0
+§0
+§f.§0§l         -=-§0
+§0
+§f..§0§l     First Age§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- ===================§0
+§0            The§0
+§0           Nexus§0
+§0         Brewer's§0
+§0           Guide§0
+§0===================§0
+§0        by akn429§0
+§0===================§0
+§0          Please§0
+§0           drink§0
+§0       responsibly§0
+§0===================
+#- Welcome to the§0
+§0Nexus Brewer's Guide!§0
+§0In these pages we  will teach you how§0
+§0to impress your§0
+§0friends, amaze your colleagues, and get your enemies drunk as a skunk!§0
+§0( Only guarateed to impress or amaze if they're impressed or amazed by booze )
+#- ===================§0
+§0           Index§0
+§0===================§0
+§0
+§0Getting Started----§f.§06§0
+§0-Fermenting-------6§0
+§0-Distilling---------§f.§09§0
+§0-Aging-----------11§0
+§0
+§0Recipes----------21§0
+§0-Potato Soup-----§f.§022§0
+§0-Wheatbeer------§f..§024§0
+§0-Beer-----------§f.§025§0
+
+#- -Darkbeer-------§f..§026§0
+§0-Mead-----------§f.§027§0
+§0-Apple Mead------§f.§028§0
+§0-Rum------------§fi§029§0
+§0-Vodka----------§f.§030§0
+§0-Absinthe--------§f.§031§0
+
+#- TS on a recipe means§0
+§0that I have Tested it§0
+§0Successfully.§0
+§0
+§0Minecraft days for§0
+§0aging are approximate.§0
+§0
+§0Most if not all drinks§0
+§0finish aging earlier so§0
+§0keep an eye on them.§0
+
+#- ===================§0
+§0    Getting Started§0
+§0===================§0
+§0There are multiple ways to make drinks using the Brewery plugin.§0
+§0
+§0The first is fermenting.§0
+§0
+§0This is done using a cauldron over a fire.
+#- The steps to fermenting a drink are:§0
+§0
+§01. Place a Cauldron over a fire§0
+§0
+§02. Fill the Cauldron with water§0
+§0
+§03. Add ingredients§0
+§0to Cauldron by§0
+§0right clicking§0
+
+#- 4. Wait for the ingredients to ferment§0
+§0
+§05. Bottle the booze!§0
+§0
+§0You can click on a Cauldron with a watch to see how long it's been cooking. Don't let it cook too long! Also, you can get 3 bottles out of each Cauldron. Don't forget!
+#- The second way is distilling. To do this you will need a brewing stand and a piece of glowstone dust. Distilling is done after you have fermented in the Cauldron.§0
+§0
+§0The steps to distill a drink are:
+#- 1. Place your bottle/bottles in the brewing stand.§0
+§0
+§02. Put Glowstone Dust in the top to be used as a filter. This does not consume the dust.§0
+§0
+§03. Allow the beverage to be distilled for the appropriate number of runs.
+#- The third part of making drinks is aging.§0
+§0There are two ways§0
+§0to make the barrels§0
+§0needed for aging§0
+§0beverages. I will try§0
+§0to make a diagram§0
+§0that will hopefully be§0
+§0identifiable on the§0
+§0next page. The§0
+§0materials needed for§0
+§0the smaller barrel§0
+§0are 8 wooden stairs
+#- Place the stairs so the corners are all touching in the center like this:§0
+§0
+§0           _| |_§0
+§0           _ §f..§0_§0
+§f.§0            | |§0
+§0
+§0This will be two deep.§0
+§0 Hopefully this makes§0
+§0sense!§0
+
+#- After building your barrel take a sign and place it on the bottom right of the flat side of your barrel and write Barrel on the top line. You should get a message saying "Barrel created"§0
+§0
+§0Good job!
+#- The second barrel is larger. The materials needed for this barrel are 4 fences, 16 wooden stairs, and 18 planks. This barrel is actually hollow inside. Let's see§0
+§0if I can make an identifiable diagram this time!
+#- _| = Stairs§0
+§0O §f.§0= Plank§0
+§0I§f..§0 = Fence post§0
+§0
+§0         _| §f.§0O §f.§0|_§0
+§0
+§0         O  O  O§0
+§0         _    §f.§0 _§0
+§0        §f.§0  | §f.§0O §f.§0|§0
+§0          I    §f.§0I§0
+§0
+§0It's ugly but hopefully§0
+§0you get the gist.§0
+
+#- After you've built a barrel that hopefully isn't as lopsided as my diagram you take one more fence post and place it on the bottom middle plank. This is your spigot. After that you take a sign and place it on the top center plank and once again write
+#- Barrel on it. If you get your "Barrel created" message you win! If not feel free to write me an angry message on reddit and I'll come help you sort it out.§0
+§0
+§0Now that we have our barrels we can talk more about aging.
+#- Different types of wood used for barrels affects the drinks so when you're making a drink make sure you take note as to which you'll need.§0
+§0
+§0Drinks can be left to age longer than the recipe calls for without being negatively affected.
+#- To use a barrel you just right click on it and throw your drinks in there after being fermented if the recipe calls for fermenting.§0
+§0The wiki says click§0
+§0the sign or spigot but clicking anywhere§0
+§0on the barrel has worked for me.
+#- There we go! Now you know the basic materials you need to get your own brewery set up. All that's left is for you to pick which recipe you want to make and gather materials for that.§0
+§0
+§0You'll be drunk in no time!
+#- 
+§0
+§0
+§0===================§0
+§0
+§0          Recipes§0
+§0
+§0===================
+#- ===================§0
+§0      Potato Soup§0
+§0===================§0
+§0Yes, I know, I said we'd be making booze, but there are other recipes too. So let's get the boring stuff out of the way first.
+#- ===================§0
+§0      Potato Soup§0
+§0===================§0
+§0Ingredients:§0
+§0
+§05 Potatoes§0
+§03 Long grass§0
+§0
+§0Cook time:§0
+§0
+§02 minutes§0
+§0
+§0TS
+#- ===================§0
+§0         Wheatbeer§0
+§0===================§0
+§0Ingredients:§0
+§03 Wheat§0
+§0
+§0Cook time:§0
+§08 minutes§0
+§0
+§0Age for 2 days in a§0
+§0Birch barrel
+#- ===================§0
+§0           Beer§0
+§0===================§0
+§0Ingredients:§0
+§06 Wheat§0
+§0
+§0Cook time:§0
+§08 minutes§0
+§0
+§0Age for 3 days in any§0
+§0type of barrel§0
+§0
+§0TS§0
+
+#- ===================§0
+§0         Darkbeer§0
+§0===================§0
+§0Ingredients:§0
+§06 Wheat§0
+§0
+§0Cook time:§0
+§08 minutes§0
+§0
+§0Age for 8 days in a§0
+§0Spruce barrel§0
+
+#- ===================§0
+§0           Mead§0
+§0===================§0
+§0Ingredients:§0
+§06 Sugar cane§0
+§0
+§0Cook time:§0
+§08 minutes§0
+§0
+§0Age for 4 days in an§0
+§0Oak barrel§0
+
+#- ===================§0
+§0       Apple Mead§0
+§0===================§0
+§0Ingredients:§0
+§06 Sugar Cane§0
+§02 Apples§0
+§0
+§0Cook time:§0
+§04 minutes§0
+§0
+§0Age for 4 days in an§0
+§0Oak barrel§0
+
+#- ===================§0
+§0           Rum§0
+§0===================§0
+§0Ingredients:§0
+§014 Sugar cane§0
+§0
+§0Cook time:§0
+§05 minutes§0
+§0
+§0Distill 2 times§0
+§0Age for 14 days in an§0
+§0Oak barrel§0
+§0TS§0
+
+#- ===================§0
+§0          Vodka§0
+§0===================§0
+§0Ingredients:§0
+§010 Potatoes§0
+§0
+§0Cook time:§0
+§015 minutes§0
+§0
+§0Distill 3 times§0
+§0
+§0
+§0TS§0
+
+#- ===================§0
+§0         Absinthe§0
+§0===================§0
+§0Ingredients:§0
+§015 Long grass§0
+§0
+§0Cook time:§0
+§03 minutes§0
+§0
+§0Distill 6 times§0
+§0
+§0
+§0TS§0
+
+#- There we go! Well, mostly. There is a recipe for Coffee too but I wasn't able toget it to work so I didn't include it. If you can sort it out let me know and I'll put it in an updated book later!
+#-   Special Thanks <3§0
+§0
+§0I'd like to thank my§0
+§0lovely guinea pigs§0
+§0for testing out my§0
+§0drinks:§0
+§0Tredessaa§0
+§0Sirjim11§0
+§0ozmandias1337§0
+§0Jackson8960§0
+§0stratmatt57§0
+§0Snorriandgotrek§0
+§0mkcoates
+#- ===================================================================================Happy===================================================Drinking!==================================================================================
+#- §7transcriber's note:§0
+§0
+§7This guide was §7created during and §7for Civilization §7Experiment 1.§0
+§0
+§7The subject, §7instructions§0
+§7and ingredients§0
+§7may be different§0
+§7than what currently§0
+§7exists in this realm.
+#- §4§l     -·=»+«=·-§0
+§0
+§0§l    Transcribed§0
+§0§l          by§0
+§0
+§f..§4§l   Maester Sort§0
+§0
+§0§l         -=-§0
+§0
+§f.§0   7th of September§0
+§0           2019§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- §4§l     -·=»+«=·-§0
+§0
+§4§l       Maester§0
+§4§l       Alliance§0
+§0
+§f.§1§l     The Pacem§0
+§f.§1§l  Historical Book§0
+§1§l       Archive§0
+§0
+§4          city of§0
+§4§l        Pacem§0
+§0
+§4§l     -·=»+«=·-§0
+
+#- 

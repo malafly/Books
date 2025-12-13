@@ -1,0 +1,14 @@
+title: Bulk-Renaming
+author: Oniii_Chan
+pages:
+#- Have you ever wanted to sell custom named items, but never had the exp or anvil durability to do so?
+
+Worry not, this guide will tell you exactly how to rename up to 64 stacks of items for the cost of just a few crates and one exp bottle.
+#- The first step is to understand how compacting works, and to have access to a compacter. 
+
+A compacter takes a stack of items and one crate, and turns that stack of items into one lored item. This lets you have up to 64 stacks of item in just one stack.
+#- After you've got a compacted stack of items you want to bulk-rename, you just put it in an anvil and name it whatever you'd like. There isn't any way to make a mistake, because the fact that the stack is compacted is stored in the lore, which is left alone when you rename an item.
+#- From there, you just need to decompact that stack. All the items that come out of the compactor will be named what you put in the anvil, and it'll only have costed you a single level and the crates you used to compact it.
+#- You can use this trick to make custom types of food, game tokens, or just weird grey glass that you hide in people's chests. The entire world is possible in your imagination.
+#- You can also use this for items that don't stack, but you should know that compactors will only put 8 into a compacted stack, so it's much less effective. You're still saving 7 levels though.
+#- 

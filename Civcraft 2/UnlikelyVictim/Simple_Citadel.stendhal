@@ -1,0 +1,90 @@
+title: Simple Citadel
+author: UnlikelyVictim
+pages:
+#-        §l Snorris
+    Guide to Civ
+      Commands
+
+§r          Ver 1.0
+
+
+#- §lN§rew players to Civcraft have a lot to remember. Realistic Biomes, Citadel, Prison Pearl and many more mods control this server.
+This book will focus on the Citadel plugin, and what you can do with it.
+#- §l What is Citadel?
+§r
+Citadel is a plugin that allows players to protect their blocks and chests from other players, by consuming 'reinforcement materials'.
+#- §lSmoothstone
+§rThis is the lowest level of reinforcement. This will protect your blocks or chests for 25 breaks. 
+
+§lIron Ingot
+§l§rThis is the middle strength reinforcement, protecting against 250 breaks.
+#- §lDiamond
+§rThis is the top level reinforcement, protecting against a huge 1800 breaks. This is recommended, among many other things, for your most valuable chests.
+#- §lGetting Started
+
+§rBefore we start, it's important that you create a group to reinforce to. This is because you should NEVER reinforce privately, doing so will leave you unable to grant people access to your blocks or chests. 
+#- If you're pearled want someone to hold your valuables somewhere safe? Can't you private locked your chests. Need to pay bail to escape bail for a crime you committed? Can't privately locked chest.
+
+#- To create a group we use the command
+/ctcreate 'name'
+where 'name' is your chose group name. 
+An example would be 
+/ctcreate Fishfood
+
+This would create a group named Fishfood ready for your use.
+
+#- §lHow to Reinforce?
+§r
+Now we have our group we are ready to reinforce all our things!
+The main commands we will use are
+/ctr
+/ctf
+/ctb
+/cti
+#- §l/ctr§r
+This is the basic reinforcement mode. To use this, hold the item you want to reinforce with in your hand (stone, iron ingot or diamond) and type the command. Then punch any item you want to lock.
+Note that while you are in this mode
+#- you cannot use doors, pressure plates or trapdoors.
+
+§l/ctf§r
+Godmode for reinforcing.
+Hold your chose reinforcement material (stone, iron ingot or diamond) in your hand, type the command and then lay a block.
+#- You will get a confirmation message in the chat box telling you what item you are reinforcing with. 
+This mode automatically depletes the reinforcement material from your inventory as you place your building blocks. It will warn you once your 
+#- reinforcement material runs out, and will turn off the /ctf mode.
+
+This mode is by far the best for building. This is the one that you use 90% of the time. 
+So start smelting your cobble!
+#- §l/ctb
+§rThis command allows you to break your own reinforcements. Use it to remove or change parts of your builds.
+
+Chests and hoppers will require two breaks to remove. The first break removes only the reinforcement material.
+#- §l/cti
+§rThis command enters you into 'Info Mode'.
+Using this you can left click punch blocks to inspect them for reinforcements. 
+Useful for checking the status of a reinforcement. 
+As a reinfocement is broken it will pass through stages of
+#- health.
+Excellently - Top level, either untouched or near perfect health
+Well - Good level of reinforcement, between 50%-75% remaining.
+Decently - Get worried now, 25%-50% remaining.
+Poor - Uh oh, 0-25% left.
+#- §lTips and Tricks
+§r
+When placing a chest use /ctf and create a double chest. The chest will consume 2 lots of the reinforcement material and will be 'double locked'. This means that to gain access to either half of the chest both 
+#- reinforcements will need to be broken.
+3600 breaks to steal your valuables?!
+
+If you place Carpet onto a block using the /ctf command, and then wash the carpet away using water the block the carpet was in will retain its reinforcement.
+#- This is useful for reinforcing materials like Ice, that aren't normally reinforceable.
+
+Do not reinforce redstone dust. It can be washed away with water. Instead box your workings in to keep them safe.
+#- Use /cto to turn off all other Citadel modes. Useful for swapping between /ctf and /ctr.
+
+
+#- For a full list of all the available commands visit
+http://www.reddit.com/r/Civcraft/comments/y1rkd/citadel_20_commands/
+
+
+Safe travels friend, may the Gods favour your path. Whichever one you chose!
+#- 
